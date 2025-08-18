@@ -143,15 +143,23 @@ map.on('load', () => {
     addJourneyData(map);
 });
 
-// Event listener for the style switcher
-const layerToggles = document.getElementById('map-style-switcher');
-layerToggles.addEventListener('change', (e) => {
-    const newStyle = e.target.value;
-    map.setStyle(mapStyles[newStyle]);
-});
-
 // Re-add sources and layers after a style change
 map.on('style.load', () => {
     if (map.getLayer('points-layer')) return; // Prevents re-adding if not needed
     addJourneyData(map);
+});
+
+const styleToggleButton = document.getElementById('style-toggle-btn');
+const radioGroup = document.querySelector('.radio-group');
+
+styleToggleButton.addEventListener('click', () => {
+    radioGroup.classList.toggle('hidden');
+});
+
+// Event listener for the style switcher
+const layerToggles = document.querySelector('.radio-group');
+layerToggles.addEventListener('change', (e) => {
+    const newStyle = e.target.value;
+    map.setStyle(mapStyles[newStyle]);
+    radioGroup.classList.add('hidden'); // Collapse the menu after a selection
 });

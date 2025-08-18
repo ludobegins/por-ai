@@ -17,9 +17,11 @@
         <p>Jornada de bike e barco de Natal até ...?</p>
     </header>
 
-    <div id="map-style-switcher" class="map-overlay top right">
-        <label class="switch-label">Map style:</label>
-        <div class="radio-group">
+    <div id="map-style-switcher" class="map-overlay">
+        <button id="style-toggle-btn" class="style-toggle-btn">
+            <span class="btn-icon">🗺️</span>
+        </button>
+        <div class="radio-group hidden">
             <input type="radio" id="outdoors" name="rtoggle" value="outdoors-v12" checked="checked">
             <label for="outdoors">Outdoors</label>
             <input type="radio" id="dark" name="rtoggle" value="dark-v11">

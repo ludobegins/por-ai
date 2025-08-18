@@ -67,101 +67,83 @@ header p {
     color: #555;
 }
 
-/* Styling for the new map style switcher */
+/* General styling for the new widget container */
 .map-overlay {
-    font-family: sans-serif;
+    position: fixed; /* Use fixed positioning for mobile to keep it in place while scrolling */
+    bottom: 20px;
+    right: 20px;
+    z-index: 2;
+}
+
+/* Style for the circular toggle button */
+.style-toggle-btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    background-color: #007cbf;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+.style-toggle-btn:hover {
+    transform: scale(1.05);
+}
+
+/* Style for the expanded options menu */
+.radio-group {
     position: absolute;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    bottom: 60px; /* Position above the button */
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.95);
     padding: 10px;
-    z-index: 2; /* Ensure it's above the map */
+    border-radius: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
-.map-overlay.top {
-    top: 10px;
+/* Initially hide the radio group using a class */
+.radio-group.hidden {
+    display: none;
 }
 
-.map-overlay.right {
-    right: 10px;
-}
-
-.map-overlay label {
-    display: block;
+/* Individual label styling */
+.radio-group label {
     font-size: 0.9em;
     font-weight: bold;
-    margin-bottom: 5px;
-}
-
-.map-overlay .radio-group input {
-    margin-right: 5px;
-}
-
-.map-overlay .radio-group label {
-    display: inline-block;
-    font-weight: normal;
-    font-size: 0.9em;
+    color: #333;
+    padding: 8px 15px;
+    border-radius: 20px;
     cursor: pointer;
-    padding: 5px;
-    border-radius: 4px;
     transition: background-color 0.2s;
 }
 
-.map-overlay .radio-group label:hover {
-    background-color: #f0f0f0;
+/* Hide the default radio button circle and highlight the selected label */
+.radio-group input[type="radio"] {
+    display: none;
 }
 
-/* Media query for screens up to 600px wide (typical mobile portrait) */
-@media (max-width: 600px) {
+.radio-group input[type="radio"]:checked + label {
+    background-color: #007cbf;
+    color: white;
+}
 
-    /* Use flexbox to stack the header and switcher correctly */
-    body {
-        display: flex;
-        flex-direction: column;
-        height: 100vh;
+/* Animation for expanding the options */
+@keyframes expand-options {
+    from {
+        transform: scale(0);
+        opacity: 0;
     }
-
-    /* Header styling for mobile */
-    header {
-        position: static;
-        width: auto;
-        margin: 10px;
-        padding: 15px;
-        text-align: center;
+    to {
+        transform: scale(1);
+        opacity: 1;
     }
-
-    /* Style switcher for a compact layout on mobile */
-    #map-style-switcher {
-        position: static;
-        width: auto;
-        margin: 0 10px 10px 10px;
-        padding: 10px;
-    }
-
-    .map-overlay label {
-        display: none; /* Hide the "Choose map style:" label to save space */
-    }
-
-    .map-overlay .radio-group label {
-        padding: 5px 8px; /* Reduce padding for smaller buttons */
-        font-size: 0.8em; /* Smaller font size */
-    }
-
-    .map-overlay .radio-group {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 5px;
-    }
-
-    /* Map container to fill the remaining screen space */
-    #map {
-        position: relative; /* Change to relative or leave as absolute with a top value */
-        top: auto;
-        bottom: auto;
-        flex-grow: 1; /* This will make the map fill the remaining vertical space */
-        width: 100%;
-        height: 100%; /* Ensure it takes up the full flex container height */
-    }
-
 }
