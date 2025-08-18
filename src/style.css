@@ -1,4 +1,3 @@
-/* Basic reset and body styling */
 body {
     margin: 0;
     padding: 0;
@@ -6,21 +5,19 @@ body {
     color: #333;
 }
 
-/* Map container should fill the entire screen */
 #map {
     position: absolute;
     top: 0;
     bottom: 0;
     width: 100%;
-    z-index: 1; /* Keep map behind the header */
+    z-index: 1;
 }
 
-/* Header styling */
 header {
     position: absolute;
     top: 10px;
     left: 10px;
-    z-index: 2; /* Place header above the map */
+    z-index: 2;
     background-color: rgba(255, 255, 255, 0.85);
     padding: 10px 20px;
     border-radius: 8px;
@@ -37,7 +34,6 @@ header p {
     font-size: 0.9em;
 }
 
-/* Styling for Mapbox popups */
 .mapboxgl-popup {
     max-width: 250px;
 }
@@ -67,15 +63,13 @@ header p {
     color: #555;
 }
 
-/* General styling for the new widget container */
 .map-overlay {
-    position: fixed; /* Use fixed positioning for mobile to keep it in place while scrolling */
+    position: fixed;
     bottom: 20px;
     right: 20px;
     z-index: 2;
 }
 
-/* Style for the circular toggle button */
 .style-toggle-btn {
     width: 50px;
     height: 50px;
@@ -96,10 +90,9 @@ header p {
     transform: scale(1.05);
 }
 
-/* Style for the expanded options menu */
 .radio-group {
     position: absolute;
-    bottom: 60px; /* Position above the button */
+    bottom: 60px;
     right: 0;
     background-color: rgba(255, 255, 255, 0.95);
     padding: 10px;
@@ -110,12 +103,10 @@ header p {
     gap: 10px;
 }
 
-/* Initially hide the radio group using a class */
 .radio-group.hidden {
     display: none;
 }
 
-/* Individual label styling */
 .radio-group label {
     font-size: 0.9em;
     font-weight: bold;
@@ -126,7 +117,6 @@ header p {
     transition: background-color 0.2s;
 }
 
-/* Hide the default radio button circle and highlight the selected label */
 .radio-group input[type="radio"] {
     display: none;
 }
@@ -136,7 +126,6 @@ header p {
     color: white;
 }
 
-/* Animation for expanding the options */
 @keyframes expand-options {
     from {
         transform: scale(0);
