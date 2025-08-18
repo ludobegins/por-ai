@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.2094, -5.7945]
+      },
+      "properties": {
+        "place_name": "Natal, RN, Brasil",
+        "arrival_date": "15-09-2025",
+        "transport_to_here": "start",
+        "notes": "A aventura começa!"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.4601, -5.2017]
+      },
+      "properties": {
+        "place_name": "Touros, RN, Brasil",
+        "arrival_date": "17-09-2025",
+        "transport_to_here": "bicycle",
+        "notes": "Bela costa do RN."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.3519, -4.7144]
+      },
+      "properties": {
+        "place_name": "Icapuí, CE, Brasil",
+        "arrival_date": "24-09-2025",
+        "transport_to_here": "bicycle",
+        "notes": "E se eu me empolgar e quiser escrever um textinho maior, como vai ficar, será que vai ficar escroto ou até que dá pra ficar maneirinho, tipo contar que eu encontrei uma pessoa interessante e acampei no quintal do fulaninho e comi uma macarronada com alho bem gostosa...???"
+      }
+    }
+  ]
+}

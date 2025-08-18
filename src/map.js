@@ -4,10 +4,15 @@ mapboxgl.accessToken = MAPBOX_ACCESS_TOKEN;
 const map = new mapboxgl.Map({
     container: 'map', // container ID
     style: 'mapbox://styles/mapbox/outdoors-v12', // A beautiful satellite-streets style
-    center: [-55, -10], // Initial center point of the map [lng, lat]
-    zoom: 3.5, // Initial zoom level
+    center: [-47, -4], // Initial center point of the map [lng, lat]
+    zoom: 3, // Initial zoom level
     pitch: 45,   // Initial pitch in degrees to show the 3D effect
-    bearing: -17.6 // Initial bearing in degrees
+    bearing: -17.6, // Initial bearing in degrees
+    fog: {
+        'range': [-1, 2], // The distance range where fog starts and ends
+        'color': '#ffffff', // The color of the fog (white)
+        'horizon-blend': 0.3 // A small blend at the horizon for a smoother transition
+    }
 });
 
 const mapStyles = {
@@ -26,7 +31,7 @@ function addJourneyData(map) {
                 'maxzoom': 14
             });
         }
-    map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
+    map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 2 });
 
     // Fetch the GeoJSON data
     fetch('data.geojson')
@@ -135,7 +140,7 @@ function addJourneyData(map) {
 
                 const popupContent = `
                     <h3>${properties.place_name}</h3>
-                    <strong class="popup-date">Arrived: ${properties.arrival_date}</strong>
+                    <strong class="popup-date">Chegada: ${properties.arrival_date}</strong>
                     <p>${properties.notes}</p>
                 `;
 
