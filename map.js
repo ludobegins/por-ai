@@ -18,12 +18,14 @@ const mapStyles = {
 
 function addJourneyData(map) {
     // Add 3D terrain
-    map.addSource('mapbox-dem', {
-        'type': 'raster-dem',
-        'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
-        'tileSize': 512,
-        'maxzoom': 14
-    });
+    if (!map.getSource('mapbox-dem')) {
+            map.addSource('mapbox-dem', {
+                'type': 'raster-dem',
+                'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+                'tileSize': 512,
+                'maxzoom': 14
+            });
+        }
     map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
 
     // Fetch the GeoJSON data
@@ -31,23 +33,27 @@ function addJourneyData(map) {
         .then(response => response.json())
         .then(data => {
             // Add the points (your stops) to the map
-            map.addSource('journey-points', {
-                type: 'geojson',
-                data: data
-            });
+            if (!map.getSource('journey-points')) {
+                map.addSource('journey-points', {
+                    type: 'geojson',
+                    data: data
+                });
+            }
 
             // Layer for the points (as circles)
-            map.addLayer({
-                id: 'points-layer',
-                type: 'circle',
-                source: 'journey-points',
-                paint: {
-                    'circle-radius': 6,
-                    'circle-stroke-width': 2,
-                    'circle-color': '#007cbf',
-                    'circle-stroke-color': 'white'
-                }
-            });
+            if (!map.getLayer('points-layer')){
+                map.addLayer({
+                    id: 'points-layer',
+                    type: 'circle',
+                    source: 'journey-points',
+                    paint: {
+                        'circle-radius': 6,
+                        'circle-stroke-width': 2,
+                        'circle-color': '#007cbf',
+                        'circle-stroke-color': 'white'
+                    }
+                });
+            }
 
             // --- Create and add the route lines ---
             const routeLines = [];
@@ -72,40 +78,44 @@ function addJourneyData(map) {
             }
 
             // Add the lines source
-            map.addSource('route-lines', {
-                type: 'geojson',
-                data: {
-                    type: 'FeatureCollection',
-                    features: routeLines
-                }
-            });
+            if (!map.getSource('route-lines')){
+                map.addSource('route-lines', {
+                    type: 'geojson',
+                    data: {
+                        type: 'FeatureCollection',
+                        features: routeLines
+                    }
+                });
+            }
 
             // Add the lines layer with conditional styling
-            map.addLayer({
-                id: 'lines-layer',
-                type: 'line',
-                source: 'route-lines',
-                layout: {
-                    'line-join': 'round',
-                    'line-cap': 'round'
-                },
-                paint: {
-                    'line-width': 3,
-                    'line-color': [
-                        'match',
-                        ['get', 'transport'],
-                        'bicycle', '#ff7e5f',
-                        'boat', '#00a8cc',
-                        /* default */ '#ff7e5f'
-                    ],
-                    'line-dasharray': [
-                        'case',
-                        ['==', ['get', 'transport'], 'boat'],
-                        ['literal', [2, 2]],
-                        ['literal', []]
-                    ]
-                }
-            });
+            if (!map.getLayer('lines-layer')){
+                map.addLayer({
+                    id: 'lines-layer',
+                    type: 'line',
+                    source: 'route-lines',
+                    layout: {
+                        'line-join': 'round',
+                        'line-cap': 'round'
+                    },
+                    paint: {
+                        'line-width': 3,
+                        'line-color': [
+                            'match',
+                            ['get', 'transport'],
+                            'bicycle', '#ff7e5f',
+                            'boat', '#00a8cc',
+                            /* default */ '#ff7e5f'
+                        ],
+                        'line-dasharray': [
+                            'case',
+                            ['==', ['get', 'transport'], 'boat'],
+                            ['literal', [2, 2]],
+                            ['literal', []]
+                        ]
+                    }
+                });
+            }
 
             // --- Interactivity: Popups and Hover Effect ---
             const popup = new mapboxgl.Popup({
