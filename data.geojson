@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.2094, -5.7945]
+      },
+      "properties": {
+        "place_name": "Natal, Brazil",
+        "arrival_date": "2025-08-18",
+        "transport_to_here": "start",
+        "notes": "The adventure begins! Ready to head south along the coast."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.8338, -7.1195]
+      },
+      "properties": {
+        "place_name": "João Pessoa, Brazil",
+        "arrival_date": "2025-08-22",
+        "transport_to_here": "bicycle",
+        "notes": "First major stop. The ride along the coast was beautiful."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-34.8829, -8.0579]
+      },
+      "properties": {
+        "place_name": "Recife, Brazil",
+        "arrival_date": "2025-08-26",
+        "transport_to_here": "bicycle",
+        "notes": "Exploring the 'Venice of Brazil'. So much history here."
+      }
+    }
+  ]
+}
