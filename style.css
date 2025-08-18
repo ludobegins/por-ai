@@ -66,3 +66,47 @@ header p {
     margin-bottom: 5px;
     color: #555;
 }
+
+/* Styling for the new map style switcher */
+.map-overlay {
+    font-family: sans-serif;
+    position: absolute;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    padding: 10px;
+    z-index: 2; /* Ensure it's above the map */
+}
+
+.map-overlay.top {
+    top: 10px;
+}
+
+.map-overlay.right {
+    right: 10px;
+}
+
+.map-overlay label {
+    display: block;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.map-overlay .radio-group input {
+    margin-right: 5px;
+}
+
+.map-overlay .radio-group label {
+    display: inline-block;
+    font-weight: normal;
+    font-size: 0.9em;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.map-overlay .radio-group label:hover {
+    background-color: #f0f0f0;
+}

@@ -10,7 +10,13 @@ const map = new mapboxgl.Map({
     bearing: -17.6 // Initial bearing in degrees
 });
 
-map.on('load', () => {
+const mapStyles = {
+    'outdoors-v12': 'mapbox://styles/mapbox/outdoors-v12',
+    'dark-v11': 'mapbox://styles/mapbox/dark-v11',
+    'satellite-streets-v12': 'mapbox://styles/mapbox/satellite-streets-v12'
+};
+
+function addJourneyData(map) {
     // Add 3D terrain
     map.addSource('mapbox-dem', {
         'type': 'raster-dem',
@@ -42,7 +48,7 @@ map.on('load', () => {
                     'circle-stroke-color': 'white'
                 }
             });
-            
+
             // --- Create and add the route lines ---
             const routeLines = [];
             const points = data.features;
@@ -64,7 +70,7 @@ map.on('load', () => {
                     }
                 });
             }
-            
+
             // Add the lines source
             map.addSource('route-lines', {
                 type: 'geojson',
@@ -85,44 +91,38 @@ map.on('load', () => {
                 },
                 paint: {
                     'line-width': 3,
-                    // Style the line based on the 'transport' property
                     'line-color': [
                         'match',
                         ['get', 'transport'],
-                        'bicycle', '#ff7e5f', // Color for bicycle
-                        'boat', '#00a8cc',      // Color for boat
+                        'bicycle', '#ff7e5f',
+                        'boat', '#00a8cc',
                         /* default */ '#ff7e5f'
                     ],
                     'line-dasharray': [
                         'case',
                         ['==', ['get', 'transport'], 'boat'],
-                        ['literal', [2, 2]], // Dashed line for boat
-                        ['literal', []]      // Solid line for others
+                        ['literal', [2, 2]],
+                        ['literal', []]
                     ]
                 }
             });
 
             // --- Interactivity: Popups and Hover Effect ---
-
-            // Create a popup, but don't add it to the map yet.
             const popup = new mapboxgl.Popup({
                 closeButton: false,
                 closeOnClick: false
             });
 
             map.on('mouseenter', 'points-layer', (e) => {
-                map.getCanvas().style.cursor = 'pointer'; // Change cursor to a pointer
+                map.getCanvas().style.cursor = 'pointer';
 
                 const coordinates = e.features[0].geometry.coordinates.slice();
                 const properties = e.features[0].properties;
 
-                // Ensure that if the map is zoomed out such that multiple
-                // copies of the feature are visible, the popup appears
-                // over the copy being pointed to.
                 while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                     coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
                 }
-                
+
                 const popupContent = `
                     <h3>${properties.place_name}</h3>
                     <strong class="popup-date">Arrived: ${properties.arrival_date}</strong>
@@ -137,4 +137,21 @@ map.on('load', () => {
                 popup.remove();
             });
         });
+}
+
+map.on('load', () => {
+    addJourneyData(map);
+});
+
+// Event listener for the style switcher
+const layerToggles = document.getElementById('map-style-switcher');
+layerToggles.addEventListener('change', (e) => {
+    const newStyle = e.target.value;
+    map.setStyle(mapStyles[newStyle]);
+});
+
+// Re-add sources and layers after a style change
+map.on('style.load', () => {
+    if (map.getLayer('points-layer')) return; // Prevents re-adding if not needed
+    addJourneyData(map);
 });

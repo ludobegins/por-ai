@@ -17,6 +17,18 @@
         <p>Jornada de bike e barco de Natal até ...?</p>
     </header>
 
+    <div id="map-style-switcher" class="map-overlay top right">
+        <label class="switch-label">Map style:</label>
+        <div class="radio-group">
+            <input type="radio" id="outdoors" name="rtoggle" value="outdoors-v12" checked="checked">
+            <label for="outdoors">Outdoors</label>
+            <input type="radio" id="dark" name="rtoggle" value="dark-v11">
+            <label for="dark">Dark</label>
+            <input type="radio" id="satellite" name="rtoggle" value="satellite-streets-v12">
+            <label for="satellite">Satellite</label>
+        </div>
+    </div>
+
     <div id="map"></div>
 
     <script src="https://api.mapbox.com/mapbox-gl-js/v3.4.0/mapbox-gl.js"></script>
