@@ -5,7 +5,9 @@ on:
     branches: [ main ]
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
@@ -17,9 +19,19 @@ jobs:
       - name: Create config.js
         run: |
           echo "const MAPBOX_ACCESS_TOKEN = '${{ secrets.MAPBOX_ACCESS_TOKEN }}';" > config.js
-          
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          path: ./
+
+  deploy-pages:
+    needs: deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
