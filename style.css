@@ -110,3 +110,58 @@ header p {
 .map-overlay .radio-group label:hover {
     background-color: #f0f0f0;
 }
+
+/* Media query for screens up to 600px wide (typical mobile portrait) */
+@media (max-width: 600px) {
+
+    /* Use flexbox to stack the header and switcher correctly */
+    body {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    /* Header styling for mobile */
+    header {
+        position: static;
+        width: auto;
+        margin: 10px;
+        padding: 15px;
+        text-align: center;
+    }
+
+    /* Style switcher for a compact layout on mobile */
+    #map-style-switcher {
+        position: static;
+        width: auto;
+        margin: 0 10px 10px 10px;
+        padding: 10px;
+    }
+
+    .map-overlay label {
+        display: none; /* Hide the "Choose map style:" label to save space */
+    }
+
+    .map-overlay .radio-group label {
+        padding: 5px 8px; /* Reduce padding for smaller buttons */
+        font-size: 0.8em; /* Smaller font size */
+    }
+
+    .map-overlay .radio-group {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 5px;
+    }
+
+    /* Map container to fill the remaining screen space */
+    #map {
+        position: relative; /* Change to relative or leave as absolute with a top value */
+        top: auto;
+        bottom: auto;
+        flex-grow: 1; /* This will make the map fill the remaining vertical space */
+        width: 100%;
+        height: 100%; /* Ensure it takes up the full flex container height */
+    }
+
+}
