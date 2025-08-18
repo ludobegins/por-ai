@@ -39,6 +39,19 @@
         "transport_to_here": "bicycle",
         "notes": "E se eu me empolgar e quiser escrever um textinho maior, como vai ficar, será que vai ficar escroto ou até que dá pra ficar maneirinho, tipo contar que eu encontrei uma pessoa interessante e acampei no quintal do fulaninho e comi uma macarronada com alho bem gostosa...???"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-40.5139712, -2.8404023]
+      },
+      "properties": {
+        "place_name": "Jericoacoara, CE, Brasil",
+        "arrival_date": "25-09-2025",
+        "transport_to_here": "bicycle",
+        "notes": "Teste editando do celular"
+      }
     }
   ]
 }
