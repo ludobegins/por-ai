@@ -10,55 +10,10 @@
       "properties": {
         "place_name_pt": "Natal, RN, Brasil",
         "place_name_en": "Natal, RN, Brazil",
-        "arrival_date": "15-09-2025",
+        "arrival_date": "31/08/2025",
         "transport_to_here": "start",
-        "notes_pt": "A aventura começa!",
-        "notes_en": "The adventure begins!"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-35.4601, -5.2017]
-      },
-      "properties": {
-        "place_name_pt": "Touros, RN, Brasil",
-        "place_name_en": "Touros, RN, Brazil",
-        "arrival_date": "17-09-2025",
-        "transport_to_here": "bicycle",
-        "notes_pt": "Bela costa do RN.",
-        "notes_en": "Beautiful coast of RN."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-37.3519, -4.7144]
-      },
-      "properties": {
-        "place_name_pt": "Icapuí, CE, Brasil",
-        "place_name_en": "Icapuí, CE, Brazil",
-        "arrival_date": "24-09-2025",
-        "transport_to_here": "bicycle",
-        "notes_pt": "E se eu me empolgar e quiser escrever um textinho maior, como vai ficar, será que vai ficar escroto ou até que dá pra ficar maneirinho, tipo contar que eu encontrei uma pessoa interessante e acampei no quintal do fulaninho e comi uma macarronada com alho bem gostosa...???",
-        "notes_en": "What if I get excited and want to write a longer text, how will it look, will it be weird or can it even be cool, like telling that I met an interesting person and camped in someone's backyard and ate a delicious pasta with garlic...???"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-40.5139712, -2.8404023]
-      },
-      "properties": {
-        "place_name_pt": "Jericoacoara, CE, Brasil",
-        "place_name_en": "Jericoacoara, CE, Brazil",
-        "arrival_date": "25-09-2025",
-        "transport_to_here": "bicycle",
-        "notes_pt": "Teste editando do celular",
-        "notes_en": "Test editing from the phone"
+        "notes_pt": "Tempo em família, aniversário da vó e do Pedrinho, preparativos pra viagem e começo da aventura!",
+        "notes_en": "Family time, grandma and Pedrinho's birthdays, travel preparations, and the start of the adventure!"
       }
     }
   ]
