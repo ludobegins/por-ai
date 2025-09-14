@@ -128,10 +128,15 @@ function addJourneyData(map) {
                     coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
                 }
 
+                const langSuffix = currentLanguage === 'pt-br' ? '_pt' : '_en';
+                const place_name = properties['place_name' + langSuffix] || properties['place_name_pt'];
+                const notes = properties['notes' + langSuffix] || properties['notes_pt'];
+                const arrivalLabel = translations[currentLanguage]['arrival-label'];
+
                 const popupContent = `
-                    <h3>${properties.place_name}</h3>
-                    <strong class="popup-date">Chegada: ${properties.arrival_date}</strong>
-                    <p>${properties.notes}</p>
+                    <h3>${place_name}</h3>
+                    <strong class="popup-date">${arrivalLabel}: ${properties.arrival_date}</strong>
+                    <p>${notes}</p>
                 `;
 
                 popup.setLngLat(coordinates).setHTML(popupContent).addTo(map);
@@ -149,7 +154,6 @@ map.on('load', () => {
 });
 
 map.on('style.load', () => {
-    if (map.getLayer('points-layer')) return;
     addJourneyData(map);
 });
 

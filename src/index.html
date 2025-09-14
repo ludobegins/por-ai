@@ -14,9 +14,23 @@
 <body>
 
     <header>
-        <h1>Ludo por aí ☀️🚲</h1>
-        <p>Jornada de bike e barco de Natal até ...?</p>
+        <h1 data-i18n-key="title">Ludo por aí ☀️🚲</h1>
+        <p data-i18n-key="subtitle">Jornada de bike e barco de Natal até ...?</p>
     </header>
+
+    <div id="language-switcher" class="map-overlay-top-right">
+        <button id="language-toggle-btn" class="style-toggle-btn">
+            <span class="btn-icon">🌐</span>
+        </button>
+        <div class="language-options hidden">
+            <button id="lang-pt-br" class="lang-btn active">
+                <img src="images/br.svg" alt="Bandeira do Brasil" class="lang-flag">
+            </button>
+            <button id="lang-en" class="lang-btn">
+                <img src="images/gb.svg" alt="United Kingdom Flag" class="lang-flag">
+            </button>
+        </div>
+    </div>
 
     <div id="map-style-switcher" class="map-overlay">
         <button id="style-toggle-btn" class="style-toggle-btn">
@@ -24,20 +38,19 @@
         </button>
         <div class="radio-group hidden">
             <input type="radio" id="outdoors" name="rtoggle" value="outdoors-v12" checked="checked">
-            <label for="outdoors">Outdoors</label>
+            <label for="outdoors" data-i18n-key="basemap-outdoors">Outdoors</label>
             <input type="radio" id="dark" name="rtoggle" value="dark-v11">
-            <label for="dark">Dark</label>
+            <label for="dark" data-i18n-key="basemap-dark">Dark</label>
             <input type="radio" id="satellite" name="rtoggle" value="satellite-streets-v12">
-            <label for="satellite">Satellite</label>
+            <label for="satellite" data-i18n-key="basemap-satellite">Satellite</label>
         </div>
     </div>
 
     <div id="map"></div>
 
     <script src="https://api.mapbox.com/mapbox-gl-js/v3.4.0/mapbox-gl.js"></script>
-
     <script src="config.js"></script>
-
+    <script src="i18n.js"></script>
     <script src="map.js"></script>
 
 </body>

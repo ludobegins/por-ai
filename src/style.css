@@ -22,6 +22,7 @@ header {
     padding: 10px 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    min-width: 280px;
 }
 
 header h1 {
@@ -135,4 +136,59 @@ header p {
         transform: scale(1);
         opacity: 1;
     }
+}
+
+.map-overlay-top-right {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.language-options {
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 8px;
+    border-radius: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.language-options.hidden {
+    display: none;
+}
+
+.lang-btn {
+    border: none;
+    background-color: transparent;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.2s;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid transparent;
+}
+
+.lang-btn:hover {
+    transform: scale(1.1);
+}
+
+.lang-btn.active {
+    border-color: #007cbf;
+}
+
+.lang-flag {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
