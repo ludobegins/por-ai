@@ -133,9 +133,18 @@ function addJourneyData(map) {
                 const notes = properties['notes' + langSuffix] || properties['notes_pt'];
                 const arrivalLabel = translations[currentLanguage]['arrival-label'];
 
+                let kmInfoHTML = '';
+                if (properties.hasOwnProperty('km_traveled') && typeof properties.km_traveled === 'number') {
+                    const kmLabel = translations[currentLanguage]['km-label'];
+                    if (properties.km_traveled > 0) {
+                    kmInfoHTML = `<span class="popup-km">${kmLabel}: ${properties.km_traveled} km</span>`;
+                    }
+                }
+
                 const popupContent = `
                     <h3>${place_name}</h3>
                     <strong class="popup-date">${arrivalLabel}: ${properties.arrival_date}</strong>
+                    ${kmInfoHTML}
                     <p>${notes}</p>
                 `;
 
