@@ -165,15 +165,30 @@ header p {
 .lang-btn {
     border: none;
     background-color: transparent;
-    color: #333;
-    font-weight: bold;
-    padding: 8px 12px;
-    border-radius: 20px;
+    border-radius: 50%;
     cursor: pointer;
-    transition: background-color 0.2s, color 0.2s;
+    transition: background-color 0.2s, transform 0.2s;
+    width: 44px;
+    height: 44px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid transparent;
+}
+
+.lang-btn:hover {
+    transform: scale(1.1);
 }
 
 .lang-btn.active {
-    background-color: #007cbf;
-    color: white;
+    border-color: #007cbf;
+}
+
+.lang-flag {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
