@@ -15,6 +15,8 @@ let currentLanguage = 'pt-br';
 
 function setLanguage(lang) {
     currentLanguage = lang;
+    localStorage.setItem('preferredLanguage', lang);
+
     document.querySelectorAll('[data-i18n-key]').forEach(element => {
         const key = element.getAttribute('data-i18n-key');
         element.textContent = translations[lang][key];
@@ -42,5 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
         langOptions.classList.add('hidden');
     });
 
-    setLanguage('pt-br');
+    const savedLang = localStorage.getItem('preferredLanguage') || 'pt-br';
+    setLanguage(savedLang);
 });
