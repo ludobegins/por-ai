@@ -3,11 +3,17 @@ const translations = {
         'title': 'Ludo por aí ☀️🚲',
         'subtitle': 'A journey by bike and boat from Natal to... ?',
         'arrival-label': 'Arrival',
+        'basemap-outdoors': 'Outdoors',
+        'basemap-dark': 'Dark',
+        'basemap-satellite': 'Satellite',
     },
     'pt-br': {
         'title': 'Ludo por aí ☀️🚲',
         'subtitle': 'Jornada de bike e barco de Natal até ...?',
         'arrival-label': 'Chegada',
+        'basemap-outdoors': 'Natureza',
+        'basemap-dark': 'Escuro',
+        'basemap-satellite': 'Satélite',
     }
 };
 
