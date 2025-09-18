@@ -16,6 +16,22 @@
         "notes_pt": "Tempo em família, aniversário da vó e do Pedrinho, preparativos pra viagem e começo da aventura!",
         "notes_en": "Family time, grandma and Pedrinho's birthdays, travel preparations, and the start of the adventure!"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-35.51724, -5.15147]
+      },
+      "properties": {
+        "place_name_pt": "Cajueiro, RN, Brasil",
+        "place_name_en": "Cajueiro, RN, Brazil",
+        "arrival_date": "17/09/2025",
+        "transport_to_here": "bicycle",
+        "km_traveled": 111,
+        "notes_pt": "Primeiro dia da viagem foi um sucesso! Belas paisagens do litoral norte do RN, uma travessia de balsa, um trecho dificil na areia fofa e os últimos 30 km de BR 101 até o fim dela. Bati um PF em Cajueiro e achei um lugar seguro pra acampar na varanda de uma casa, de frente pro mar. Deu pra nadar no mar, tomar uma ducha e lavar roupa. 20h já tava deitado pra dormir",
+        "notes_en": "The first day of the trip was a success! Beautiful scenery on the northern coast of Rio Grande do Norte, a ferry crossing, a difficult stretch on soft sand, and the last 30 km on the BR 101 highway to the end. I had a meal in Cajueiro and found a safe place to camp on the porch of a house facing the sea. I was able to swim in the sea, take a shower, and wash my clothes. By 8 pm, I was already lying down to sleep."
+      }
+}
   ]
 }
