@@ -48,6 +48,22 @@
         "notes_pt": "Passei por São Miguel do Gostoso, e depois de Tourinhos o primeiro trecho pela areia da praia! Na maré seca, entre o mar e as eólicas. 30 km de estrada de terra ruim pesou, enfim em Pedra Grande almocei na Dona Marta, descansei e peguei o trecho final de asfalto com vento nas costas até Caiçara do Norte, onde me indicaram um local seguro pra acampar. Mergulho no mar e belo pôr do sol. Hamilton desenrolou uma mangueira pra eu tomar banho. Fiz minha janta, meu acampamentinho e conversei com umas crianças que tavam ali brincando, comédias.",
         "notes_en": "I passed through São Miguel do Gostoso, and after Tourinhos, the first stretch along the beach sand! At low tide, between the sea and the wind turbines. 30 km of rough dirt road took its toll, but finally in Pedra Grande I had lunch at Dona Marta's, rested and took the final stretch of asphalt with the wind at my back to Caiçara do Norte, where they recommended a safe place to camp. I went for a swim in the sea and enjoyed a beautiful sunset. Hamilton unrolled a hose so I could take a shower. I made my dinner, set up my little camp and chatted with some children who were playing there, having fun."
       }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.2764082, -5.0906152]
+      },
+      "properties": {
+        "place_name_pt": "Galinhos, RN, Brasil",
+        "place_name_en": "Galinhos, RN, Brazil",
+        "arrival_date": "19/09/2025",
+        "transport_to_here": "bicycle",
+        "km_traveled": 212,
+        "notes_pt": "25 km de pedal na areia na maré seca, muito bom! Passando por um trecho deserto, depois Galos e enfim Galinhos, um dos pequenos paraísos do RN. Passei a maior parte do dia, dei uma volta, curti a praia, almocei, vegetei, e desenrolei um barco pra ir pra Guamaré no fim do dia.",
+        "notes_en": "25 km of pedalling on the sand at low tide, very nice! Passing through a deserted stretch, then Galos and finally Galinhos, one of RN's little paradises. I spent most of the day walking around, enjoying the beach, having lunch, 'vegetating' and catching a boat to Guamaré at the end of the day."
+      }
 }
   ]
 }
