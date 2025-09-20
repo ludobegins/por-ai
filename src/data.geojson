@@ -64,6 +64,22 @@
         "notes_pt": "25 km de pedal na areia na maré seca, muito bom! Passando por um trecho deserto, depois Galos e enfim Galinhos, um dos pequenos paraísos do RN. Passei a maior parte do dia, dei uma volta, curti a praia, almocei, vegetei, e desenrolei um barco pra ir pra Guamaré no fim do dia.",
         "notes_en": "25 km of pedalling on the sand at low tide, very nice! Passing through a deserted stretch, then Galos and finally Galinhos, one of RN's little paradises. I spent most of the day walking around, enjoying the beach, having lunch, 'vegetating' and catching a boat to Guamaré at the end of the day."
       }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.3171905, -5.1074269]
+      },
+      "properties": {
+        "place_name_pt": "Guamaré, RN, Brasil",
+        "place_name_en": "Guamaré, RN, Brazil",
+        "arrival_date": "19/09/2025",
+        "transport_to_here": "boat",
+        "km_traveled": 215,
+        "notes_pt": "Lindo por do sol no barco pra Guamaré com o barqueiro Peluzio e outra menina. Chegando lá fiquei prospectando um local pra dormir, até que optei pelo coreto de uma praça,  já tava bem instalado fazendo minha massa quando um senhor, seu França, 87 anos, veio me oferecer um quarto pra dormir. O luxo, uma suíte, foi ótimo.  Gratidão seu França <3",
+        "notes_en": "Beautiful sunset on the boat to Guamaré with the boatman Peluzio and another girl. When I got there, I was looking for a place to sleep, until I opted for the bandstand in a square. I was already well settled into my pasta when a man, Seu França, 87, offered me a room to sleep in. The luxury, a suite, was great.  Thank you, Mr França <3"
+      }
 }
   ]
 }
