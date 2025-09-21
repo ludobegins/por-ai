@@ -80,6 +80,22 @@
         "notes_pt": "Lindo por do sol no barco pra Guamaré com o barqueiro Peluzio e outra menina. Chegando lá fiquei prospectando um local pra dormir, até que optei pelo coreto de uma praça,  já tava bem instalado fazendo minha massa quando um senhor, seu França, 87 anos, veio me oferecer um quarto pra dormir. O luxo, uma suíte, foi ótimo.  Gratidão seu França <3",
         "notes_en": "Beautiful sunset on the boat to Guamaré with the boatman Peluzio and another girl. When I got there, I was looking for a place to sleep, until I opted for the bandstand in a square. I was already well settled into my pasta when a man, Seu França, 87, offered me a room to sleep in. The luxury, a suite, was great.  Thank you, Mr França <3"
       }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.8382428, -5.0005290]
+      },
+      "properties": {
+        "place_name_pt": "Praia do Rosado, RN, Brasil",
+        "place_name_en": "Rosado Beach, RN, Brazil",
+        "arrival_date": "20/09/2025",
+        "transport_to_here": "bicycle",
+        "km_traveled": 312,
+        "notes_pt": "Entrei na região produtora de sal e petróleo do RN, muitas salinas pelo caminho, ainda umas eólicas também. Alguns trechos desolados quase desérticos. Almocei e descansei em Pendências. A parte da tarde foi difícil com estrada bem ruim e alguns trechos contra o vento (mas no geral tenho que agradecer o vento pois ele costuma ajudar). Fim da tarde cheguei na praia do Rosado, no município de Porto do Mangue, onde seu Raimundo e família me receberam pra passar a noite. Dei o tradicional tibum e banho. Vento muito forte ali, a casa cheia de areia. Jantei uma sopa com a família. Achei legal que a família forma uma verdadeira comunidade de dezenas de pessoas lado a lado. Dormi na rede na varanda, foi agradável.",
+        "notes_en": "I entered the salt and oil producing region of RN, many salt flats along the way, and a few wind farms too. Some desolate, almost desert-like stretches. I had lunch and rested in Pendências. The afternoon was difficult, with very bad roads and some stretches against the wind (but in general I have the wind to thank, as it usually helps). In the late afternoon I arrived at Rosado beach, in the municipality of Porto do Mangue, where Raimundo and his family welcomed me for the night. I took the traditional swim and a shower. It was very windy there, and the house was full of sand. I had soup for dinner with the family. I thought it was nice that the family forms a real community of dozens of people side by side. I slept in the hammock on the veranda, it was nice."
+      }
 }
   ]
 }
