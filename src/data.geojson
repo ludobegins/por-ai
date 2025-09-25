@@ -112,6 +112,22 @@
         "notes_pt": "A parte da tarde foi difícil com estrada bem ruim e alguns trechos contra o vento (mas no geral tenho que agradecer o vento pois ele costuma ajudar). Fim da tarde cheguei na praia do Rosado, no município de Porto do Mangue, onde seu Raimundo e família me receberam pra passar a noite. Dei o tradicional tibum e banho. Vento muito forte ali, a casa cheia de areia. Jantei uma sopa com a família. Achei legal que a família forma uma verdadeira comunidade de dezenas de pessoas lado a lado. Dormi na rede na varanda, foi agradável.",
         "notes_en": "The afternoon was difficult, with very bad roads and some stretches against the wind (but in general I have the wind to thank, as it usually helps). In the late afternoon I arrived at Rosado beach, in the municipality of Porto do Mangue, where Raimundo and his family welcomed me for the night. I took the traditional swim and a shower. It was very windy there, and the house was full of sand. I had soup for dinner with the family. I thought it was nice that the family forms a real community of dozens of people side by side. I slept in the hammock on the veranda, it was nice."
       }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.4552210, -4.6570154]
+      },
+      "properties": {
+        "place_name_pt": "Praia do Peroba, CE, Brasil",
+        "place_name_en": "Peroba Beach, CE, Brazil",
+        "arrival_date": "21/09/2025",
+        "transport_to_here": "bicycle",
+        "km_traveled": 417,
+        "notes_pt": "Voei de manhã pra conseguir pegar a balsa de 8h30 de Areia Branca pra Grossos. Fiz uma longa pausa em Tibau, conversei com uns ciclistas que me deram coca e gelo. Primeira fronteira estadual, entrei no Ceará! Almocei no centrinho de Icapuí e cheguei de tarde na praia do Peroba, onde fui super bem recebido por uma família linda que trabalha com proteção dos peixes boi. E o espaço muito bom com bela vista pro mar. Acabei ficando umas 48h de boa, encontros potentes e aprendizados!",
+        "notes_en": "I left in the morning to catch the 8.30am ferry from Areia Branca to Grossos. I took a long break in Tibau, chatted to some cyclists who gave me coke and ice. First state border, I've entered Ceará! I had lunch in the centre of Icapuí and arrived in the afternoon at Peroba beach, where I was warmly welcomed by a lovely family who work to protect manatees. It's a very nice place with a beautiful view of the sea. I ended up staying there for 48 hours, meeting people and learning a lot!"
+      }
 }
   ]
 }
