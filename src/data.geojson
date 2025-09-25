@@ -144,6 +144,22 @@
         "notes_pt": "Dia tranquilo no Peroba, brincando com as crianças. Parti de tarde, pedalei só 2 horinhas até Canoa Quebrada, onde vi um lindo pôr do sol. Acampei nos fundos de uma barraca/bar de praia.",
         "notes_en": "A quiet day in Peroba, playing with the children. I left in the afternoon and cycled just two hours to Canoa Quebrada, where I saw a beautiful sunset. I camped at the back of a beach hut/bar."
       }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.1011757, -4.1825899]
+      },
+      "properties": {
+        "place_name_pt": "Morro Branco, CE, Brasil",
+        "place_name_en": "Morro Branco, CE, Brazil",
+        "arrival_date": "24/09/2025",
+        "transport_to_here": "bicycle",
+        "km_traveled": 548,
+        "notes_pt": "Fiquei um pouco em Canoa Quebrada, até tive uma sessão de terapia na loja de conveniência de um posto de gasolina, fui sair só umas 11h já sob o maçarico impiedoso do sol. Fui seguindo a rodovia estadual pouco interessante. Interessante foram as coisas a beira da estrada como coco 2 reais, dúzia de cajus 5 reais e por aí vai. Cheguei no fim da tarde em Morro Branco perto da praia das Fontes, casal Jairo e Nice me receberam de graça no camping deles, gratidão!",
+        "notes_en": "I stayed in Canoa Quebrada for a while, even had a therapy session in the convenience store of a petrol station, but left only at 11am, already under the merciless torch of the sun. I followed the uninteresting state road. What was interesting were the things on the side of the road like coconuts for 2 reais, a dozen cashews for 5 reais and so on. I arrived in the late afternoon in Morro Branco near Praia das Fontes. Jairo and Nice welcomed me for free at their campsite, thank you!"
+      }
 }
   ]
 }
