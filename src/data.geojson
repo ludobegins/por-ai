@@ -128,6 +128,22 @@
         "notes_pt": "Voei de manhã pra conseguir pegar a balsa de 8h30 de Areia Branca pra Grossos. Fiz uma longa pausa em Tibau, conversei com uns ciclistas que me deram coca e gelo. Primeira fronteira estadual, entrei no Ceará! Almocei no centrinho de Icapuí e cheguei de tarde na praia do Peroba, onde fui super bem recebido por uma família linda que trabalha com proteção dos peixes boi. E o espaço muito bom com bela vista pro mar. Acabei ficando umas 48h de boa, encontros potentes e aprendizados!",
         "notes_en": "I left in the morning to catch the 8.30am ferry from Areia Branca to Grossos. I took a long break in Tibau, chatted to some cyclists who gave me coke and ice. First state border, I've entered Ceará! I had lunch in the centre of Icapuí and arrived in the afternoon at Peroba beach, where I was warmly welcomed by a lovely family who work to protect manatees. It's a very nice place with a beautiful view of the sea. I ended up staying there for 48 hours, meeting people and learning a lot!"
       }
+},
+{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-37.7048699, -4.5218164]
+      },
+      "properties": {
+        "place_name_pt": "Canoa Quebrada, CE, Brasil",
+        "place_name_en": "Canoa Quebrada, CE, Brazil",
+        "arrival_date": "23/09/2025",
+        "transport_to_here": "bicycle",
+        "km_traveled": 467,
+        "notes_pt": "Dia tranquilo no Peroba, brincando com as crianças. Parti de tarde, pedalei só 2 horinhas até Canoa Quebrada, onde vi um lindo pôr do sol. Acampei nos fundos de uma barraca/bar de praia.",
+        "notes_en": "A quiet day in Peroba, playing with the children. I left in the afternoon and cycled just two hours to Canoa Quebrada, where I saw a beautiful sunset. I camped at the back of a beach hut/bar."
+      }
 }
   ]
 }
