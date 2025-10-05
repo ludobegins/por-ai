@@ -208,6 +208,22 @@
     "notes_pt": "Dia puxado porque foi uns 20 km de 'calçamento' terrível trepidando muito, e pra completar o amortecedor tava travado e eu não conseguia destravar. Em Poço Doce João e amigos muito gentis me deram sopa e coca, conversamos um pouco, até me convidaram pra almoçar mesmo mas eu não queria perder o horário da maré baixa; fiz o trecho final de Lagoinha até Flecheiras pela praia. Enfim deu pra relaxar no mar e achei um local ótimo pra acampar ali na praia mesmo.",
     "notes_en": "Tough day, as there were about 20 km of terrible cobblestone road shaking a lot, and to top it off the shock absorber was stuck and I couldn’t unlock it. In Poço Doce, João and some kind friends gave me soup and coke; we chatted for a while and they even invited me for lunch, but I didn’t want to miss the low tide. I did the final stretch from Lagoinha to Flecheiras along the beach. Finally, I got to relax in the sea and found a great spot to camp right there on the beach."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-39.9101168, -2.8803231]
+  },
+  "properties": {
+    "place_name_pt": "Ilha do Guajiru, CE, Brasil",
+    "place_name_en": "Ilha do Guajiru, CE, Brazil",
+    "arrival_date": "29/09/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 905,
+    "notes_pt": "Dia mais longo de pedal até então, 115 km, mas só no asfalto. Cheguei no fim da tarde, muita gente (muitos gringos inclusive) fazendo kite na lagoa, que na verdade é um braço de mar. Acabei armando minha rede debaixo do deck da praça, mais protegido do vento e já na areia.",
+    "notes_en": "Longest cycling day so far — 115 km, all on asphalt. I arrived in the late afternoon; lots of people (many foreigners too) were kitesurfing on the lagoon, which is actually a sea inlet. I ended up setting up my hammock under the deck at the square, sheltered from the wind and right on the sand."
+  }
 }
   ]
 }
