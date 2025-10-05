@@ -192,6 +192,22 @@
     "notes_pt": "Tirei um dia de descanso na casa de Gabi e Call, foi ótimo passar esse tempo com eles e os bichos. Inclusive, deu pra remendar primeiro pneu furado da viagem. Sábado de manhã parti, como previsto foi meio chato atravessar Fortaleza quase inteira, trânsito movimentado. Chegando no litoral ficou mais tranquilo, fui até o Pecém e fiz o trecho final até Taíba pela praia. Lindo lugar, point de kite e de surf.",
     "notes_en": "I took a rest day at Gabi and Call’s house — it was great spending time with them and the pets. I even got to patch the first flat tire of the trip. On Saturday morning I set off; as expected, crossing almost all of Fortaleza was a bit annoying due to heavy traffic. Once I reached the coast it got more peaceful. I went through Pecém and did the final stretch to Taíba along the beach. Beautiful place, a spot for kitesurfing and surfing."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-39.2715713, -3.2201782]
+  },
+  "properties": {
+    "place_name_pt": "Flecheiras, CE, Brasil",
+    "place_name_en": "Flecheiras, CE, Brazil",
+    "arrival_date": "28/09/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 790,
+    "notes_pt": "Dia puxado porque foi uns 20 km de 'calçamento' terrível trepidando muito, e pra completar o amortecedor tava travado e eu não conseguia destravar. Em Poço Doce João e amigos muito gentis me deram sopa e coca, conversamos um pouco, até me convidaram pra almoçar mesmo mas eu não queria perder o horário da maré baixa; fiz o trecho final de Lagoinha até Flecheiras pela praia. Enfim deu pra relaxar no mar e achei um local ótimo pra acampar ali na praia mesmo.",
+    "notes_en": "Tough day, as there were about 20 km of terrible cobblestone road shaking a lot, and to top it off the shock absorber was stuck and I couldn’t unlock it. In Poço Doce, João and some kind friends gave me soup and coke; we chatted for a while and they even invited me for lunch, but I didn’t want to miss the low tide. I did the final stretch from Lagoinha to Flecheiras along the beach. Finally, I got to relax in the sea and found a great spot to camp right there on the beach."
+  }
 }
   ]
 }
