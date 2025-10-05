@@ -160,6 +160,22 @@
         "notes_pt": "Fiquei um pouco em Canoa Quebrada, até tive uma sessão de terapia na loja de conveniência de um posto de gasolina, fui sair só umas 11h já sob o maçarico impiedoso do sol. Fui seguindo a rodovia estadual pouco interessante. Interessante foram as coisas a beira da estrada como coco 2 reais, dúzia de cajus 5 reais e por aí vai. Cheguei no fim da tarde em Morro Branco perto da praia das Fontes, casal Jairo e Nice me receberam de graça no camping deles, gratidão!",
         "notes_en": "I stayed in Canoa Quebrada for a while, even had a therapy session in the convenience store of a petrol station, but left only at 11am, already under the merciless torch of the sun. I followed the uninteresting state road. What was interesting were the things on the side of the road like coconuts for 2 reais, a dozen cashews for 5 reais and so on. I arrived in the late afternoon in Morro Branco near Praia das Fontes. Jairo and Nice welcomed me for free at their campsite, thank you!"
       }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-38.5122792, -3.8696647]
+  },
+  "properties": {
+    "place_name_pt": "Ancuri (Fortaleza), CE, Brasil",
+    "place_name_en": "Ancuri (Fortaleza), CE, Brazil",
+    "arrival_date": "25/09/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 635,
+    "notes_pt": "De manhã passei na Praia das Fontes, tomei um banho de mar e tirei água salgada nas bicas depois foi boa parte do dia seguindo a estrada mesmo até entrar em Fortaleza e chegar em Ancuri, onde fui muito bem recebido pela minha prima Gabi e seu marido Call, pude tirar um cochilo e rolou churrasco e resenha.",
+    "notes_en": "In the morning I stopped by Praia das Fontes, took a sea bath and rinsed off the salt water at the springs. Then I spent most of the day following the road until entering Fortaleza and arriving in Ancuri, where I was warmly welcomed by my cousin Gabi and her husband Call. I was able to take a nap, and we had a barbecue and good conversation."
+  }
 }
   ]
 }
