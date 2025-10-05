@@ -176,6 +176,22 @@
     "notes_pt": "De manhã passei na Praia das Fontes, tomei um banho de mar e tirei água salgada nas bicas depois foi boa parte do dia seguindo a estrada mesmo até entrar em Fortaleza e chegar em Ancuri, onde fui muito bem recebido pela minha prima Gabi e seu marido Call, pude tirar um cochilo e rolou churrasco e resenha.",
     "notes_en": "In the morning I stopped by Praia das Fontes, took a sea bath and rinsed off the salt water at the springs. Then I spent most of the day following the road until entering Fortaleza and arriving in Ancuri, where I was warmly welcomed by my cousin Gabi and her husband Call. I was able to take a nap, and we had a barbecue and good conversation."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-38.8937819, -3.5100665]
+  },
+  "properties": {
+    "place_name_pt": "Taíba, CE, Brasil",
+    "place_name_en": "Taíba, CE, Brazil",
+    "arrival_date": "27/09/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 715,
+    "notes_pt": "Tirei um dia de descanso na casa de Gabi e Call, foi ótimo passar esse tempo com eles e os bichos. Inclusive, deu pra remendar primeiro pneu furado da viagem. Sábado de manhã parti, como previsto foi meio chato atravessar Fortaleza quase inteira, trânsito movimentado. Chegando no litoral ficou mais tranquilo, fui até o Pecém e fiz o trecho final até Taíba pela praia. Lindo lugar, point de kite e de surf.",
+    "notes_en": "I took a rest day at Gabi and Call’s house — it was great spending time with them and the pets. I even got to patch the first flat tire of the trip. On Saturday morning I set off; as expected, crossing almost all of Fortaleza was a bit annoying due to heavy traffic. Once I reached the coast it got more peaceful. I went through Pecém and did the final stretch to Taíba along the beach. Beautiful place, a spot for kitesurfing and surfing."
+  }
 }
   ]
 }
