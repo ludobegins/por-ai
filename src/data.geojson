@@ -288,6 +288,22 @@
     "notes_pt": "Pedalei 40 km pela praia de manhã, de Jeri até Camocim. O maior trecho de praia na viagem, felizmente em sua grande maioria com areia bem firme, e claro o vento nas costas sempre ajudando. Gratidão aos camaradas das balsas que não me cobraram a travessia, tanto em Guriú quanto pra Camocim. E gratidão aos camaradas de um restaurante em Camocim que não só me deram a água que eu tinha pedido pra lavar a bike, como me deram um prato de comida! 🙌 Tirei um leve cochilo numa praça esperando o sol baixar um pouco, onde conheci o PGH (pequeno grande homem), um noia local. Enfim mais 40 km até Barroquinha, já perto do Piauí! Tomei um banho num posto, comi um podrão na praça e acampei nela mesmo, cansado.",
     "notes_en": "I cycled 40 km along the beach in the morning, from Jeri to Camocim — the longest beach stretch of the trip, fortunately with mostly firm sand and, of course, the tailwind always helping. Grateful to the ferry guys who didn’t charge me for the crossings, both at Guriú and to Camocim. And thanks to the folks at a restaurant in Camocim who not only gave me the water I asked for to wash the bike but also served me a plate of food! 🙌 I took a short nap in a square waiting for the sun to ease off, where I met PGH (Pequeno Grande Homem), a local wanderer. Finally, another 40 km to Barroquinha, already close to Piauí! Took a shower at a gas station, had a big street burger at the square, and camped there, exhausted."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-41.3983237, -2.9170207]
+  },
+  "properties": {
+    "place_name_pt": "Barra Grande, PI, Brasil",
+    "place_name_en": "Barra Grande, PI, Brazil",
+    "arrival_date": "06/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1175,
+    "notes_pt": "Cheguei no Piauí! Primeira vez nesse Estado. Resolvi fazer curso de kitesurf, que eu estava há muito tempo querendo e tenho passado por excelentes locais para a prática e na época ideal. Fiquei no Borogodo, um hostel desativado onde fiz um combinado com a dona Amanda. Acabei ficando noites, entre curso de kite, ficar de boa na rede e roles com o pessoal ali da casa. Foi ótimo pra recarregar as energias!",
+    "notes_en": "I arrived in Piauí — my first time in this state! I decided to take kitesurfing lessons, something I’d been wanting to do for a long time, and I’ve been passing through amazing spots for it at the perfect time of year. I stayed at Borogodó, a deactivated hostel where I made an arrangement with the owner, Amanda. I ended up staying a few nights, between kite lessons, relaxing in the hammock, and hanging out with the people at the house. It was great to recharge my energy!"
+  }
 }
   ]
 }
