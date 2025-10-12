@@ -256,6 +256,22 @@
     "notes_pt": "Dia de emoções. Pedalei uns 20 km pela praia até o Preá, castigando a coitada da Natália (bike) com areia e água salgada. E a gatinha no bolso do quadro também reclamando de vez em quando. Pouco antes de chegar, um lado do meu alforge rasgou feio, tive que fazer uma gambiarra com um elástico pra segurar. No Preá, consegui levar a gatinha no pet shop, onde comprei e dei leite apropriado pra recém nascidos. A veterinária deu algumas orientações. Até pensei em levar a gata comigo, mas ela é muito pequenina e precisa de conforto e estabilidade, coisa que viajando de bike ela não teria. Acabei ajudando com mais leites e a veterinária ficou com ela até achar alguém pra adotar. Também no Preá o camarada Asef costurou meu alforge, salvou. De tarde segui pra Caiçara ficar no camping Proibido Não Viver, pra ter mais conforto e por curiosidade de conhecer o casal viajante Renan e Larissa. Acabei ficando 2,5 dias e conheci muita gente bacana, vários viajantes de bom coração. Rolou barzinho, pizza até karaoke e música ao vivo! Também passeei pelos buracos verde e azul e a lagoa do paraíso.",
     "notes_en": "An emotional day. I cycled about 20 km along the beach to Preá, giving poor Natália (my bike) a hard time with sand and salt water. The kitten in the frame pocket was also complaining from time to time. Shortly before arriving, one side of my pannier tore badly, and I had to improvise a fix with an elastic band. In Preá, I managed to take the kitten to a pet shop, where I bought proper milk for newborns. The vet gave me some guidance. I even thought about keeping her with me, but she’s too tiny and needs comfort and stability — things impossible on a bike trip. I helped by buying more milk, and the vet agreed to keep her until finding someone to adopt her. Also in Preá, a guy named Asef sewed my pannier — saved it! In the afternoon, I continued to Caiçara to stay at the 'Proibido Não Viver' camping, both for comfort and curiosity to meet the traveling couple Renan and Larissa. I ended up staying two and a half days, meeting lots of great people and kind-hearted travelers. There was a bar, pizza, karaoke, and even live music! I also visited some beautiful lagoons."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-40.5149878, -2.7951525]
+  },
+  "properties": {
+    "place_name_pt": "Vila de Jericoacoara, CE, Brasil",
+    "place_name_en": "Jericoacoara Village, CE, Brazil",
+    "arrival_date": "04/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1030,
+    "notes_pt": "Após uns dias tranquilos em Caiçara, voltei a pedalar. Foi pouco mas deu pra cansar entre o Preá e Jeri, trechos de areia fofa tendo que empurrar a bike, e no fim a subida do Serrote. Mas que vista! E a descida deu pra curtir, no modo Nat MTB. Acabei ficando num camping também em Jeri, almocei, cochilei e curti uma praia e pôr do sol das dunas.",
+    "notes_en": "After a few relaxing days in Caiçara, I got back on the bike. It wasn’t a long ride, but it was tiring between Preá and Jeri, with stretches of soft sand where I had to push the bike, and finally the climb up the Serrote hill. But what a view! The downhill was pure fun, Nat MTB mode. I ended up staying at a camping spot in Jeri as well, had lunch, took a nap, and enjoyed the beach and sunset from the dunes."
+  }
 }
   ]
 }
