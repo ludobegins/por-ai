@@ -272,6 +272,22 @@
     "notes_pt": "Após uns dias tranquilos em Caiçara, voltei a pedalar. Foi pouco mas deu pra cansar entre o Preá e Jeri, trechos de areia fofa tendo que empurrar a bike, e no fim a subida do Serrote. Mas que vista! E a descida deu pra curtir, no modo Nat MTB. Acabei ficando num camping também em Jeri, almocei, cochilei e curti uma praia e pôr do sol das dunas.",
     "notes_en": "After a few relaxing days in Caiçara, I got back on the bike. It wasn’t a long ride, but it was tiring between Preá and Jeri, with stretches of soft sand where I had to push the bike, and finally the climb up the Serrote hill. But what a view! The downhill was pure fun, Nat MTB mode. I ended up staying at a camping spot in Jeri as well, had lunch, took a nap, and enjoyed the beach and sunset from the dunes."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-41.1358632, -3.0190034]
+  },
+  "properties": {
+    "place_name_pt": "Barroquinha, CE, Brasil",
+    "place_name_en": "Barroquinha, CE, Brazil",
+    "arrival_date": "05/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1115,
+    "notes_pt": "Pedalei 40 km pela praia de manhã, de Jeri até Camocim. O maior trecho de praia na viagem, felizmente em sua grande maioria com areia bem firme, e claro o vento nas costas sempre ajudando. Gratidão aos camaradas das balsas que não me cobraram a travessia, tanto em Guriú quanto pra Camocim. E gratidão aos camaradas de um restaurante em Camocim que não só me deram a água que eu tinha pedido pra lavar a bike, como me deram um prato de comida! 🙌 Tirei um leve cochilo numa praça esperando o sol baixar um pouco, onde conheci o PGH (pequeno grande homem), um noia local. Enfim mais 40 km até Barroquinha, já perto do Piauí! Tomei um banho num posto, comi um podrão na praça e acampei nela mesmo, cansado.",
+    "notes_en": "I cycled 40 km along the beach in the morning, from Jeri to Camocim — the longest beach stretch of the trip, fortunately with mostly firm sand and, of course, the tailwind always helping. Grateful to the ferry guys who didn’t charge me for the crossings, both at Guriú and to Camocim. And thanks to the folks at a restaurant in Camocim who not only gave me the water I asked for to wash the bike but also served me a plate of food! 🙌 I took a short nap in a square waiting for the sun to ease off, where I met PGH (Pequeno Grande Homem), a local wanderer. Finally, another 40 km to Barroquinha, already close to Piauí! Took a shower at a gas station, had a big street burger at the square, and camped there, exhausted."
+  }
 }
   ]
 }
