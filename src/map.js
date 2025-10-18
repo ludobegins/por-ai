@@ -87,30 +87,33 @@ function addJourneyData(map) {
 
             if (!map.getLayer('lines-layer')){
                 map.addLayer({
-                    id: 'lines-layer',
-                    type: 'line',
-                    source: 'route-lines',
-                    layout: {
-                        'line-join': 'round',
-                        'line-cap': 'round'
-                    },
-                    paint: {
-                        'line-width': 3,
-                        'line-color': [
-                            'match',
-                            ['get', 'transport'],
-                            'bicycle', '#ff7e5f',
-                            'boat', '#00a8cc',
-                            '#ff7e5f'
-                        ],
-                        'line-dasharray': [
-                            'case',
-                            ['==', ['get', 'transport'], 'boat'],
-                            ['literal', [2, 2]],
-                            ['literal', []]
-                        ]
-                    }
-                });
+    id: 'lines-layer',
+    type: 'line',
+    source: 'route-lines',
+    layout: {
+        'line-join': 'round',
+        'line-cap': 'round'
+    },
+    paint: {
+        'line-width': 3,
+        'line-color': [
+            'match',
+            ['get', 'transport'],
+            'bicycle', '#ff7e5f',
+            'boat', '#00a8cc',
+            'truck', '#d97706',
+            '#ff7e5f'
+        ],
+        'line-dasharray': [
+            'case',
+            ['==', ['get', 'transport'], 'boat'],
+            ['literal', [2, 2]],
+            ['==', ['get', 'transport'], 'truck'],
+            ['literal', [4, 2]],
+            ['literal', []]
+        ]
+    }
+});
             }
 
             const popup = new mapboxgl.Popup({
