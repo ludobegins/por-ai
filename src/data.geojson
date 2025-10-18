@@ -336,6 +336,22 @@
     "notes_pt": "Partida tardia esse dia pois de manhã estava em Parnaíba resenhando com o Leo e comprei câmaras novas pra Nat (por ter dado pt numa e danificado de leve outra). Almocei e descansei logo após a divisa PI/MA. Segui com o sol já mais fraco até o fim do dia, pernoitei num posto de gasolina em Cana-Brava, onde fui muito bem acolhido pelos frentistas.",
     "notes_en": "Late start that day, as I spent the morning in Parnaíba chatting with Leo and buying new tubes for Nat (since one was ruined and another slightly damaged). I had lunch and rested just after crossing the Piauí–Maranhão border. Then I continued with the sun already lower until the end of the day, spending the night at a gas station in Cana-Brava, where I was warmly welcomed by the attendants."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-42.7022246, -2.5748525]
+  },
+  "properties": {
+    "place_name_pt": "Praia do Caburé, MA, Brasil",
+    "place_name_en": "Caburé Beach, MA, Brazil",
+    "arrival_date": "14/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1418,
+    "notes_pt": "A manhã de pedal rendeu com 60 km até Paulino Neves. A princípio eu seguiria pela rodovia até Barreirinhas, mas conversando com um local, acabei seguindo a recomendação dele e fui pela praia do Barro Vermelho e seguindo 15 km pela areia firme da maré seca até a praia do Caburé, onde vi um belo pôr do sol sobre o Rio Preguiça e tomei um banho de rio muito bem-vindo. Pernoitei num restaurante da praia que estava fechado e vazio. O céu estrelado estava incrível ✨️",
+    "notes_en": "The morning ride was productive, with 60 km to Paulino Neves. Initially, I was going to take the highway to Barreirinhas, but after talking to a local, I followed his recommendation and went along Barro Vermelho Beach, then continued 15 km on firm sand during low tide until Caburé Beach, where I witnessed a beautiful sunset over the Preguiça River and enjoyed a refreshing river bath. I spent the night at a beach restaurant that was closed and empty. The starry sky was incredible ✨️."
+  }
 }
   ]
 }
