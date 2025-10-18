@@ -320,6 +320,22 @@
     "notes_pt": "O dia de Barra Grande pra Parnaíba foi inusitado. Peguei uma carona (paga) na lancha de um banana boat até a praia de Macapá. Lá conheci uma família muito gente boa e passamos boa parte do dia juntos, primeiro ali na praia, depois almocei na casa deles, fomos em outra praia Maramar, conheci a irmã/tia, um barzinho com um bode. Depois nos reencontramos em Atalaia 20 km adiante (nesse meio tempo estraguei o bico da câmara e tive que botar a reserva 😬) pro por do sol e um evento de corrida. Obrigado aos novos amigos! Enfim segui já escurecendo até Parnaíba, onde fui muito bem recebido pelo Leo, meu host de couchsurfing. No dia seguinte, domingo, fiz o passeio de barco no delta do Parnaíba, muito bom!",
     "notes_en": "The day from Barra Grande to Parnaíba was quite unusual. I hitched a (paid) ride on a banana boat’s motor launch to Macapá Beach. There I met a really nice family, and we spent most of the day together — first on the beach, then I had lunch at their house, we went to another beach called Maramar, met the sister/aunt, and even stopped by a bar with a goat. Later, we met again in Atalaia, 20 km ahead (in the meantime I damaged my tube valve and had to use the spare 😬) to watch the sunset and a running event. Thanks to these new friends! Finally, as night was falling, I continued to Parnaíba, where I was warmly welcomed by Leo, my Couchsurfing host. The next day, Sunday, I did a boat tour through the Parnaíba Delta — amazing experience!"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-42.2395107, -3.0605248]
+  },
+  "properties": {
+    "place_name_pt": "Cana-Brava, MA, Brasil",
+    "place_name_en": "Cana-Brava, MA, Brazil",
+    "arrival_date": "13/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1328,
+    "notes_pt": "Partida tardia esse dia pois de manhã estava em Parnaíba resenhando com o Leo e comprei câmaras novas pra Nat (por ter dado pt numa e danificado de leve outra). Almocei e descansei logo após a divisa PI/MA. Segui com o sol já mais fraco até o fim do dia, pernoitei num posto de gasolina em Cana-Brava, onde fui muito bem acolhido pelos frentistas.",
+    "notes_en": "Late start that day, as I spent the morning in Parnaíba chatting with Leo and buying new tubes for Nat (since one was ruined and another slightly damaged). I had lunch and rested just after crossing the Piauí–Maranhão border. Then I continued with the sun already lower until the end of the day, spending the night at a gas station in Cana-Brava, where I was warmly welcomed by the attendants."
+  }
 }
   ]
 }
