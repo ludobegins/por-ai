@@ -352,6 +352,22 @@
     "notes_pt": "A manhã de pedal rendeu com 60 km até Paulino Neves. A princípio eu seguiria pela rodovia até Barreirinhas, mas conversando com um local, acabei seguindo a recomendação dele e fui pela praia do Barro Vermelho e seguindo 15 km pela areia firme da maré seca até a praia do Caburé, onde vi um belo pôr do sol sobre o Rio Preguiça e tomei um banho de rio muito bem-vindo. Pernoitei num restaurante da praia que estava fechado e vazio. O céu estrelado estava incrível ✨️",
     "notes_en": "The morning ride was productive, with 60 km to Paulino Neves. Initially, I was going to take the highway to Barreirinhas, but after talking to a local, I followed his recommendation and went along Barro Vermelho Beach, then continued 15 km on firm sand during low tide until Caburé Beach, where I witnessed a beautiful sunset over the Preguiça River and enjoyed a refreshing river bath. I spent the night at a beach restaurant that was closed and empty. The starry sky was incredible ✨️."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-42.7459544, -2.5770068]
+  },
+  "properties": {
+    "place_name_pt": "Atins, MA, Brasil",
+    "place_name_en": "Atins, MA, Brazil",
+    "arrival_date": "15/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1425,
+    "notes_pt": "De manhã pedalei os últimos poucos km até a ponta da praia, no encontro do rio com o mar. Consegui um transporte de barquinho pra atravessar pra Atins, vento muito forte (kitesurf rolando) e ondas, molhando tudo. Passeei um pouco por Atins, almocei, descansei numa rede de frente pro rio/mar, e inesperadamente conectei com o Kayanã, camarada que eu conheci ano passado em Alter do Chão e mora em Atins. Ele e sua mãe Carla gentilmente me receberam na casa deles. Kayanã me levou de quadriciclo com bike e tudo. No fim de tarde caminhei nas dunas pra ver o pôr do sol. Na volta um adolescente de quadriciclo me deu carona. De noite ainda deu pra ver o Flamengo amassar o Botafogo.",
+    "notes_en": "In the morning, I cycled the last few kilometers to the tip of the beach, where the river meets the sea. I got a small boat ride across to Atins — with strong wind (lots of kitesurfing) and waves splashing everywhere. I wandered around Atins a bit, had lunch, and rested in a hammock facing the river and sea. Unexpectedly, I reconnected with Kayanã, a friend I met last year in Alter do Chão who lives in Atins. He and his mother, Carla, kindly welcomed me into their home. Kayanã took me on his quad bike with my bicycle. In the late afternoon, I walked through the dunes to watch the sunset. On the way back, a teenager on a quad gave me a ride. That night, I even managed to watch Flamengo crush Botafogo."
+  }
 }
   ]
 }
