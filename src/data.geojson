@@ -368,6 +368,38 @@
     "notes_pt": "De manhã pedalei os últimos poucos km até a ponta da praia, no encontro do rio com o mar. Consegui um transporte de barquinho pra atravessar pra Atins, vento muito forte (kitesurf rolando) e ondas, molhando tudo. Passeei um pouco por Atins, almocei, descansei numa rede de frente pro rio/mar, e inesperadamente conectei com o Kayanã, camarada que eu conheci ano passado em Alter do Chão e mora em Atins. Ele e sua mãe Carla gentilmente me receberam na casa deles. Kayanã me levou de quadriciclo com bike e tudo. No fim de tarde caminhei nas dunas pra ver o pôr do sol. Na volta um adolescente de quadriciclo me deu carona. De noite ainda deu pra ver o Flamengo amassar o Botafogo.",
     "notes_en": "In the morning, I cycled the last few kilometers to the tip of the beach, where the river meets the sea. I got a small boat ride across to Atins — with strong wind (lots of kitesurfing) and waves splashing everywhere. I wandered around Atins a bit, had lunch, and rested in a hammock facing the river and sea. Unexpectedly, I reconnected with Kayanã, a friend I met last year in Alter do Chão who lives in Atins. He and his mother, Carla, kindly welcomed me into their home. Kayanã took me on his quad bike with my bicycle. In the late afternoon, I walked through the dunes to watch the sunset. On the way back, a teenager on a quad gave me a ride. That night, I even managed to watch Flamengo crush Botafogo."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-42.8280403, -2.7613325]
+  },
+  "properties": {
+    "place_name_pt": "Barreirinhas, MA, Brasil",
+    "place_name_en": "Barreirinhas, MA, Brazil",
+    "arrival_date": "16/10/2025",
+    "transport_to_here": "truck",
+    "km_traveled": 1458,
+    "notes_pt": "Manhã tranquila na casa de Carla e Kayanã em Atins. Umas 12h30 peguei uma Toyota pra Barreirinhas com Augustinho (70 contos foi salgado, preço do turista e extra pela bike). Chegando, tive um almoço tardio, fiz algumas comprinhas e me preparei pra seguir viagem.",
+    "notes_en": "A calm morning at Carla and Kayanã’s house in Atins. Around 12:30 p.m. I took a Toyota truck to Barreirinhas with Augustinho (70 bucks — quite pricey, tourist rate plus extra for the bike). Once there, I had a late lunch, did some shopping, and got ready to continue the journey."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-43.2533636, -2.7988506]
+  },
+  "properties": {
+    "place_name_pt": "Rodovia MA-320, MA, Brasil",
+    "place_name_en": "MA-320 Highway, MA, Brazil",
+    "arrival_date": "16/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1483,
+    "notes_pt": "Após o almoço tardio em Barreirinhas, parti pra pedalar cerca de 60 km por volta das 16h. A vantagem foi o tempo fresco, mas pela primeira vez pedalei à noite, cerca de uma hora após o pôr do sol. Enfim cheguei no posto CH, tomei banho, mas acabei dormindo no restaurante ao lado, que era melhor pra armar a rede e onde a dona me recebeu muito bem.",
+    "notes_en": "After a late lunch in Barreirinhas, I set off to ride about 60 km around 4 p.m. The advantage was the cooler weather, but for the first time I rode at night — about an hour after sunset. Finally, I arrived at the CH gas station, took a shower, and ended up sleeping in the restaurant next door, which was better for hanging my hammock and where the owner kindly welcomed me."
+  }
 }
   ]
 }
