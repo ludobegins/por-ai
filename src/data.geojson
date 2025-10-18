@@ -400,6 +400,22 @@
     "notes_pt": "Após o almoço tardio em Barreirinhas, parti pra pedalar cerca de 60 km por volta das 16h. A vantagem foi o tempo fresco, mas pela primeira vez pedalei à noite, cerca de uma hora após o pôr do sol. Enfim cheguei no posto CH, tomei banho, mas acabei dormindo no restaurante ao lado, que era melhor pra armar a rede e onde a dona me recebeu muito bem.",
     "notes_en": "After a late lunch in Barreirinhas, I set off to ride about 60 km around 4 p.m. The advantage was the cooler weather, but for the first time I rode at night — about an hour after sunset. Finally, I arrived at the CH gas station, took a shower, and ended up sleeping in the restaurant next door, which was better for hanging my hammock and where the owner kindly welcomed me."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-43.2472475, -2.5136459]
+  },
+  "properties": {
+    "place_name_pt": "Santo Amaro do Maranhão, MA, Brasil",
+    "place_name_en": "Santo Amaro do Maranhão, MA, Brazil",
+    "arrival_date": "17/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1520,
+    "notes_pt": "Outro portal de entrada pros Lençóis! 2 dias de descanso e de exploração das belas dunas e das poucas lagoas que restam nessa época da seca. Banho de rio também e resenha com o pessoal do camping.",
+    "notes_en": "Another gateway to the Lençóis! Two days of rest and exploration of the beautiful dunes and the few lagoons that remain during this dry season. Also enjoyed a river bath and some good chats with the people at the campsite."
+  }
 }
   ]
 }
