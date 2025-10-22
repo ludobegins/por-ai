@@ -444,9 +444,25 @@
     "place_name_en": "Jussatuba (Icatu), MA, Brazil",
     "arrival_date": "20/10/2025",
     "transport_to_here": "bicycle",
-    "km_traveled": 1690,
+    "km_traveled": 1693,
     "notes_pt": "Um dia movimentado, onde também comecei a pedalar tarde, mas o tempo nublado ajudou de novo a render até almoçar num balneário ótimo no Rio Una, em Morros. Banho de rio excelente e até um cochilinho depois do almoço. O plano inicial era seguir pela rodovia principal até São Luís, mas após sondar com alguns locais, pareceu viável desviar pra Icatu e atravessar a baía de barco, reduzindo a distância e um trajeto mais interessante. Mas de Icatu mesmo não saíam lanchas, então tive que prosseguir já escurecendo, depois no breu pela estrada de terra até Jussatuba, onde enfim cheguei cansado, quase 100 km rodados, no portinho, e já dormi dentro do barco. Acordei 4h com a movimentação da galera carregando a lancha, e fomos sair mesmo 5h40 com a bela paisagem do mangue no amanhecer.",
     "notes_en": "A busy day — I started pedaling late again, but the cloudy weather helped me make good progress until I stopped for lunch at a great riverside spot on the Una River in Morros. Had an excellent river swim and even a nap after lunch. My initial plan was to follow the main highway to São Luís, but after talking with some locals, it seemed better to detour toward Icatu and cross the bay by boat — shorter and more interesting. However, there were no boats leaving directly from Icatu, so I had to keep going as night fell, riding through darkness on a dirt road until Jussatuba. I arrived exhausted after nearly 100 km, reached the small port, and slept inside the boat. Woke up at 4 a.m. with the crew loading the boat, and we finally departed around 5:40, with the beautiful mangrove landscape at sunrise."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.0568475, -2.5635955]
+  },
+  "properties": {
+    "place_name_pt": "São José de Ribamar, MA, Brasil",
+    "place_name_en": "São José de Ribamar, MA, Brazil",
+    "arrival_date": "21/10/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 1693,
+    "notes_pt": "Travessia tranquila de barco, bela paisagem da baía. Uns 20 passageiros, galera dos distritos de Icatu, além de várias coisas: camarão, farinha, um fogão e até uma moto (Natália estava amarrada no teto).",
+    "notes_en": "Smooth boat crossing with beautiful views of the bay. Around 20 passengers from the Icatu districts, plus lots of cargo — shrimp, flour, a stove, and even a motorcycle (Natália was tied to the roof)."
   }
 }
   ]
