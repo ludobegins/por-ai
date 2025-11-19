@@ -464,6 +464,22 @@
     "notes_pt": "Travessia tranquila de barco, bela paisagem da baía. Uns 20 passageiros, galera dos distritos de Icatu, além de várias coisas: camarão, farinha, um fogão e até uma moto (Natália estava amarrada no teto).",
     "notes_en": "Smooth boat crossing with beautiful views of the bay. Around 20 passengers from the Icatu districts, plus lots of cargo — shrimp, flour, a stove, and even a motorcycle (Natália was tied to the roof)."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.2571389, -2.4844722]
+  },
+  "properties": {
+    "place_name_pt": "São Luís, MA, Brasil",
+    "place_name_en": "São Luís, Maranhão, Brazil",
+    "arrival_date": "21/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1730,
+    "notes_pt": "Cheguei em São Luís. Erika e Alex me acolheram muito gentilmente na casa deles, passei 3 noites lá. No dia da minha chegada, era aniversário do Alex! Comemoramos num restaurante com amigos deles. Pude também explorar um pouco São Luís de bike e a pé, principalmente o centro histórico. Gostei do museu do reggae. E levei a Natália pra fazer a primeira revisão da viagem! Tava precisando mesmo, principalmente depois de tantos trechos de praia que a castigaram, coitada. Também peguei as primeiras chuvas da viagem. E curti um pouco de praia no Calhau.",
+    "notes_en": "I arrived in São Luís. Erika and Alex very kindly welcomed me into their home, and I spent 3 nights there. It was Alex's birthday on the day I arrived! We celebrated at a restaurant with their friends. I also got to explore São Luís a bit by bike and on foot, especially the historic center. I enjoyed the Reggae Museum. And I took Natália (the bike) for her first trip check-up! She really needed it, especially after so many beach stretches that punished her, poor thing. I also got caught in the first rains of the trip. And I enjoyed some time at Calhau beach."
+  }
 }
   ]
 }
