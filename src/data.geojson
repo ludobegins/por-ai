@@ -480,6 +480,38 @@
     "notes_pt": "Cheguei em São Luís. Erika e Alex me acolheram muito gentilmente na casa deles, passei 3 noites lá. No dia da minha chegada, era aniversário do Alex! Comemoramos num restaurante com amigos deles. Pude também explorar um pouco São Luís de bike e a pé, principalmente o centro histórico. Gostei do museu do reggae. E levei a Natália pra fazer a primeira revisão da viagem! Tava precisando mesmo, principalmente depois de tantos trechos de praia que a castigaram, coitada. Também peguei as primeiras chuvas da viagem. E curti um pouco de praia no Calhau.",
     "notes_en": "I arrived in São Luís. Erika and Alex very kindly welcomed me into their home, and I spent 3 nights there. It was Alex's birthday on the day I arrived! We celebrated at a restaurant with their friends. I also got to explore São Luís a bit by bike and on foot, especially the historic center. I enjoyed the Reggae Museum. And I took Natália (the bike) for her first trip check-up! She really needed it, especially after so many beach stretches that punished her, poor thing. I also got caught in the first rains of the trip. And I enjoyed some time at Calhau beach."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.3077056, -2.5303611]
+  },
+  "properties": {
+    "place_name_pt": "São Luís (Terminal de Ferry), MA, Brasil",
+    "place_name_en": "São Luís (Ferry Terminal), Maranhão, Brazil",
+    "arrival_date": "24/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1745,
+    "notes_pt": "Acordei cedinho na sexta-feira pra ir até o centro e de lá pegar o ferry de 7h pra atravessar pra Alcântara",
+    "notes_en": "I woke up early on Friday to go to the city center and catch the 7 a.m. ferry from there to cross over to Alcântara."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.4167222, -2.4097778]
+  },
+  "properties": {
+    "place_name_pt": "Alcântara, MA, Brasil",
+    "place_name_en": "Alcântara, Maranhão, Brazil",
+    "arrival_date": "24/10/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 1745,
+    "notes_pt": "Travessia agitada, eu não sou de passar mal em barco mas tava no andar de baixo, tudo fechado, cheirando a mofo, e o barco balançando um monte, me senti enjoado e subi pra respirar ar fresco. Chegando em Alcântara, vi que o suporte de garrafinha da bike quebrou, mas por sorte já consegui substituir ele bem rápido.",
+    "notes_en": "The crossing was rough. I don't usually get seasick, but I was on the lower deck, everything was closed, smelling of mold, and the boat was rocking a lot. I felt nauseous and went upstairs to get some fresh air. Arriving in Alcântara, I saw that my bike's water bottle cage had broken, but luckily I was able to replace it very quickly."
+  }
 }
   ]
 }
