@@ -544,6 +544,22 @@
     "notes_pt": "Tempo nublado ajudando, o asfalto ruim já nem tanto. Passei por alguns municípios, o principal sendo Pinheiro. Tinham postos de gasolina promissores pra dormir em Bacabeira, mas já estava cansado com 80 km nas pernas parei em Queimadas, num posto não muito acolhedor. Sábado a noite, música alta e bem próximo da rodovia, foi a primeira vez que usei minha lona por cima da rede pra ficar mais dichava. De manhã um cara pagou café e broa de milho pra mim, ele insistiu.",
     "notes_en": "Cloudy weather helped, but the bad asphalt didn't. I passed through a few municipalities, the main one being Pinheiro. There were promising gas stations to sleep at in Bacabeira, but I was already tired with 80 km in my legs, so I stopped in Queimadas, at a not-very-welcoming gas station. Saturday night, loud music, and very close to the highway—it was the first time I used my tarp over the hammock to be less exposed. In the morning, a guy insisted on paying for my coffee and corn bread."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-45.9608889, -2.0471944]
+  },
+  "properties": {
+    "place_name_pt": "Maracaçumé, MA, Brasil",
+    "place_name_en": "Maracaçumé, MA, Brazil",
+    "arrival_date": "26/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1995,
+    "notes_pt": "Mais um dia sem grandes emoções, seguindo a rodovia estadual. Rendi bem de manhã e almocei em Governador Nunes Freire. Cheguei em Maracaçumé e achei um hotelzinho bem simples por apenas 30 reais a diária, com suíte privativa. Foi ótimo pra descansar mais tranquilo e ter um pouco mais de conforto. Até cozinhei com o fogareiro dentro do quarto. De manhã atingi a marca de 2000 km pedalados!",
+    "notes_en": "Another day without major excitement, following the state highway. I performed well in the morning and had lunch in Governador Nunes Freire. I arrived in Maracaçumé and found a very simple little hotel for only 30 reais a night, with a private suite. It was great for a quieter rest and a bit more comfort. I even cooked with my stove inside the room. In the morning, I hit the 2000 km cycling mark!"
+  }
 }
   ]
 }
