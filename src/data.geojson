@@ -473,7 +473,7 @@
   },
   "properties": {
     "place_name_pt": "São Luís, MA, Brasil",
-    "place_name_en": "São Luís, Maranhão, Brazil",
+    "place_name_en": "São Luís, MA, Brazil",
     "arrival_date": "21/10/2025",
     "transport_to_here": "bicycle",
     "km_traveled": 1730,
@@ -489,7 +489,7 @@
   },
   "properties": {
     "place_name_pt": "São Luís (Terminal de Ferry), MA, Brasil",
-    "place_name_en": "São Luís (Ferry Terminal), Maranhão, Brazil",
+    "place_name_en": "São Luís (Ferry Terminal), MA, Brazil",
     "arrival_date": "24/10/2025",
     "transport_to_here": "bicycle",
     "km_traveled": 1745,
@@ -505,12 +505,44 @@
   },
   "properties": {
     "place_name_pt": "Alcântara, MA, Brasil",
-    "place_name_en": "Alcântara, Maranhão, Brazil",
+    "place_name_en": "Alcântara, MA, Brazil",
     "arrival_date": "24/10/2025",
     "transport_to_here": "boat",
     "km_traveled": 1745,
     "notes_pt": "Travessia agitada, eu não sou de passar mal em barco mas tava no andar de baixo, tudo fechado, cheirando a mofo, e o barco balançando um monte, me senti enjoado e subi pra respirar ar fresco. Chegando em Alcântara, vi que o suporte de garrafinha da bike quebrou, mas por sorte já consegui substituir ele bem rápido.",
     "notes_en": "The crossing was rough. I don't usually get seasick, but I was on the lower deck, everything was closed, smelling of mold, and the boat was rocking a lot. I felt nauseous and went upstairs to get some fresh air. Arriving in Alcântara, I saw that my bike's water bottle cage had broken, but luckily I was able to replace it very quickly."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.7902222, -2.4826111]
+  },
+  "properties": {
+    "place_name_pt": "Bequimão, MA, Brasil",
+    "place_name_en": "Bequimão, MA, Brazil",
+    "arrival_date": "24/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1825,
+    "notes_pt": "Dia puxado de pedal. Bastante relevo, muitas pequenas descidas e subidas ('não existe descida grátis'), e furei o pneu num lugar bem remoto com o sol quente, e demorei pra conseguir remendar. Pelo menos no fim do dia fui recompensado achando o posto Mylane no trevo pra Bequimão, que foi excelente para pernoitar.",
+    "notes_en": "A tough day of cycling. Lots of rolling terrain, many small descents and ascents ('there's no free descent'), and I got a flat tire in a very remote place under the hot sun, taking a long time to patch it. At least at the end of the day, I was rewarded by finding the Mylane gas station at the junction to Bequimão, which was excellent for spending the night."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-45.2730833, -2.3005556]
+  },
+  "properties": {
+    "place_name_pt": "Queimadas, MA, Brasil",
+    "place_name_en": "Queimadas, MA, Brazil",
+    "arrival_date": "25/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1905,
+    "notes_pt": "Tempo nublado ajudando, o asfalto ruim já nem tanto. Passei por alguns municípios, o principal sendo Pinheiro. Tinham postos de gasolina promissores pra dormir em Bacabeira, mas já estava cansado com 80 km nas pernas parei em Queimadas, num posto não muito acolhedor. Sábado a noite, música alta e bem próximo da rodovia, foi a primeira vez que usei minha lona por cima da rede pra ficar mais dichava. De manhã um cara pagou café e broa de milho pra mim, ele insistiu.",
+    "notes_en": "Cloudy weather helped, but the bad asphalt didn't. I passed through a few municipalities, the main one being Pinheiro. There were promising gas stations to sleep at in Bacabeira, but I was already tired with 80 km in my legs, so I stopped in Queimadas, at a not-very-welcoming gas station. Saturday night, loud music, and very close to the highway—it was the first time I used my tarp over the hammock to be less exposed. In the morning, a guy insisted on paying for my coffee and corn bread."
   }
 }
   ]
