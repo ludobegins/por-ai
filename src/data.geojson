@@ -560,6 +560,22 @@
     "notes_pt": "Mais um dia sem grandes emoções, seguindo a rodovia estadual. Rendi bem de manhã e almocei em Governador Nunes Freire. Cheguei em Maracaçumé e achei um hotelzinho bem simples por apenas 30 reais a diária, com suíte privativa. Foi ótimo pra descansar mais tranquilo e ter um pouco mais de conforto. Até cozinhei com o fogareiro dentro do quarto. De manhã atingi a marca de 2000 km pedalados!",
     "notes_en": "Another day without major excitement, following the state highway. I performed well in the morning and had lunch in Governador Nunes Freire. I arrived in Maracaçumé and found a very simple little hotel for only 30 reais a night, with a private suite. It was great for a quieter rest and a bit more comfort. I even cooked with my stove inside the room. In the morning, I hit the 2000 km cycling mark!"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-46.5485295, -1.7577845]
+  },
+  "properties": {
+    "place_name_pt": "Cachoeira do Piriá, PA, Brasil",
+    "place_name_en": "Cachoeira do Piriá, PA, Brazil",
+    "arrival_date": "27/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2080,
+    "notes_pt": "Numa parada num posto de gasolina, pela primeira vez encontrei outro ciclo viajante: o Celso, que estava vindo pedalando desde o Espírito Santo. Pedalamos algumas dezenas de quilômetros juntos — ele viaja muito equipado, inclusive com panela de pressão que usou para preparar nosso almoço. Nos separamos perto da divisa MA/PA em Boa Vista do Gurupi e finalmente entrei no Pará. Terminei o dia em Cachoeira do Piriá num posto de gasolina com uma boa vista pra floresta.",
+    "notes_en": "At a gas station stop, I met another bike traveler for the first time: Celso, who had been riding from Espírito Santo. We cycled together for several dozen kilometres — he travels very well equipped, even bringing a pressure cooker which he used to make our lunch. We parted ways near the MA/PA border at Boa Vista do Gurupi and I finally entered Pará. I finished the day in Cachoeira do Piriá at a gas station with a nice view over the forest."
+  }
 }
   ]
 }
