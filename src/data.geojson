@@ -576,6 +576,22 @@
     "notes_pt": "Numa parada num posto de gasolina, pela primeira vez encontrei outro ciclo viajante: o Celso, que estava vindo pedalando desde o Espírito Santo. Pedalamos algumas dezenas de quilômetros juntos — ele viaja muito equipado, inclusive com panela de pressão que usou para preparar nosso almoço. Nos separamos perto da divisa MA/PA em Boa Vista do Gurupi e finalmente entrei no Pará. Terminei o dia em Cachoeira do Piriá num posto de gasolina com uma boa vista pra floresta.",
     "notes_en": "At a gas station stop, I met another bike traveler for the first time: Celso, who had been riding from Espírito Santo. We cycled together for several dozen kilometres — he travels very well equipped, even bringing a pressure cooker which he used to make our lunch. We parted ways near the MA/PA border at Boa Vista do Gurupi and I finally entered Pará. I finished the day in Cachoeira do Piriá at a gas station with a nice view over the forest."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.0491366, -1.3572961]
+  },
+  "properties": {
+    "place_name_pt": "Estivas (Santa Luzia do Pará), PA, Brasil",
+    "place_name_en": "Estivas (Santa Luzia do Pará), PA, Brazil",
+    "arrival_date": "28/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2155,
+    "notes_pt": "Dia marcado por dois furos de pneu e encontros que só a estrada proporciona. O primeiro furo foi de manhã sob sol forte em uma área remota, mas por sorte havia uma casa perto onde pude pedir abrigo, fazer o remendo com calma na sombra e beber água fresca. Segui viagem e almocei em Santa Luzia do Pará. A meta era chegar em Capanema, mas cerca de 20 km antes, já no fim da tarde, tive outro furo. Por sorte, eu tinha acabado de passar por um vilarejo chamado Estivas. Quando terminei de remendar já estava escuro. Fui muito bem acolhido no bar do Jorge Romão — me ofereceram abrigo, água, comida e até uma dose de cachaça. Só não deu pra tomar banho, então foi meio desagradável dormir tão sujo.",
+    "notes_en": "A day marked by two flat tires and the kind of encounters only the road provides. The first flat happened in the morning under strong sun in a remote area, but luckily there was a house nearby where I could ask for shelter, fix the puncture calmly in the shade, and drink fresh water. I continued on and had lunch in Santa Luzia do Pará. The goal was to reach Capanema, but about 20 km before it, near the end of the afternoon, I had another flat. Fortunately, I had just passed through a small village called Estivas. By the time I finished patching the tube it was already dark. I was warmly welcomed at Jorge Romão’s bar — they offered me shelter, water, food, and even a shot of cachaça. The only downside was not being able to shower, so it was a bit unpleasant to sleep that dirty."
+  }
 }
   ]
 }
