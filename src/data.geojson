@@ -592,6 +592,22 @@
     "notes_pt": "Dia marcado por dois furos de pneu e encontros que só a estrada proporciona. O primeiro furo foi de manhã sob sol forte em uma área remota, mas por sorte havia uma casa perto onde pude pedir abrigo, fazer o remendo com calma na sombra e beber água fresca. Segui viagem e almocei em Santa Luzia do Pará. A meta era chegar em Capanema, mas cerca de 20 km antes, já no fim da tarde, tive outro furo. Por sorte, eu tinha acabado de passar por um vilarejo chamado Estivas. Quando terminei de remendar já estava escuro. Fui muito bem acolhido no bar do Jorge Romão — me ofereceram abrigo, água, comida e até uma dose de cachaça. Só não deu pra tomar banho, então foi meio desagradável dormir tão sujo.",
     "notes_en": "A day marked by two flat tires and the kind of encounters only the road provides. The first flat happened in the morning under strong sun in a remote area, but luckily there was a house nearby where I could ask for shelter, fix the puncture calmly in the shade, and drink fresh water. I continued on and had lunch in Santa Luzia do Pará. The goal was to reach Capanema, but about 20 km before it, near the end of the afternoon, I had another flat. Fortunately, I had just passed through a small village called Estivas. By the time I finished patching the tube it was already dark. I was warmly welcomed at Jorge Romão’s bar — they offered me shelter, water, food, and even a shot of cachaça. The only downside was not being able to shower, so it was a bit unpleasant to sleep that dirty."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.6296951, -1.1283324]
+  },
+  "properties": {
+    "place_name_pt": "Igarapé-Açu, PA, Brasil",
+    "place_name_en": "Igarapé-Açu, PA, Brazil",
+    "arrival_date": "29/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2240,
+    "notes_pt": "Meu café da manhã às 6h foi o feijão que eu tinha ganhado na noite anterior. Parti cedo e pedalei 20 km até Capanema, onde parei em um posto de gasolina e finalmente tomei um banho e comi com mais calma. Reencontrei brevemente o Celso por lá, mas não seguimos juntos porque ele estava ajeitando a bike. Passei pela cidadezinha de Peixe-Boi, que achei bonita e bem cuidada, e almocei em Nova Timboteua, onde tirei o melhor cochilo pós-almoço da viagem: o restaurante tinha uma área de redário com ar-condicionado, e o dono me ofereceu para dormir lá. Por fim, segui até Igarapé-Açu, onde paguei R$ 50 por um hotelzinho, comi um bom açaí e assisti à classificação do Flamengo na Libertadores com outros hóspedes.",
+    "notes_en": "My breakfast at 6 a.m. was the beans I had received the night before. I left early and cycled 20 km to Capanema, where I stopped at a gas station and finally took a shower and ate properly. I briefly met Celso again there, but we didn’t ride together because he was fixing his bike. I passed through the small town of Peixe-Boi, which I found pretty and well kept, and had lunch in Nova Timboteua, where I took the best post-lunch nap of the trip: the restaurant had a hammock area with air-conditioning, and the owner offered me a spot to sleep. Finally, I continued to Igarapé-Açu, where I paid R$ 50 for a small hotel, had a good açaí bowl, and watched Flamengo qualify for the Libertadores final with other guests."
+  }
 }
   ]
 }
