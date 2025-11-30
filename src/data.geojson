@@ -608,6 +608,22 @@
     "notes_pt": "Meu café da manhã às 6h foi o feijão que eu tinha ganhado na noite anterior. Parti cedo e pedalei 20 km até Capanema, onde parei em um posto de gasolina e finalmente tomei um banho e comi com mais calma. Reencontrei brevemente o Celso por lá, mas não seguimos juntos porque ele estava ajeitando a bike. Passei pela cidadezinha de Peixe-Boi, que achei bonita e bem cuidada, e almocei em Nova Timboteua, onde tirei o melhor cochilo pós-almoço da viagem: o restaurante tinha uma área de redário com ar-condicionado, e o dono me ofereceu para dormir lá. Por fim, segui até Igarapé-Açu, onde paguei R$ 50 por um hotelzinho, comi um bom açaí e assisti à classificação do Flamengo na Libertadores com outros hóspedes.",
     "notes_en": "My breakfast at 6 a.m. was the beans I had received the night before. I left early and cycled 20 km to Capanema, where I stopped at a gas station and finally took a shower and ate properly. I briefly met Celso again there, but we didn’t ride together because he was fixing his bike. I passed through the small town of Peixe-Boi, which I found pretty and well kept, and had lunch in Nova Timboteua, where I took the best post-lunch nap of the trip: the restaurant had a hammock area with air-conditioning, and the owner offered me a spot to sleep. Finally, I continued to Igarapé-Açu, where I paid R$ 50 for a small hotel, had a good açaí bowl, and watched Flamengo qualify for the Libertadores final with other guests."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5407600, -0.6246376]
+  },
+  "properties": {
+    "place_name_pt": "Fortalezinha (Ilha de Maiandeua / Algodoal), PA, Brasil",
+    "place_name_en": "Fortalezinha (Maiandeua Island / Algodoal), PA, Brazil",
+    "arrival_date": "30/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2306,
+    "notes_pt": "Passei uma manhã tranquila sem pressa em Igarapé-Açu, mas precisei fazer um remendo, pois o pneu havia furado e esvaziado durante a noite. Almocei lá mesmo e só de tarde parti para pedalar os 66 km até a Ilha de Maiandeua (Algodoal). Cheguei pela vila de 40 do Mocoóca já no anoitecer. Segui a pé empurrando a bike até Fortalezinha, conversando com um morador pelo caminho. Encontrei um ótimo lugar para pernoitar no Paraíso dos Coqueiros, com o Careca e o casal Vanessa e Andrey, que vendem lanches. Um pequeno teto para armar a rede e ainda liberaram o banheiro. A vila é charmosa, tranquila, com ruas de areia. Me enturmei com o pessoal, conversamos e jogamos damas—e fui amassado todas as vezes kkk.",
+    "notes_en": "I had a slow, relaxed morning in Igarapé-Açu, though I had to patch a flat tire that had deflated overnight. I had lunch there and only left in the afternoon to ride the 66 km to Maiandeua Island (Algodoal). I arrived through the small village of 40 do Mocoóca at dusk. I walked while pushing the bike to Fortalezinha, chatting with a local along the way. I found a great place to spend the night at Paraíso dos Coqueiros, with Careca and the couple Vanessa and Andrey who run a small snack stand. They offered me a little roofed area to hang my hammock and let me use the bathroom. The village is charming and quiet, with sandy streets. I connected with the folks there, we chatted and played checkers—and I got crushed every time lol."
+  }
 }
   ]
 }
