@@ -629,6 +629,22 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
+    "coordinates": [-47.5856176, -0.6197200]
+  },
+  "properties": {
+    "place_name_pt": "Camboinha (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Camboinha (Maiandeua Island), PA, Brazil",
+    "arrival_date": "31/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2310,
+    "notes_pt": "Fiquei de boa em Fortalezinha e, por volta das 16h, pedalei os 4 km de trilha pela mata até Camboinha, um caminho bem agradável. No final da trilha conheci o Elton, que estava voltando para casa em Algodoal. Tomamos algumas cervejas no bar da Waldirene, amiga dele em Camboinha.",
+    "notes_en": "I had a relaxed morning in Fortalezinha and around 4 p.m. cycled the 4 km forest trail to Camboinha — a very pleasant ride. At the end of the trail, I met Elton, who was on his way back home to Algodoal. We had a few beers at his friend Waldirene’s bar in Camboinha."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
     "coordinates": [-47.5877145, -0.5922286]
   },
   "properties": {
@@ -637,8 +653,8 @@
     "arrival_date": "31/10/2025",
     "transport_to_here": "boat",
     "km_traveled": 2310,
-    "notes_pt": "Fiquei de boa em Fortalezinha e, por volta das 16h, fiz os 4 km de trilha até Camboinha, pedalando pela mata — um caminho bem agradável. No fim da trilha conheci o Elton, que estava voltando para casa em Algodoal. Tomamos umas cervejas no bar da Waldirene, amiga dele em Camboinha, e pegamos a rabeta juntos com o Juninho até Algodoal. Elton me recebeu na casa dele! No dia seguinte meus amigos Diego e Antônio chegaram e ficamos no camping Casa Laranja, da Marina, carimbózeira. Foram dias ótimos em Algodoal, entre conversas nas redes, passeios, praia, bolo podre (bolo de tapioca) e açaí fresco.",
-    "notes_en": "I took it easy in Fortalezinha and around 4 p.m. rode the 4 km trail through the forest to Camboinha — a very pleasant path to cycle. At the end of the trail I met Elton, who was heading home to Algodoal. We had a few beers at his friend Waldirene’s bar in Camboinha and then took a small boat (rabeta) together with Juninho to Algodoal. Elton hosted me at his home! The next day my friends Diego and Antônio arrived and we stayed at Casa Laranja campground, run by Marina, a carimbó dancer. We enjoyed some great days in Algodoal — chatting in hammocks, exploring, going to the beach, and eating bolo podre (tapioca cake) and fresh açaí."
+    "notes_pt": "De Camboinha, peguei a rabeta com Elton e Juninho até Algodoal. Elton me recebeu na casa dele! No dia seguinte, meus amigos Diego e Antônio chegaram e ficamos no camping Casa Laranja, da Marina, carimbózeira. Foram dias ótimos em Algodoal, entre conversas nas redes, passeios, praia, bolo podre (bolo de tapioca) e açaí fresco.",
+    "notes_en": "From Camboinha, I took a small boat (rabeta) with Elton and Juninho to Algodoal. Elton hosted me at his home! The next day my friends Diego and Antônio arrived and we stayed at Casa Laranja campground, run by Marina, a carimbó dancer. We enjoyed wonderful days in Algodoal — chatting in hammocks, exploring, going to the beach, eating ‘bolo podre’ (tapioca cake) and fresh açaí."
   }
 }
   ]
