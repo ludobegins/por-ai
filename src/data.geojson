@@ -688,6 +688,22 @@
     "notes_pt": "Fizemos a trilha de Camboinha até Fortalezinha tranquilamente e nos instalamos no Paraíso dos Coqueiros, com Andrey, Vanessa e Careca. Passamos a tarde curtindo a praia de Fortalezinha, completamente vazia, com encontro do mangue e do mar, e uma faixa de areia extensa na maré baixa. No fim da tarde, já com a maré enchendo, formou-se uma lagoa onde avistamos muitos pássaros — inclusive guarás — e alguns kitesurfistas. O que viemos a pé tivemos que voltar de barco; o motor ainda falhou no caminho, mas o barqueiro conseguiu conduzir com calma mesmo sem remo. Jantamos no lanche do casal e ainda vimos o final de um culto na praça. Dormimos no friozinho agradável com o vento da noite.",
     "notes_en": "We hiked from Camboinha to Fortalezinha and settled at Paraíso dos Coqueiros, with Andrey, Vanessa and Careca. We spent the afternoon enjoying Fortalezinha’s beach, completely empty, where the mangrove meets the sea and an extensive sand strip appears at low tide. By late afternoon, as the tide rose, a lagoon formed, with many birds — including scarlet ibises — and a few kitesurfers. The stretch we walked we had to return by boat; the engine even failed, but the boatman managed to steer calmly without a paddle. We had dinner at the couple’s snack bar and watched the end of a church service in the square. We slept comfortably with the cool night breeze."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5869001, -0.5857477]
+  },
+  "properties": {
+    "place_name_pt": "Algodoal (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Algodoal (Maiandeua Island), PA, Brazil",
+    "arrival_date": "06/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2310,
+    "notes_pt": "No último dia da nossa volta à ilha fizemos a caminhada mais longa e também a mais bonita, com a vegetação variando entre áreas mais abertas de areia e trechos de floresta fechada. Nos refrescamos no Lago Grande, que estava seco e raso. Reencontramos o mar na praia de Mupéua, bem na hora da maré baixa, o que permitiu atravessar o rio a pé com facilidade. Fizemos uma longa pausa ali, com direito a macarrão preparado no fogareiro. No fim da tarde chegamos à Praia da Princesa e subimos a duna para ver o pôr do sol. Depois disso, curtimos os últimos dias em Algodoal, com carimbó na sexta e no sábado. Também resolvi a situação da bola que eu tinha perdido do Elton: comprei outra pelo Mercado Livre, que chegou em Castanhal e passou de mão em mão — carro e barco — até finalmente chegar ao Elton.",
+    "notes_en": "On the last day of our island loop, we walked the longest and most beautiful stretch, with vegetation shifting between sandy open areas and denser forest. We cooled off at Lago Grande, which was dry and shallow. We reached the sea again at Mupéua Beach during low tide, allowing us to cross the river on foot with no issues. We took a long break there, cooking pasta on the camping stove. By late afternoon we arrived at Princesa Beach and watched the sunset from the dune. After that, we enjoyed our final days in Algodoal, including carimbó on Friday and Saturday. I also solved the situation with the ball I had lost from Elton: I bought another one online, it arrived in Castanhal, and traveled hand-to-hand — by car and boat — until it finally reached Elton."
+  }
 }
   ]
 }
