@@ -624,6 +624,22 @@
     "notes_pt": "Passei uma manhã tranquila sem pressa em Igarapé-Açu, mas precisei fazer um remendo, pois o pneu havia furado e esvaziado durante a noite. Almocei lá mesmo e só de tarde parti para pedalar os 66 km até a Ilha de Maiandeua (Algodoal). Cheguei pela vila de 40 do Mocoóca já no anoitecer. Segui a pé empurrando a bike até Fortalezinha, conversando com um morador pelo caminho. Encontrei um ótimo lugar para pernoitar no Paraíso dos Coqueiros, com o Careca e o casal Vanessa e Andrey, que vendem lanches. Um pequeno teto para armar a rede e ainda liberaram o banheiro. A vila é charmosa, tranquila, com ruas de areia. Me enturmei com o pessoal, conversamos e jogamos damas—e fui amassado todas as vezes kkk.",
     "notes_en": "I had a slow, relaxed morning in Igarapé-Açu, though I had to patch a flat tire that had deflated overnight. I had lunch there and only left in the afternoon to ride the 66 km to Maiandeua Island (Algodoal). I arrived through the small village of 40 do Mocoóca at dusk. I walked while pushing the bike to Fortalezinha, chatting with a local along the way. I found a great place to spend the night at Paraíso dos Coqueiros, with Careca and the couple Vanessa and Andrey who run a small snack stand. They offered me a little roofed area to hang my hammock and let me use the bathroom. The village is charming and quiet, with sandy streets. I connected with the folks there, we chatted and played checkers—and I got crushed every time lol."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5877145, -0.5922286]
+  },
+  "properties": {
+    "place_name_pt": "Algodoal (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Algodoal (Maiandeua Island), PA, Brazil",
+    "arrival_date": "31/10/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2310,
+    "notes_pt": "Fiquei de boa em Fortalezinha e, por volta das 16h, fiz os 4 km de trilha até Camboinha, pedalando pela mata — um caminho bem agradável. No fim da trilha conheci o Elton, que estava voltando para casa em Algodoal. Tomamos umas cervejas no bar da Waldirene, amiga dele em Camboinha, e pegamos a rabeta juntos com o Juninho até Algodoal. Elton me recebeu na casa dele! No dia seguinte meus amigos Diego e Antônio chegaram e ficamos no camping Casa Laranja, da Marina, carimbózeira. Foram dias ótimos em Algodoal, entre conversas nas redes, passeios, praia, bolo podre (bolo de tapioca) e açaí fresco.",
+    "notes_en": "I took it easy in Fortalezinha and around 4 p.m. rode the 4 km trail through the forest to Camboinha — a very pleasant path to cycle. At the end of the trail I met Elton, who was heading home to Algodoal. We had a few beers at his friend Waldirene’s bar in Camboinha and then took a small boat (rabeta) together with Juninho to Algodoal. Elton hosted me at his home! The next day my friends Diego and Antônio arrived and we stayed at Casa Laranja campground, run by Marina, a carimbó dancer. We enjoyed some great days in Algodoal — chatting in hammocks, exploring, going to the beach, and eating bolo podre (tapioca cake) and fresh açaí."
+  }
 }
   ]
 }
