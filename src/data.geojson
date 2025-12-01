@@ -656,6 +656,22 @@
     "notes_pt": "De Camboinha, peguei a rabeta com Elton e Juninho até Algodoal. Elton me recebeu na casa dele! No dia seguinte, meus amigos Diego e Antônio chegaram e ficamos no camping Casa Laranja, da Marina, carimbózeira. Foram dias ótimos em Algodoal, entre conversas nas redes, passeios, praia, bolo podre (bolo de tapioca) e açaí fresco.",
     "notes_en": "From Camboinha, I took a small boat (rabeta) with Elton and Juninho to Algodoal. Elton hosted me at his home! The next day my friends Diego and Antônio arrived and we stayed at Casa Laranja campground, run by Marina, a carimbó dancer. We enjoyed wonderful days in Algodoal — chatting in hammocks, exploring, going to the beach, eating ‘bolo podre’ (tapioca cake) and fresh açaí."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5848401, -0.6200311]
+  },
+  "properties": {
+    "place_name_pt": "Camboinha (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Camboinha (Maiandeua Island), PA, Brazil",
+    "arrival_date": "04/11/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2310,
+    "notes_pt": "Partimos para uma volta a pé pela ilha, levando apenas o essencial. O primeiro trecho foi de rabeta, de Algodoal até Camboinha, onde ficamos no restaurante da Wal, que eu já havia conhecido no dia anterior. Passamos a tarde por lá, jogando sinuca e tirando um cochilo. Caminhamos até o igarapé da Nazaré, mas chegamos já no anoitecer e havia pouca água. Wal preparou um camarão no bafo delicioso, que comemos com açaí e farinha. Conversamos bastante — ela é uma liderança da comunidade, uma pessoa inteligente e inspiradora. Armamos as redes no restaurante e dormimos ali mesmo.",
+    "notes_en": "We set out to walk around the island, carrying only the essentials. The first stretch was by small boat (rabeta), from Algodoal to Camboinha, where we stayed at Wal's restaurant, whom I had met the day before. We spent the afternoon there relaxing, playing pool, and napping. We walked to the Nazaré stream, but arrived at dusk and there wasn’t much water. Wal prepared delicious steamed shrimp, which we ate with açaí and farinha. We talked a lot — she is a community leader, intelligent and inspiring. We hung our hammocks inside the restaurant and slept there."
+  }
 }
   ]
 }
