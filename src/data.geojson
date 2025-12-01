@@ -672,6 +672,22 @@
     "notes_pt": "Partimos para uma volta a pé pela ilha, levando apenas o essencial. O primeiro trecho foi de rabeta, de Algodoal até Camboinha, onde ficamos no restaurante da Wal, que eu já havia conhecido no dia anterior. Passamos a tarde por lá, jogando sinuca e tirando um cochilo. Caminhamos até o igarapé da Nazaré, mas chegamos já no anoitecer e havia pouca água. Wal preparou um camarão no bafo delicioso, que comemos com açaí e farinha. Conversamos bastante — ela é uma liderança da comunidade, uma pessoa inteligente e inspiradora. Armamos as redes no restaurante e dormimos ali mesmo.",
     "notes_en": "We set out to walk around the island, carrying only the essentials. The first stretch was by small boat (rabeta), from Algodoal to Camboinha, where we stayed at Wal's restaurant, whom I had met the day before. We spent the afternoon there relaxing, playing pool, and napping. We walked to the Nazaré stream, but arrived at dusk and there wasn’t much water. Wal prepared delicious steamed shrimp, which we ate with açaí and farinha. We talked a lot — she is a community leader, intelligent and inspiring. We hung our hammocks inside the restaurant and slept there."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5392476, -0.6211190]
+  },
+  "properties": {
+    "place_name_pt": "Fortalezinha (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Fortalezinha (Maiandeua Island), PA, Brazil",
+    "arrival_date": "05/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2310,
+    "notes_pt": "Fizemos a trilha de Camboinha até Fortalezinha tranquilamente e nos instalamos no Paraíso dos Coqueiros, com Andrey, Vanessa e Careca. Passamos a tarde curtindo a praia de Fortalezinha, completamente vazia, com encontro do mangue e do mar, e uma faixa de areia extensa na maré baixa. No fim da tarde, já com a maré enchendo, formou-se uma lagoa onde avistamos muitos pássaros — inclusive guarás — e alguns kitesurfistas. O que viemos a pé tivemos que voltar de barco; o motor ainda falhou no caminho, mas o barqueiro conseguiu conduzir com calma mesmo sem remo. Jantamos no lanche do casal e ainda vimos o final de um culto na praça. Dormimos no friozinho agradável com o vento da noite.",
+    "notes_en": "We hiked from Camboinha to Fortalezinha and settled at Paraíso dos Coqueiros, with Andrey, Vanessa and Careca. We spent the afternoon enjoying Fortalezinha’s beach, completely empty, where the mangrove meets the sea and an extensive sand strip appears at low tide. By late afternoon, as the tide rose, a lagoon formed, with many birds — including scarlet ibises — and a few kitesurfers. The stretch we walked we had to return by boat; the engine even failed, but the boatman managed to steer calmly without a paddle. We had dinner at the couple’s snack bar and watched the end of a church service in the square. We slept comfortably with the cool night breeze."
+  }
 }
   ]
 }
