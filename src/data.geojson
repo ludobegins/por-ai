@@ -704,6 +704,38 @@
     "notes_pt": "No último dia da nossa volta à ilha fizemos a caminhada mais longa e também a mais bonita, com a vegetação variando entre áreas mais abertas de areia e trechos de floresta fechada. Nos refrescamos no Lago Grande, que estava seco e raso. Reencontramos o mar na praia de Mupéua, bem na hora da maré baixa, o que permitiu atravessar o rio a pé com facilidade. Fizemos uma longa pausa ali, com direito a macarrão preparado no fogareiro. No fim da tarde chegamos à Praia da Princesa e subimos a duna para ver o pôr do sol. Depois disso, curtimos os últimos dias em Algodoal, com carimbó na sexta e no sábado. Também resolvi a situação da bola que eu tinha perdido do Elton: comprei outra pelo Mercado Livre, que chegou em Castanhal e passou de mão em mão — carro e barco — até finalmente chegar ao Elton.",
     "notes_en": "On the last day of our island loop, we walked the longest and most beautiful stretch, with vegetation shifting between sandy open areas and denser forest. We cooled off at Lago Grande, which was dry and shallow. We reached the sea again at Mupéua Beach during low tide, allowing us to cross the river on foot with no issues. We took a long break there, cooking pasta on the camping stove. By late afternoon we arrived at Princesa Beach and watched the sunset from the dune. After that, we enjoyed our final days in Algodoal, including carimbó on Friday and Saturday. I also solved the situation with the ball I had lost from Elton: I bought another one online, it arrived in Castanhal, and traveled hand-to-hand — by car and boat — until it finally reached Elton."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.6329858, -0.6245169]
+  },
+  "properties": {
+    "place_name_pt": "Marudá, PA, Brasil",
+    "place_name_en": "Marudá, PA, Brazil",
+    "arrival_date": "09/11/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2310,
+    "notes_pt": "Domingo de manhã foi dia de pegar o barco para Marudá e me despedir dos amigos, que seguiram de carro para Belém. Eu voltei para a bike após mais de uma semana de pausa.",
+    "notes_en": "Sunday morning was time to take the boat to Marudá and say goodbye to my friends, who continued by car to Belém. I returned to the bike after more than a week of rest."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.9250143, -1.1987748]
+  },
+  "properties": {
+    "place_name_pt": "Castanhal, PA, Brasil",
+    "place_name_en": "Castanhal, PA, Brazil",
+    "arrival_date": "09/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2394,
+    "notes_pt": "Primeiro dia de volta ao pedal começou bem quente, mas de tarde refrescou, já dando sinal de chuva. Mais um pneu furado (estou ficando cada vez mais rápido para remendar) e bem na hora que começou o toró, uns 10 km antes de chegar em Castanhal, cheguei no balneário Kikuchi, que eu já tinha identificado no mapa com potencial para pernoitar. O gerente Renan foi super receptivo, me convidou para dormir lá sem custos, pude ainda nadar no rio, tomar banho e tive uma área boa com mesas, cadeiras, tomadas e wifi.",
+    "notes_en": "First day back on the bike started very hot, but the afternoon cooled down, already showing signs of rain. Another flat tire (I'm getting faster at fixing them), and right when the downpour started, about 10 km before reaching Castanhal, I arrived at Balneário Kikuchi, which I had already spotted on the map as a possible place to stay. The manager, Renan, was very welcoming, invited me to sleep there for free, and I was able to swim in the river, take a shower, and use a nice area with tables, chairs, power outlets and Wi-Fi."
+  }
 }
   ]
 }
