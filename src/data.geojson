@@ -413,8 +413,8 @@
     "arrival_date": "17/10/2025",
     "transport_to_here": "bicycle",
     "km_traveled": 1520,
-    "notes_pt": "Outro portal de entrada pros Lençóis! 2 dias de descanso e de exploração das belas dunas e das poucas lagoas que restam nessa época da seca. Banho de rio também e resenha com o pessoal do camping.",
-    "notes_en": "Another gateway to the Lençóis! Two days of rest and exploration of the beautiful dunes and the few lagoons that remain during this dry season. Also enjoyed a river bath and some good chats with the people at the campsite."
+    "notes_pt": "Outro portal de entrada pros Lençóis! 2 dias de descanso e de exploração das belas dunas e das poucas lagoas que restam nessa época da seca. Banho de rio também e resenha com o pessoal do brisa do Rio alegre camping, queridos Rosi, Hugo e Borracha, que me receberam muito bem.",
+    "notes_en": "Another gateway to the Lençóis! Two days of rest and exploration of the beautiful dunes and the few lagoons that remain during this dry season. Also enjoyed a river bath and some good chats with the people at the campsite, dears Rosi, Hugo and Borracha, who received me very well."
   }
 },
 {
@@ -463,6 +463,326 @@
     "km_traveled": 1693,
     "notes_pt": "Travessia tranquila de barco, bela paisagem da baía. Uns 20 passageiros, galera dos distritos de Icatu, além de várias coisas: camarão, farinha, um fogão e até uma moto (Natália estava amarrada no teto).",
     "notes_en": "Smooth boat crossing with beautiful views of the bay. Around 20 passengers from the Icatu districts, plus lots of cargo — shrimp, flour, a stove, and even a motorcycle (Natália was tied to the roof)."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.2571389, -2.4844722]
+  },
+  "properties": {
+    "place_name_pt": "São Luís, MA, Brasil",
+    "place_name_en": "São Luís, MA, Brazil",
+    "arrival_date": "21/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1730,
+    "notes_pt": "Cheguei em São Luís. Erika e Alex me acolheram muito gentilmente na casa deles, passei 3 noites lá. No dia da minha chegada, era aniversário do Alex! Comemoramos num restaurante com amigos deles. Pude também explorar um pouco São Luís de bike e a pé, principalmente o centro histórico. Gostei do museu do reggae. E levei a Natália pra fazer a primeira revisão da viagem! Tava precisando mesmo, principalmente depois de tantos trechos de praia que a castigaram, coitada. Também peguei as primeiras chuvas da viagem. E curti um pouco de praia no Calhau.",
+    "notes_en": "I arrived in São Luís. Erika and Alex very kindly welcomed me into their home, and I spent 3 nights there. It was Alex's birthday on the day I arrived! We celebrated at a restaurant with their friends. I also got to explore São Luís a bit by bike and on foot, especially the historic center. I enjoyed the Reggae Museum. And I took Natália (the bike) for her first trip check-up! She really needed it, especially after so many beach stretches that punished her, poor thing. I also got caught in the first rains of the trip. And I enjoyed some time at Calhau beach."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.3077056, -2.5303611]
+  },
+  "properties": {
+    "place_name_pt": "São Luís (Terminal de Ferry), MA, Brasil",
+    "place_name_en": "São Luís (Ferry Terminal), MA, Brazil",
+    "arrival_date": "24/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1745,
+    "notes_pt": "Acordei cedinho na sexta-feira pra ir até o centro e de lá pegar o ferry de 7h pra atravessar pra Alcântara",
+    "notes_en": "I woke up early on Friday to go to the city center and catch the 7 a.m. ferry from there to cross over to Alcântara."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.4167222, -2.4097778]
+  },
+  "properties": {
+    "place_name_pt": "Alcântara, MA, Brasil",
+    "place_name_en": "Alcântara, MA, Brazil",
+    "arrival_date": "24/10/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 1745,
+    "notes_pt": "Travessia agitada, eu não sou de passar mal em barco mas tava no andar de baixo, tudo fechado, cheirando a mofo, e o barco balançando um monte, me senti enjoado e subi pra respirar ar fresco. Chegando em Alcântara, vi que o suporte de garrafinha da bike quebrou, mas por sorte já consegui substituir ele bem rápido.",
+    "notes_en": "The crossing was rough. I don't usually get seasick, but I was on the lower deck, everything was closed, smelling of mold, and the boat was rocking a lot. I felt nauseous and went upstairs to get some fresh air. Arriving in Alcântara, I saw that my bike's water bottle cage had broken, but luckily I was able to replace it very quickly."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-44.7902222, -2.4826111]
+  },
+  "properties": {
+    "place_name_pt": "Bequimão, MA, Brasil",
+    "place_name_en": "Bequimão, MA, Brazil",
+    "arrival_date": "24/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1825,
+    "notes_pt": "Dia puxado de pedal. Bastante relevo, muitas pequenas descidas e subidas ('não existe descida grátis'), e furei o pneu num lugar bem remoto com o sol quente, e demorei pra conseguir remendar. Pelo menos no fim do dia fui recompensado achando o posto Mylane no trevo pra Bequimão, que foi excelente para pernoitar.",
+    "notes_en": "A tough day of cycling. Lots of rolling terrain, many small descents and ascents ('there's no free descent'), and I got a flat tire in a very remote place under the hot sun, taking a long time to patch it. At least at the end of the day, I was rewarded by finding the Mylane gas station at the junction to Bequimão, which was excellent for spending the night."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-45.2730833, -2.3005556]
+  },
+  "properties": {
+    "place_name_pt": "Queimadas, MA, Brasil",
+    "place_name_en": "Queimadas, MA, Brazil",
+    "arrival_date": "25/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1905,
+    "notes_pt": "Tempo nublado ajudando, o asfalto ruim já nem tanto. Passei por alguns municípios, o principal sendo Pinheiro. Tinham postos de gasolina promissores pra dormir em Bacabeira, mas já estava cansado com 80 km nas pernas parei em Queimadas, num posto não muito acolhedor. Sábado a noite, música alta e bem próximo da rodovia, foi a primeira vez que usei minha lona por cima da rede pra ficar mais dichava. De manhã um cara pagou café e broa de milho pra mim, ele insistiu.",
+    "notes_en": "Cloudy weather helped, but the bad asphalt didn't. I passed through a few municipalities, the main one being Pinheiro. There were promising gas stations to sleep at in Bacabeira, but I was already tired with 80 km in my legs, so I stopped in Queimadas, at a not-very-welcoming gas station. Saturday night, loud music, and very close to the highway—it was the first time I used my tarp over the hammock to be less exposed. In the morning, a guy insisted on paying for my coffee and corn bread."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-45.9608889, -2.0471944]
+  },
+  "properties": {
+    "place_name_pt": "Maracaçumé, MA, Brasil",
+    "place_name_en": "Maracaçumé, MA, Brazil",
+    "arrival_date": "26/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 1995,
+    "notes_pt": "Mais um dia sem grandes emoções, seguindo a rodovia estadual. Rendi bem de manhã e almocei em Governador Nunes Freire. Cheguei em Maracaçumé e achei um hotelzinho bem simples por apenas 30 reais a diária, com suíte privativa. Foi ótimo pra descansar mais tranquilo e ter um pouco mais de conforto. Até cozinhei com o fogareiro dentro do quarto. De manhã atingi a marca de 2000 km pedalados!",
+    "notes_en": "Another day without major excitement, following the state highway. I performed well in the morning and had lunch in Governador Nunes Freire. I arrived in Maracaçumé and found a very simple little hotel for only 30 reais a night, with a private suite. It was great for a quieter rest and a bit more comfort. I even cooked with my stove inside the room. In the morning, I hit the 2000 km cycling mark!"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-46.5485295, -1.7577845]
+  },
+  "properties": {
+    "place_name_pt": "Cachoeira do Piriá, PA, Brasil",
+    "place_name_en": "Cachoeira do Piriá, PA, Brazil",
+    "arrival_date": "27/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2080,
+    "notes_pt": "Numa parada num posto de gasolina, pela primeira vez encontrei outro ciclo viajante: o Celso, que estava vindo pedalando desde o Espírito Santo. Pedalamos algumas dezenas de quilômetros juntos — ele viaja muito equipado, inclusive com panela de pressão que usou para preparar nosso almoço. Nos separamos perto da divisa MA/PA em Boa Vista do Gurupi e finalmente entrei no Pará. Terminei o dia em Cachoeira do Piriá num posto de gasolina com uma boa vista pra floresta.",
+    "notes_en": "At a gas station stop, I met another bike traveler for the first time: Celso, who had been riding from Espírito Santo. We cycled together for several dozen kilometres — he travels very well equipped, even bringing a pressure cooker which he used to make our lunch. We parted ways near the MA/PA border at Boa Vista do Gurupi and I finally entered Pará. I finished the day in Cachoeira do Piriá at a gas station with a nice view over the forest."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.0491366, -1.3572961]
+  },
+  "properties": {
+    "place_name_pt": "Estivas (Santa Luzia do Pará), PA, Brasil",
+    "place_name_en": "Estivas (Santa Luzia do Pará), PA, Brazil",
+    "arrival_date": "28/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2155,
+    "notes_pt": "Dia marcado por dois furos de pneu e encontros que só a estrada proporciona. O primeiro furo foi de manhã sob sol forte em uma área remota, mas por sorte havia uma casa perto onde pude pedir abrigo, fazer o remendo com calma na sombra e beber água fresca. Segui viagem e almocei em Santa Luzia do Pará. A meta era chegar em Capanema, mas cerca de 20 km antes, já no fim da tarde, tive outro furo. Por sorte, eu tinha acabado de passar por um vilarejo chamado Estivas. Quando terminei de remendar já estava escuro. Fui muito bem acolhido no bar do Jorge Romão — me ofereceram abrigo, água, comida e até uma dose de cachaça. Só não deu pra tomar banho, então foi meio desagradável dormir tão sujo.",
+    "notes_en": "A day marked by two flat tires and the kind of encounters only the road provides. The first flat happened in the morning under strong sun in a remote area, but luckily there was a house nearby where I could ask for shelter, fix the puncture calmly in the shade, and drink fresh water. I continued on and had lunch in Santa Luzia do Pará. The goal was to reach Capanema, but about 20 km before it, near the end of the afternoon, I had another flat. Fortunately, I had just passed through a small village called Estivas. By the time I finished patching the tube it was already dark. I was warmly welcomed at Jorge Romão’s bar — they offered me shelter, water, food, and even a shot of cachaça. The only downside was not being able to shower, so it was a bit unpleasant to sleep that dirty."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.6296951, -1.1283324]
+  },
+  "properties": {
+    "place_name_pt": "Igarapé-Açu, PA, Brasil",
+    "place_name_en": "Igarapé-Açu, PA, Brazil",
+    "arrival_date": "29/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2240,
+    "notes_pt": "Meu café da manhã às 6h foi o feijão que eu tinha ganhado na noite anterior. Parti cedo e pedalei 20 km até Capanema, onde parei em um posto de gasolina e finalmente tomei um banho e comi com mais calma. Reencontrei brevemente o Celso por lá, mas não seguimos juntos porque ele estava ajeitando a bike. Passei pela cidadezinha de Peixe-Boi, que achei bonita e bem cuidada, e almocei em Nova Timboteua, onde tirei o melhor cochilo pós-almoço da viagem: o restaurante tinha uma área de redário com ar-condicionado, e o dono me ofereceu para dormir lá. Por fim, segui até Igarapé-Açu, onde paguei R$ 50 por um hotelzinho, comi um bom açaí e assisti à classificação do Flamengo na Libertadores com outros hóspedes.",
+    "notes_en": "My breakfast at 6 a.m. was the beans I had received the night before. I left early and cycled 20 km to Capanema, where I stopped at a gas station and finally took a shower and ate properly. I briefly met Celso again there, but we didn’t ride together because he was fixing his bike. I passed through the small town of Peixe-Boi, which I found pretty and well kept, and had lunch in Nova Timboteua, where I took the best post-lunch nap of the trip: the restaurant had a hammock area with air-conditioning, and the owner offered me a spot to sleep. Finally, I continued to Igarapé-Açu, where I paid R$ 50 for a small hotel, had a good açaí bowl, and watched Flamengo qualify for the Libertadores final with other guests."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5407600, -0.6246376]
+  },
+  "properties": {
+    "place_name_pt": "Fortalezinha (Ilha de Maiandeua / Algodoal), PA, Brasil",
+    "place_name_en": "Fortalezinha (Maiandeua Island / Algodoal), PA, Brazil",
+    "arrival_date": "30/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2306,
+    "notes_pt": "Passei uma manhã tranquila sem pressa em Igarapé-Açu, mas precisei fazer um remendo, pois o pneu havia furado e esvaziado durante a noite. Almocei lá mesmo e só de tarde parti para pedalar os 66 km até a Ilha de Maiandeua (Algodoal). Cheguei pela vila de 40 do Mocoóca já no anoitecer. Segui a pé empurrando a bike até Fortalezinha, conversando com um morador pelo caminho. Encontrei um ótimo lugar para pernoitar no Paraíso dos Coqueiros, com o Careca e o casal Vanessa e Andrey, que vendem lanches. Um pequeno teto para armar a rede e ainda liberaram o banheiro. A vila é charmosa, tranquila, com ruas de areia. Me enturmei com o pessoal, conversamos e jogamos damas—e fui amassado todas as vezes kkk.",
+    "notes_en": "I had a slow, relaxed morning in Igarapé-Açu, though I had to patch a flat tire that had deflated overnight. I had lunch there and only left in the afternoon to ride the 66 km to Maiandeua Island (Algodoal). I arrived through the small village of 40 do Mocoóca at dusk. I walked while pushing the bike to Fortalezinha, chatting with a local along the way. I found a great place to spend the night at Paraíso dos Coqueiros, with Careca and the couple Vanessa and Andrey who run a small snack stand. They offered me a little roofed area to hang my hammock and let me use the bathroom. The village is charming and quiet, with sandy streets. I connected with the folks there, we chatted and played checkers—and I got crushed every time lol."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5856176, -0.6197200]
+  },
+  "properties": {
+    "place_name_pt": "Camboinha (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Camboinha (Maiandeua Island), PA, Brazil",
+    "arrival_date": "31/10/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2310,
+    "notes_pt": "Fiquei de boa em Fortalezinha e, por volta das 16h, pedalei os 4 km de trilha pela mata até Camboinha, um caminho bem agradável. No final da trilha conheci o Elton, que estava voltando para casa em Algodoal. Tomamos algumas cervejas no bar da Waldirene, amiga dele em Camboinha.",
+    "notes_en": "I had a relaxed morning in Fortalezinha and around 4 p.m. cycled the 4 km forest trail to Camboinha — a very pleasant ride. At the end of the trail, I met Elton, who was on his way back home to Algodoal. We had a few beers at his friend Waldirene’s bar in Camboinha."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5877145, -0.5922286]
+  },
+  "properties": {
+    "place_name_pt": "Algodoal (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Algodoal (Maiandeua Island), PA, Brazil",
+    "arrival_date": "31/10/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2310,
+    "notes_pt": "De Camboinha, peguei a rabeta com Elton e Juninho até Algodoal. Elton me recebeu na casa dele! No dia seguinte, meus amigos Diego e Antônio chegaram e ficamos no camping Casa Laranja, da Marina, carimbózeira. Foram dias ótimos em Algodoal, entre conversas nas redes, passeios, praia, bolo podre (bolo de tapioca) e açaí fresco.",
+    "notes_en": "From Camboinha, I took a small boat (rabeta) with Elton and Juninho to Algodoal. Elton hosted me at his home! The next day my friends Diego and Antônio arrived and we stayed at Casa Laranja campground, run by Marina, a carimbó dancer. We enjoyed wonderful days in Algodoal — chatting in hammocks, exploring, going to the beach, eating ‘bolo podre’ (tapioca cake) and fresh açaí."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5848401, -0.6200311]
+  },
+  "properties": {
+    "place_name_pt": "Camboinha (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Camboinha (Maiandeua Island), PA, Brazil",
+    "arrival_date": "04/11/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2310,
+    "notes_pt": "Partimos para uma volta a pé pela ilha, levando apenas o essencial. O primeiro trecho foi de rabeta, de Algodoal até Camboinha, onde ficamos no restaurante da Wal, que eu já havia conhecido no dia anterior. Passamos a tarde por lá, jogando sinuca e tirando um cochilo. Caminhamos até o igarapé da Nazaré, mas chegamos já no anoitecer e havia pouca água. Wal preparou um camarão no bafo delicioso, que comemos com açaí e farinha. Conversamos bastante — ela é uma liderança da comunidade, uma pessoa inteligente e inspiradora. Armamos as redes no restaurante e dormimos ali mesmo.",
+    "notes_en": "We set out to walk around the island, carrying only the essentials. The first stretch was by small boat (rabeta), from Algodoal to Camboinha, where we stayed at Wal's restaurant, whom I had met the day before. We spent the afternoon there relaxing, playing pool, and napping. We walked to the Nazaré stream, but arrived at dusk and there wasn’t much water. Wal prepared delicious steamed shrimp, which we ate with açaí and farinha. We talked a lot — she is a community leader, intelligent and inspiring. We hung our hammocks inside the restaurant and slept there."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5392476, -0.6211190]
+  },
+  "properties": {
+    "place_name_pt": "Fortalezinha (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Fortalezinha (Maiandeua Island), PA, Brazil",
+    "arrival_date": "05/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2310,
+    "notes_pt": "Fizemos a trilha de Camboinha até Fortalezinha tranquilamente e nos instalamos no Paraíso dos Coqueiros, com Andrey, Vanessa e Careca. Passamos a tarde curtindo a praia de Fortalezinha, completamente vazia, com encontro do mangue e do mar, e uma faixa de areia extensa na maré baixa. No fim da tarde, já com a maré enchendo, formou-se uma lagoa onde avistamos muitos pássaros — inclusive guarás — e alguns kitesurfistas. O que viemos a pé tivemos que voltar de barco; o motor ainda falhou no caminho, mas o barqueiro conseguiu conduzir com calma mesmo sem remo. Jantamos no lanche do casal e ainda vimos o final de um culto na praça. Dormimos no friozinho agradável com o vento da noite.",
+    "notes_en": "We hiked from Camboinha to Fortalezinha and settled at Paraíso dos Coqueiros, with Andrey, Vanessa and Careca. We spent the afternoon enjoying Fortalezinha’s beach, completely empty, where the mangrove meets the sea and an extensive sand strip appears at low tide. By late afternoon, as the tide rose, a lagoon formed, with many birds — including scarlet ibises — and a few kitesurfers. The stretch we walked we had to return by boat; the engine even failed, but the boatman managed to steer calmly without a paddle. We had dinner at the couple’s snack bar and watched the end of a church service in the square. We slept comfortably with the cool night breeze."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.5869001, -0.5857477]
+  },
+  "properties": {
+    "place_name_pt": "Algodoal (Ilha de Maiandeua), PA, Brasil",
+    "place_name_en": "Algodoal (Maiandeua Island), PA, Brazil",
+    "arrival_date": "06/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2310,
+    "notes_pt": "No último dia da nossa volta à ilha fizemos a caminhada mais longa e também a mais bonita, com a vegetação variando entre áreas mais abertas de areia e trechos de floresta fechada. Nos refrescamos no Lago Grande, que estava seco e raso. Reencontramos o mar na praia de Mupéua, bem na hora da maré baixa, o que permitiu atravessar o rio a pé com facilidade. Fizemos uma longa pausa ali, com direito a macarrão preparado no fogareiro. No fim da tarde chegamos à Praia da Princesa e subimos a duna para ver o pôr do sol. Depois disso, curtimos os últimos dias em Algodoal, com carimbó na sexta e no sábado. Também resolvi a situação da bola que eu tinha perdido do Elton: comprei outra pelo Mercado Livre, que chegou em Castanhal e passou de mão em mão — carro e barco — até finalmente chegar ao Elton.",
+    "notes_en": "On the last day of our island loop, we walked the longest and most beautiful stretch, with vegetation shifting between sandy open areas and denser forest. We cooled off at Lago Grande, which was dry and shallow. We reached the sea again at Mupéua Beach during low tide, allowing us to cross the river on foot with no issues. We took a long break there, cooking pasta on the camping stove. By late afternoon we arrived at Princesa Beach and watched the sunset from the dune. After that, we enjoyed our final days in Algodoal, including carimbó on Friday and Saturday. I also solved the situation with the ball I had lost from Elton: I bought another one online, it arrived in Castanhal, and traveled hand-to-hand — by car and boat — until it finally reached Elton."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.6329858, -0.6245169]
+  },
+  "properties": {
+    "place_name_pt": "Marudá, PA, Brasil",
+    "place_name_en": "Marudá, PA, Brazil",
+    "arrival_date": "09/11/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2310,
+    "notes_pt": "Domingo de manhã foi dia de pegar o barco para Marudá e me despedir dos amigos, que seguiram de carro para Belém. Eu voltei para a bike após mais de uma semana de pausa.",
+    "notes_en": "Sunday morning was time to take the boat to Marudá and say goodbye to my friends, who continued by car to Belém. I returned to the bike after more than a week of rest."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-47.9250143, -1.1987748]
+  },
+  "properties": {
+    "place_name_pt": "Castanhal, PA, Brasil",
+    "place_name_en": "Castanhal, PA, Brazil",
+    "arrival_date": "09/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2394,
+    "notes_pt": "Primeiro dia de volta ao pedal começou bem quente, mas de tarde refrescou, já dando sinal de chuva. Mais um pneu furado (estou ficando cada vez mais rápido para remendar) e bem na hora que começou o toró, uns 10 km antes de chegar em Castanhal, cheguei no balneário Kikuchi, que eu já tinha identificado no mapa com potencial para pernoitar. O gerente Renan foi super receptivo, me convidou para dormir lá sem custos, pude ainda nadar no rio, tomar banho e tive uma área boa com mesas, cadeiras, tomadas e wifi.",
+    "notes_en": "First day back on the bike started very hot, but the afternoon cooled down, already showing signs of rain. Another flat tire (I'm getting faster at fixing them), and right when the downpour started, about 10 km before reaching Castanhal, I arrived at Balneário Kikuchi, which I had already spotted on the map as a possible place to stay. The manager, Renan, was very welcoming, invited me to sleep there for free, and I was able to swim in the river, take a shower, and use a nice area with tables, chairs, power outlets and Wi-Fi."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-48.4643861, -1.4378437]
+  },
+  "properties": {
+    "place_name_pt": "Belém, PA, Brasil",
+    "place_name_en": "Belém, PA, Brazil",
+    "arrival_date": "10/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2480,
+    "notes_pt": "Saí cedo e fiz os 10 km até Castanhal, onde completei meu café da manhã e fiz manutenções importantes na bicicleta numa oficina: troquei os raios da roda traseira que estava completamente empenada, finalmente botei as fitas antifuro nos dois pneus e também ajeitei o freio traseiro. O amigo também trocou a válvula da câmara frontal, que estava danificada desde o Piauí. Com a Natália renovada, voei até Belém, onde fui direto para a área verde da COP 30, que estava começando. Uma chuva forte encharcou completamente as minhas coisas. Fiquei na casa do Aderbal, que já tinha me recebido em Belém em 2023. Passeamos no Mercado São Brás e depois rolou um churrasco na casa da amiga dele com uma galera de vários lugares — São Luís, Brasília, até Guatemala. No dia seguinte encontrei amigos Mari e Osmar na COP. Fim de tarde na Casa das Onze Janelas para ver uma palestra, depois participei do pedal da Renata Falzoni. Reencontrei Mari e amigos dela num show, e dali fomos para a Casa Ninja, que estava bem animada. Ainda encontrei Kayanã (que me hospedou em Atins) e Patrícia lá.",
+    "notes_en": "I left early and rode the 10 km to Castanhal, where I finished my breakfast and did important bike maintenance at a workshop: replaced the spokes of the rear wheel, which was completely warped, finally added anti-puncture liners to both tires, and adjusted the rear brake. The mechanic also changed the valve of the front tube, which had been damaged since Piauí. With Natália renewed, I flew to Belém, where I went straight to the green zone of COP 30, which was just starting. A strong rain soaked all my stuff. I stayed at Aderbal's place, who had already hosted me in Belém in 2023. We visited Mercado São Brás and later went to a barbecue at his friend's house with people from several places — São Luís, Brasília, even Guatemala. The next day I met friends Mari and Osmar at the COP. In the late afternoon we went to Casa das Onze Janelas for a talk, then I joined Renata Falzoni's bike ride. I met up with Mari and her friends at a show, and then we went to Casa Ninja, which was really lively. I even met Kayanã (who hosted me in Atins) and Patrícia there."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-54.6952746, -2.4272193]
+  },
+  "properties": {
+    "place_name_pt": "Santarém, PA, Brasil",
+    "place_name_en": "Santarém, PA, Brazil",
+    "arrival_date": "15/11/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2500,
+    "notes_pt": "Após uma estadia curta porém intensa em Belém, peguei o barco para Santarém. Foram dois dias e meio bem tranquilos, de descanso na rede, leitura, filmes, escrita, observando a floresta — de vez em quando até aparecia um boto — e conversando com outros passageiros. Na parada em Breves comprei açaí por apenas 10 reais o litro, mas estava meio aguado. Na terceira e última noite tive uma dor de barriga chata. Chegamos em Santarém no sábado de manhã, e reencontrei a Natália, que tinha viajado no piso inferior.",
+    "notes_en": "After a short but intense stay in Belém, I took the boat to Santarém. It was two and a half very calm days — resting in the hammock, reading, watching movies, writing, observing the forest (occasionally spotting a river dolphin), and chatting with other passengers. During the stop in Breves I bought a liter of açaí for only 10 reais, though it was a bit watery. On the third and last night I had some annoying stomach pain. We arrived in Santarém on Saturday morning, where I reunited with Natália, who had traveled on the lower deck."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-54.9557017, -2.5021938]
+  },
+  "properties": {
+    "place_name_pt": "Alter do Chão, PA, Brasil",
+    "place_name_en": "Alter do Chão, PA, Brazil",
+    "arrival_date": "15/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2540,
+    "notes_pt": "Foram duas semanas e meia boas demais em Alter! Voluntariei no hostel Don Preguiça da Marlene, com Thea e Hermes. Rotina tranquila de trabalho, praia no CAT ou Lago Verde, às vezes algum rolê. Foi ótimo rever amigos que passaram por lá: Pilar, Diego e Chloé. Teve trilha com pernoite na Flona do Tapajós, banhos deliciosos de igarapé, praia do Pindobal, passeios de caiaque. Comemorei meu aniversário — Thea até fez um bolo de cenoura muito bom! — e vimos o Flamengo ser campeão da Libertadores, com direito à comemoração no carimbó depois. Minha segunda passagem por Alter e pelo Don só reforçou o carinho enorme que tenho por esse lugar.",
+    "notes_en": "I spent two and a half wonderful weeks in Alter! I volunteered at Don Preguiça Hostel with Marlene, Thea, and Hermes. A peaceful routine of work, beach time at CAT or Lago Verde, and occasional outings. It was great to see friends who passed through: Pilar, Diego, and Chloé. I did a hike with an overnight stay in the Tapajós National Forest, enjoyed refreshing igarapé baths, and visited Pindobal Beach. I celebrated my birthday — Thea even made a delicious carrot cake! — and we watched Flamengo win the Libertadores, with celebrations at a carimbó event afterwards. My second time in Alter and at Don only strengthened how much I love this place."
   }
 }
   ]
