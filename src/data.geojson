@@ -752,6 +752,22 @@
     "notes_pt": "Saí cedo e fiz os 10 km até Castanhal, onde completei meu café da manhã e fiz manutenções importantes na bicicleta numa oficina: troquei os raios da roda traseira que estava completamente empenada, finalmente botei as fitas antifuro nos dois pneus e também ajeitei o freio traseiro. O amigo também trocou a válvula da câmara frontal, que estava danificada desde o Piauí. Com a Natália renovada, voei até Belém, onde fui direto para a área verde da COP 30, que estava começando. Uma chuva forte encharcou completamente as minhas coisas. Fiquei na casa do Aderbal, que já tinha me recebido em Belém em 2023. Passeamos no Mercado São Brás e depois rolou um churrasco na casa da amiga dele com uma galera de vários lugares — São Luís, Brasília, até Guatemala. No dia seguinte encontrei amigos Mari e Osmar na COP. Fim de tarde na Casa das Onze Janelas para ver uma palestra, depois participei do pedal da Renata Falzoni. Reencontrei Mari e amigos dela num show, e dali fomos para a Casa Ninja, que estava bem animada. Ainda encontrei Kayanã (que me hospedou em Atins) e Patrícia lá.",
     "notes_en": "I left early and rode the 10 km to Castanhal, where I finished my breakfast and did important bike maintenance at a workshop: replaced the spokes of the rear wheel, which was completely warped, finally added anti-puncture liners to both tires, and adjusted the rear brake. The mechanic also changed the valve of the front tube, which had been damaged since Piauí. With Natália renewed, I flew to Belém, where I went straight to the green zone of COP 30, which was just starting. A strong rain soaked all my stuff. I stayed at Aderbal's place, who had already hosted me in Belém in 2023. We visited Mercado São Brás and later went to a barbecue at his friend's house with people from several places — São Luís, Brasília, even Guatemala. The next day I met friends Mari and Osmar at the COP. In the late afternoon we went to Casa das Onze Janelas for a talk, then I joined Renata Falzoni's bike ride. I met up with Mari and her friends at a show, and then we went to Casa Ninja, which was really lively. I even met Kayanã (who hosted me in Atins) and Patrícia there."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-54.6952746, -2.4272193]
+  },
+  "properties": {
+    "place_name_pt": "Santarém, PA, Brasil",
+    "place_name_en": "Santarém, PA, Brazil",
+    "arrival_date": "15/11/2025",
+    "transport_to_here": "boat",
+    "km_traveled": 2500,
+    "notes_pt": "Após uma estadia curta porém intensa em Belém, peguei o barco para Santarém. Foram dois dias e meio bem tranquilos, de descanso na rede, leitura, filmes, escrita, observando a floresta — de vez em quando até aparecia um boto — e conversando com outros passageiros. Na parada em Breves comprei açaí por apenas 10 reais o litro, mas estava meio aguado. Na terceira e última noite tive uma dor de barriga chata. Chegamos em Santarém no sábado de manhã, e reencontrei a Natália, que tinha viajado no piso inferior.",
+    "notes_en": "After a short but intense stay in Belém, I took the boat to Santarém. It was two and a half very calm days — resting in the hammock, reading, watching movies, writing, observing the forest (occasionally spotting a river dolphin), and chatting with other passengers. During the stop in Breves I bought a liter of açaí for only 10 reais, though it was a bit watery. On the third and last night I had some annoying stomach pain. We arrived in Santarém on Saturday morning, where I reunited with Natália, who had traveled on the lower deck."
+  }
 }
   ]
 }
