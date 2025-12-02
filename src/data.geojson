@@ -768,6 +768,22 @@
     "notes_pt": "Após uma estadia curta porém intensa em Belém, peguei o barco para Santarém. Foram dois dias e meio bem tranquilos, de descanso na rede, leitura, filmes, escrita, observando a floresta — de vez em quando até aparecia um boto — e conversando com outros passageiros. Na parada em Breves comprei açaí por apenas 10 reais o litro, mas estava meio aguado. Na terceira e última noite tive uma dor de barriga chata. Chegamos em Santarém no sábado de manhã, e reencontrei a Natália, que tinha viajado no piso inferior.",
     "notes_en": "After a short but intense stay in Belém, I took the boat to Santarém. It was two and a half very calm days — resting in the hammock, reading, watching movies, writing, observing the forest (occasionally spotting a river dolphin), and chatting with other passengers. During the stop in Breves I bought a liter of açaí for only 10 reais, though it was a bit watery. On the third and last night I had some annoying stomach pain. We arrived in Santarém on Saturday morning, where I reunited with Natália, who had traveled on the lower deck."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-54.9557017, -2.5021938]
+  },
+  "properties": {
+    "place_name_pt": "Alter do Chão, PA, Brasil",
+    "place_name_en": "Alter do Chão, PA, Brazil",
+    "arrival_date": "15/11/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2540,
+    "notes_pt": "Foram duas semanas e meia boas demais em Alter! Voluntariei no hostel Don Preguiça da Marlene, com Thea e Hermes. Rotina tranquila de trabalho, praia no CAT ou Lago Verde, às vezes algum rolê. Foi ótimo rever amigos que passaram por lá: Pilar, Diego e Chloé. Teve trilha com pernoite na Flona do Tapajós, banhos deliciosos de igarapé, praia do Pindobal, passeios de caiaque. Comemorei meu aniversário — Thea até fez um bolo de cenoura muito bom! — e vimos o Flamengo ser campeão da Libertadores, com direito à comemoração no carimbó depois. Minha segunda passagem por Alter e pelo Don só reforçou o carinho enorme que tenho por esse lugar.",
+    "notes_en": "I spent two and a half wonderful weeks in Alter! I volunteered at Don Preguiça Hostel with Marlene, Thea, and Hermes. A peaceful routine of work, beach time at CAT or Lago Verde, and occasional outings. It was great to see friends who passed through: Pilar, Diego, and Chloé. I did a hike with an overnight stay in the Tapajós National Forest, enjoyed refreshing igarapé baths, and visited Pindobal Beach. I celebrated my birthday — Thea even made a delicious carrot cake! — and we watched Flamengo win the Libertadores, with celebrations at a carimbó event afterwards. My second time in Alter and at Don only strengthened how much I love this place."
+  }
 }
   ]
 }
