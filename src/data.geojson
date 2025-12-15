@@ -816,6 +816,22 @@
     "notes_pt": "Dois dias de barco tranquilos pelo Rio Amazonas, com Thea e Alban, que conheci em Alter — mas Alban acabou ficando doente, e depois descobrimos que era dengue 😬. Nós três dividimos um airbnb por duas noites; depois eles seguiram viagem e eu fui ficar com minha tia Fátima, que coincidentemente estava em Manaus a trabalho. Pude ficar no hotel dela, bastante luxuoso e com ótimas refeições. Também passeamos pela cidade, fomos à manifestação Mulheres Vivas e assistimos a espetáculos no Teatro Amazonas — muito bom! Gostei de conhecer a Clarissa e o Ademar, amigos da Fátima.",
     "notes_en": "Two calm days by boat along the Amazon River, with Thea and Alban, whom I met in Alter — though Alban got sick, and we later found out it was dengue 😬. The three of us shared a airbnb for two nights; then they continued their journey, and I went to stay with my aunt Fátima, who happened to be in Manaus for work. I was able to stay at her hotel, quite luxurious and with great meals. We also explored the city, went to the 'Mulheres Vivas' demonstration, and saw performances at the Amazon Theatre — really great! I also enjoyed meeting Clarissa and Ademar, Fátima’s friends."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.0389689, -2.6205938]
+  },
+  "properties": {
+    "place_name_pt": "BR-174 (km 41), AM, Brasil",
+    "place_name_en": "BR-174 (km 41), AM, Brazil",
+    "arrival_date": "14/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2812,
+    "notes_pt": "Enfim retomando a estrada pra valer após um mês e meio de pouco pedal (que foi ótimo para descansar). Saí tarde no calorão de Manaus e, logo com 10 km, ainda na cidade, já furei o pneu — de novo na parte interna da câmara (como nas últimas vezes). Fiz o remendo, coloquei uma fita de borracha entre o aro e a câmara, e calibrei o pneu em 60 psi (mais alto). Tomara que segure bem assim 🙏 Enfim cheguei à famosa BR-174, que vou seguir por vários dias — a única ligação com Roraima. Comecei a fazer um serviço de mapeamento dos cafés e restaurantes na beira da BR em troca do almoço, pro dono do restaurante onde comi. Ele vai colocar no mapa para outros viajantes. Segui sem incidentes até o km 41, onde há uma vilinha, e pernoitei no mezanino de uma borracharia. Quando tirei minha bagagem, o bagageiro — que já era motivo de preocupação por estar rachado em vários pontos — quebrou feio. Tomei meu banho (na borracharia mesmo), fiz minha massa e deixei pra resolver de manhã.",
+    "notes_en": "Finally back on the road for real after a month and a half of little cycling (which was great for resting). I left late under Manaus’ scorching heat, and after just 10 km — still in the city — I got another flat, once again on the inner side of the tube (like the last few times). I patched it, added a rubber strip between the rim and the tube, and inflated it to 60 psi (a bit higher). Hopefully it holds up well 🙏 I finally reached the famous BR-174, which I’ll follow for several days — the only road connection to Roraima. I started a little project mapping roadside cafés and restaurants along the BR in exchange for meals, for the restaurant owner where I ate; he’ll add it to a map for other travelers. Continued without issues until km 41, where there’s a small village, and spent the night in the mezzanine of a tire repair shop. When I removed my luggage, the rack — already a concern due to several cracks — broke badly. Took a shower (right there at the shop), cooked my pasta, and left the problem to solve in the morning."
+  }
 }
   ]
 }
