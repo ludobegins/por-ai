@@ -784,6 +784,22 @@
     "notes_pt": "Foram duas semanas e meia boas demais em Alter! Voluntariei no hostel Don Preguiça da Marlene, com Thea e Hermes. Rotina tranquila de trabalho, praia no CAT ou Lago Verde, às vezes algum rolê. Foi ótimo rever amigos que passaram por lá: Pilar, Diego e Chloé. Teve trilha com pernoite na Flona do Tapajós, banhos deliciosos de igarapé, praia do Pindobal, passeios de caiaque. Comemorei meu aniversário — Thea até fez um bolo de cenoura muito bom! — e vimos o Flamengo ser campeão da Libertadores, com direito à comemoração no carimbó depois. Minha segunda passagem por Alter e pelo Don só reforçou o carinho enorme que tenho por esse lugar.",
     "notes_en": "I spent two and a half wonderful weeks in Alter! I volunteered at Don Preguiça Hostel with Marlene, Thea, and Hermes. A peaceful routine of work, beach time at CAT or Lago Verde, and occasional outings. It was great to see friends who passed through: Pilar, Diego, and Chloé. I did a hike with an overnight stay in the Tapajós National Forest, enjoyed refreshing igarapé baths, and visited Pindobal Beach. I celebrated my birthday — Thea even made a delicious carrot cake! — and we watched Flamengo win the Libertadores, with celebrations at a carimbó event afterwards. My second time in Alter and at Don only strengthened how much I love this place."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-54.7174954, -2.4180755]
+  },
+  "properties": {
+    "place_name_pt": "Santarém, PA, Brasil",
+    "place_name_en": "Santarém, PA, Brazil",
+    "arrival_date": "03/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2485,
+    "notes_pt": "De volta a Santarém para pegar o barco para Manaus, com emoção: o pneu furou no caminho e temi perder o barco. Ainda retirei os alforges novos impermeáveis que meus pais me deram de aniversário — vão ser bem úteis para essa temporada de chuvas que está começando.",
+    "notes_en": "Back in Santarém to catch the boat to Manaus — with some excitement, since I got a flat tire on the way and feared missing the boat. I also picked up my new waterproof panniers, a birthday gift from my parents — they’ll be very useful for this upcoming rainy season."
+  }
 }
   ]
 }
