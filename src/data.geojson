@@ -848,6 +848,22 @@
     "notes_pt": "De manhã, na borracharia ao lado, com a ajuda de um cara conseguimos improvisar um conserto no bagageiro usando dois vergalhões de aço e abraçadeiras — e sustentou. Segui viagem e parei para almoçar pouco antes de começar uma chuva forte que durou bastante. Enfim cheguei em Presidente Figueiredo e acampei nos fundos de um posto na entrada da cidade. No dia seguinte, a prioridade foi resolver o bagageiro: rodei a cidade e encontrei o Guto, que tinha um bagageiro velho. Conseguimos fixá-lo por cima do antigo com borrachas — ficou um verdadeiro Frankenstein kkk, mas o importante é que ficou sólido. À tarde fui à Cachoeira das Orquídeas, muito boa. Como não encontrei um lugar melhor, voltei para o mesmo posto para acampar. A última manhã foi bem tranquila, mas na hora de sair o pneu furou de novo… acabei perdendo o começo da final do Mundial enquanto remendava. Flamengo perdeu para o PSG nos pênaltis.",
     "notes_en": "In the morning, at the tire shop next door, with the help of a guy we improvised a fix for the rack using two steel rods and clamps — and it held. I continued riding and stopped for lunch just before a heavy rain started, which lasted quite a while. I eventually arrived in Presidente Figueiredo and camped behind a gas station at the city entrance. The next day, fixing the rack was the priority: I rode around and finally found Guto, who had an old rack. We managed to secure it on top of the old one with rubber straps — a real Frankenstein setup lol, but solid, which is what mattered. In the afternoon I visited Cachoeira das Orquídeas, really nice. Not finding a better spot, I returned to the same gas station to camp. The last morning was very calm, but right when I left I got another flat tire… I even missed the start of the Club World Cup final while patching it. Flamengo lost to PSG on penalties."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.1526409, -1.7196925]
+  },
+  "properties": {
+    "place_name_pt": "BR-174 (km 148), AM, Brasil",
+    "place_name_en": "BR-174 (km 148), AM, Brazil",
+    "arrival_date": "17/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2941,
+    "notes_pt": "Acabei saindo tarde de Presidente Figueiredo, por volta das 16h40, assumindo o risco de pedalar com a noite chegando numa estrada com longos trechos sem ponto de apoio. Pedalei quase uma hora após o pôr do sol; já estava bem escuro, mas eu estava com as luzes ligadas. Felizmente o asfalto estava bom e a estrada não era muito movimentada, mas segui sempre atento ao fluxo, especialmente de caminhões. Cheguei ao restaurante do Gaúcho, à beira da estrada, que eu tinha visto no iOverlander. Jantei, tomei banho e armei minha rede ali mesmo — ponto clássico de caminhoneiros. Descobri que existem caminhões que custam R$ 1,3 milhão ou mais. O Gaúcho é gente boa e bom de papo, mas eu estava cansado e meio antissocial rs. Um caminhoneiro dormiu ao meu lado roncando forte.",
+    "notes_en": "I ended up leaving Presidente Figueiredo late, around 4:40 p.m., knowingly taking the risk of riding as night approached on a highway with long stretches without any support points. I rode for almost an hour after sunset; it was already quite dark, but I had my lights on. Fortunately, the asphalt was good and traffic was light, though I stayed very alert, especially with trucks. I arrived at Gaúcho’s roadside restaurant, which I had spotted on iOverlander. I had dinner, took a shower, and hung my hammock there — a classic trucker stop. I learned that some trucks cost R$1.3 million or more. Gaúcho was friendly and chatty, but I was tired and a bit antisocial lol. A truck driver slept next to me, snoring loudly."
+  }
 }
   ]
 }
