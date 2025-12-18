@@ -864,6 +864,22 @@
     "notes_pt": "Acabei saindo tarde de Presidente Figueiredo, por volta das 16h40, assumindo o risco de pedalar com a noite chegando numa estrada com longos trechos sem ponto de apoio. Pedalei quase uma hora após o pôr do sol; já estava bem escuro, mas eu estava com as luzes ligadas. Felizmente o asfalto estava bom e a estrada não era muito movimentada, mas segui sempre atento ao fluxo, especialmente de caminhões. Cheguei ao restaurante do Gaúcho, à beira da estrada, que eu tinha visto no iOverlander. Jantei, tomei banho e armei minha rede ali mesmo — ponto clássico de caminhoneiros. Descobri que existem caminhões que custam R$ 1,3 milhão ou mais. O Gaúcho é gente boa e bom de papo, mas eu estava cansado e meio antissocial rs. Um caminhoneiro dormiu ao meu lado roncando forte.",
     "notes_en": "I ended up leaving Presidente Figueiredo late, around 4:40 p.m., knowingly taking the risk of riding as night approached on a highway with long stretches without any support points. I rode for almost an hour after sunset; it was already quite dark, but I had my lights on. Fortunately, the asphalt was good and traffic was light, though I stayed very alert, especially with trucks. I arrived at Gaúcho’s roadside restaurant, which I had spotted on iOverlander. I had dinner, took a shower, and hung my hammock there — a classic trucker stop. I learned that some trucks cost R$1.3 million or more. Gaúcho was friendly and chatty, but I was tired and a bit antisocial lol. A truck driver slept next to me, snoring loudly."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.4054891, -1.2906925]
+  },
+  "properties": {
+    "place_name_pt": "BR-174 (km 204), AM, Brasil",
+    "place_name_en": "BR-174 (km 204), AM, Brazil",
+    "arrival_date": "18/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2998,
+    "notes_pt": "Acordei cedo, mas estava chovendo forte e a chuva durou horas. Tomei o café com calma, meditei e li na rede, e só fui sair quase às 10h. Felizmente a estrada ficou mais plana, ainda com algumas subidas e descidas, mas bem menos que nos dias anteriores. O tempo seguiu nublado, embora eu tenha me enganado e queimado os braços com o mormaço. Cheguei à tarde na vila Abonari, a última antes da Terra Indígena Waimiri Atroari, fiz algumas comprinhas e segui um pouco adiante até um restaurante, onde consegui comer e dormir, assim como no restaurante do Gaúcho. Agora me aguarda o maior desafio da viagem até agora: atravessar os 125 km da terra indígena, onde vou precisar me garantir na comida, na água e na perna 😅. Preciso fazer tudo em um único dia, durante o dia, pois a permanência à noite é proibida — e também perigosa por causa das onças.",
+    "notes_en": "I woke up early, but it was raining heavily and the rain lasted for hours. I had a slow breakfast, meditated, and read in my hammock, only setting off around 10 a.m. Luckily the road became flatter, still with some climbs and descents, but far fewer than on previous days. The weather stayed cloudy, though I fooled myself and ended up burning my arms in the muggy heat. I arrived in the afternoon at the village of Abonari, the last one before the Waimiri Atroari Indigenous Territory, did some shopping, and continued a bit further to a roadside restaurant, where I could eat and sleep, just like at Gaúcho’s place. Now the biggest challenge of the trip so far awaits me: crossing the 125 km of indigenous land, where I’ll need to be fully self-sufficient with food, water, and legs 😅. I must do it all in one day, during daylight, since staying overnight is forbidden — and also dangerous because of jaguars."
+  }
 }
   ]
 }
