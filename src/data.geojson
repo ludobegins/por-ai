@@ -832,6 +832,22 @@
     "notes_pt": "Enfim retomando a estrada pra valer após um mês e meio de pouco pedal (que foi ótimo para descansar). Saí tarde no calorão de Manaus e, logo com 10 km, ainda na cidade, já furei o pneu — de novo na parte interna da câmara (como nas últimas vezes). Fiz o remendo, coloquei uma fita de borracha entre o aro e a câmara, e calibrei o pneu em 60 psi (mais alto). Tomara que segure bem assim 🙏 Enfim cheguei à famosa BR-174, que vou seguir por vários dias — a única ligação com Roraima. Comecei a fazer um serviço de mapeamento dos cafés e restaurantes na beira da BR em troca do almoço, pro dono do restaurante onde comi. Ele vai colocar no mapa para outros viajantes. Segui sem incidentes até o km 41, onde há uma vilinha, e pernoitei no mezanino de uma borracharia. Quando tirei minha bagagem, o bagageiro — que já era motivo de preocupação por estar rachado em vários pontos — quebrou feio. Tomei meu banho (na borracharia mesmo), fiz minha massa e deixei pra resolver de manhã.",
     "notes_en": "Finally back on the road for real after a month and a half of little cycling (which was great for resting). I left late under Manaus’ scorching heat, and after just 10 km — still in the city — I got another flat, once again on the inner side of the tube (like the last few times). I patched it, added a rubber strip between the rim and the tube, and inflated it to 60 psi (a bit higher). Hopefully it holds up well 🙏 I finally reached the famous BR-174, which I’ll follow for several days — the only road connection to Roraima. I started a little project mapping roadside cafés and restaurants along the BR in exchange for meals, for the restaurant owner where I ate; he’ll add it to a map for other travelers. Continued without issues until km 41, where there’s a small village, and spent the night in the mezzanine of a tire repair shop. When I removed my luggage, the rack — already a concern due to several cracks — broke badly. Took a shower (right there at the shop), cooked my pasta, and left the problem to solve in the morning."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.0201180, -2.0579620]
+  },
+  "properties": {
+    "place_name_pt": "Presidente Figueiredo, AM, Brasil",
+    "place_name_en": "Presidente Figueiredo, AM, Brazil",
+    "arrival_date": "15/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2885,
+    "notes_pt": "De manhã, na borracharia ao lado, com a ajuda de um cara conseguimos improvisar um conserto no bagageiro usando dois vergalhões de aço e abraçadeiras — e sustentou. Segui viagem e parei para almoçar pouco antes de começar uma chuva forte que durou bastante. Enfim cheguei em Presidente Figueiredo e acampei nos fundos de um posto na entrada da cidade. No dia seguinte, a prioridade foi resolver o bagageiro: rodei a cidade e encontrei o Guto, que tinha um bagageiro velho. Conseguimos fixá-lo por cima do antigo com borrachas — ficou um verdadeiro Frankenstein kkk, mas o importante é que ficou sólido. À tarde fui à Cachoeira das Orquídeas, muito boa. Como não encontrei um lugar melhor, voltei para o mesmo posto para acampar. A última manhã foi bem tranquila, mas na hora de sair o pneu furou de novo… acabei perdendo o começo da final do Mundial enquanto remendava. Flamengo perdeu para o PSG nos pênaltis.",
+    "notes_en": "In the morning, at the tire shop next door, with the help of a guy we improvised a fix for the rack using two steel rods and clamps — and it held. I continued riding and stopped for lunch just before a heavy rain started, which lasted quite a while. I eventually arrived in Presidente Figueiredo and camped behind a gas station at the city entrance. The next day, fixing the rack was the priority: I rode around and finally found Guto, who had an old rack. We managed to secure it on top of the old one with rubber straps — a real Frankenstein setup lol, but solid, which is what mattered. In the afternoon I visited Cachoeira das Orquídeas, really nice. Not finding a better spot, I returned to the same gas station to camp. The last morning was very calm, but right when I left I got another flat tire… I even missed the start of the Club World Cup final while patching it. Flamengo lost to PSG on penalties."
+  }
 }
   ]
 }
