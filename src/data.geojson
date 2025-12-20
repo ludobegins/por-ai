@@ -880,6 +880,22 @@
     "notes_pt": "Acordei cedo, mas estava chovendo forte e a chuva durou horas. Tomei o café com calma, meditei e li na rede, e só fui sair quase às 10h. Felizmente a estrada ficou mais plana, ainda com algumas subidas e descidas, mas bem menos que nos dias anteriores. O tempo seguiu nublado, embora eu tenha me enganado e queimado os braços com o mormaço. Cheguei à tarde na vila Abonari, a última antes da Terra Indígena Waimiri Atroari, fiz algumas comprinhas e segui um pouco adiante até um restaurante, onde consegui comer e dormir, assim como no restaurante do Gaúcho. Agora me aguarda o maior desafio da viagem até agora: atravessar os 125 km da terra indígena, onde vou precisar me garantir na comida, na água e na perna 😅. Preciso fazer tudo em um único dia, durante o dia, pois a permanência à noite é proibida — e também perigosa por causa das onças.",
     "notes_en": "I woke up early, but it was raining heavily and the rain lasted for hours. I had a slow breakfast, meditated, and read in my hammock, only setting off around 10 a.m. Luckily the road became flatter, still with some climbs and descents, but far fewer than on previous days. The weather stayed cloudy, though I fooled myself and ended up burning my arms in the muggy heat. I arrived in the afternoon at the village of Abonari, the last one before the Waimiri Atroari Indigenous Territory, did some shopping, and continued a bit further to a roadside restaurant, where I could eat and sleep, just like at Gaúcho’s place. Now the biggest challenge of the trip so far awaits me: crossing the 125 km of indigenous land, where I’ll need to be fully self-sufficient with food, water, and legs 😅. I must do it all in one day, during daylight, since staying overnight is forbidden — and also dangerous because of jaguars."
   }
+}, 
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.6919551, -0.2214738]
+  },
+  "properties": {
+    "place_name_pt": "Jundiá, RR, Brasil",
+    "place_name_en": "Jundiá, RR, Brazil",
+    "arrival_date": "19/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 2983,
+    "notes_pt": "Dia mais longo de pedal até aqui! 125 km pela terra indígena, das 7h às 16h. Logo na entrada, fui parado por guardas que quiseram assegurar que eu me garantia de atravessar tudo no pedal antes do anoitecer, tranquilizei eles que sim. Administrei bem o pedal, com vários lanchinhos e tomando bastante água e isotônico caseiro (água, tang, sal e limão), curtindo a floresta e atento com o alto fluxo de caminhões. Felizmente sem incidentes, parei no primeiro posto de gasolina após a TI pra pernoitar.",
+    "notes_en": "Longest day of cycling so far! 125 km through indigenous land, from 7 a.m. to 4 p.m. Right at the entrance, I was stopped by guards who wanted to make sure I could complete the entire crossing by bike before nightfall; I reassured them that I could. I managed the ride well, with several small snacks and plenty of water and homemade electrolyte drink (water, Tang, salt, and lemon), enjoying the forest while staying alert due to the heavy truck traffic. Thankfully without incidents, I stopped at the first gas station after the Indigenous Territory to spend the night."
+  }
 }
   ]
 }
