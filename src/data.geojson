@@ -896,6 +896,22 @@
     "notes_pt": "Dia mais longo de pedal até aqui! 125 km pela terra indígena, das 7h às 16h. Logo na entrada, fui parado por guardas que quiseram assegurar que eu me garantia de atravessar tudo no pedal antes do anoitecer, tranquilizei eles que sim. Administrei bem o pedal, com vários lanchinhos e tomando bastante água e isotônico caseiro (água, tang, sal e limão), curtindo a floresta e atento com o alto fluxo de caminhões. Felizmente sem incidentes, parei no primeiro posto de gasolina após a TI pra pernoitar.",
     "notes_en": "Longest day of cycling so far! 125 km through indigenous land, from 7 a.m. to 4 p.m. Right at the entrance, I was stopped by guards who wanted to make sure I could complete the entire crossing by bike before nightfall; I reassured them that I could. I managed the ride well, with several small snacks and plenty of water and homemade electrolyte drink (water, Tang, salt, and lemon), enjoying the forest while staying alert due to the heavy truck traffic. Thankfully without incidents, I stopped at the first gas station after the Indigenous Territory to spend the night."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.5221833, 0.2314428]
+  },
+  "properties": {
+    "place_name_pt": "BR-174 (perto de Bela Vista), RR, Brasil",
+    "place_name_en": "BR-174 (near Bela Vista), RR, Brazil",
+    "arrival_date": "20/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3042,
+    "notes_pt": "Após o longo pedal da véspera, foi ótimo uma manhã mais tranquila. Fiquei quase 2h no telefone com a Carol, foi ótimo botar o papo em dia. Fui começar a pedalar quase meio dia só, no calor. Após uns 20 e poucos km, cruzei a linha do Equador! Tirei umas fotos no marco na beira da estrada. Agora a viagem segue no hemisfério norte. Almocei num restaurante logo adiante. Muitas araras hoje, principalmente casais, e falando bastante, foi legal observá-las. Parei pra pernoitar num restaurante mais adiante. Ahh e hoje outro marco: completei 3000 km pedalados!",
+    "notes_en": "After the long ride the day before, it was great to have a calmer morning. I spent almost two hours on the phone with Carol, catching up properly. I only started riding close to noon, in the heat. After a little over 20 km, I crossed the Equator! I took some photos at the roadside marker. From now on, the journey continues in the Northern Hemisphere. I had lunch at a restaurant shortly after. Lots of macaws today, mostly in pairs and very vocal — it was great to watch them. I stopped to spend the night at another restaurant further along. Oh, and another milestone today: I completed 3000 km cycled!"
+  }
 }
   ]
 }
