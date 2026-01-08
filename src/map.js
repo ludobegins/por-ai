@@ -47,7 +47,7 @@ function addJourneyData(map) {
                     type: 'circle',
                     source: 'journey-points',
                     paint: {
-                        'circle-radius': 6,
+                        'circle-radius': 8,
                         'circle-stroke-width': 1,
                         'circle-color': '#007cbf',
                         'circle-stroke-color': 'white'
