@@ -1024,6 +1024,22 @@
     "notes_pt": "Bate e volta na Guiana! 🇬🇾 Fui com Pedro e sua família (pais, irmã e filha). Em 1h30 entramos na Guiana e tiramos umas fotos na ponte da fronteira. Não teve qualquer tipo de controle de documentos. Seguimos por estradas de terra até as belas Kumu Falls. É um riozinho descendo a serra na floresta, com várias quedas d'água em diferentes pontos acessíveis por uma trilha curta. E não tinha absolutamente ninguém. Bom demais! Depois almoçamos em Lethem, cidade da fronteira onde muitos brasileiros vêm fazer compras e trazer muamba. Passamos em algumas lojas. Comprei um coletinho refletor pra usar na estrada. Depois voltamos pra BV, ainda deu tempo de buscar a Nat na revisão.",
     "notes_en": "A quick round trip to Guyana! 🇬🇾 I went with Pedro and his family (parents, sister, and daughter). In about 1.5 hours we entered Guyana and took some photos on the border bridge. There was no document control at all. We followed dirt roads to the beautiful Kumu Falls. It’s a small river descending the forested hills, with several waterfalls at different spots accessible via a short trail — and there was absolutely no one there. Amazing! Afterwards we had lunch in Lethem, the border town where many Brazilians go shopping and bringing back goods. We stopped by a few shops and I bought a reflective vest to use on the road. Then we returned to Boa Vista, with enough time to pick up Nat from the bike service."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.6947687, 2.8127160]
+  },
+  "properties": {
+    "place_name_pt": "Boa Vista, RR, Brasil",
+    "place_name_en": "Boa Vista, RR, Brazil",
+    "arrival_date": "29/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3406,
+    "notes_pt": "Última noite em Boa Vista, preparativos. Despedi de Pedro e Cecília, e de volta pra estrada!",
+    "notes_en": "Last night in Boa Vista, getting ready. Said goodbye to Pedro and Cecília, and back on the road!"
+  }
 }
   ]
 }
