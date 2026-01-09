@@ -976,6 +976,22 @@
     "notes_pt": "Enfim cheguei em Boa Vista! Pedro do CIR (que conheci através do Reinaldo, que conheci pelo trabalho na umgrauemeio), me recebeu muito bem na casa dele, com sua filha Cecília, muito fofa. Trocamos bastante ideia sobre vários assuntos, de política a geologia. Passei o Natal com a família do Raimundo que eu tinha conhecido 2 dias antes, foi bem divertido, fizeram várias brincadeiras, até ganhei uma tábua (de cozinha) num leilão com dinheiro falso. Dia 25 fiquei só de boa descansando, foi ótimo",
     "notes_en": "I finally arrived in Boa Vista! Pedro from CIR (whom I met through Reinaldo, whom I met via my work at umgrauemeio) welcomed me warmly into his home, along with his very cute daughter Cecília. We had great conversations about many topics, from politics to geology. I spent Christmas with Raimundo’s family, whom I had met two days earlier — it was a lot of fun, with games and activities, and I even won a cutting board at an auction using fake money. On the 25th I just relaxed and rested, which was great."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.9634613, 2.9209594]
+  },
+  "properties": {
+    "place_name_pt": "Alto Alegre, RR, Brasil",
+    "place_name_en": "Alto Alegre, RR, Brazil",
+    "arrival_date": "25/12/2025",
+    "transport_to_here": "car",
+    "km_traveled": 3397,
+    "notes_pt": "No dia 25 à noite, fomos para o sítio da Auriane, amiga do Pedro, e da dona Lenir, mãe dela. Dormimos lá de rede. Pedro foi ajudar a implantar um sistema de irrigação para as plantações delas. Ficamos lá o dia seguinte todo. Passeei de caiaque no rio, foi uma delícia. Dona Lenir preparou um ótimo almoço e cochilamos depois. De tarde ajudei um pouco Pedro e Auriane com o posicionamento dos tubos de irrigação. Já de noite voltamos para Boa Vista.",
+    "notes_en": "On the night of the 25th, we went to the rural property of Auriane, a friend of Pedro, and her mother Dona Lenir. We slept there in hammocks. Pedro went to help install an irrigation system for their crops. We stayed there the entire following day. I went kayaking on the river, which was delightful. Dona Lenir prepared a great lunch and we took a nap afterward. In the afternoon, I helped Pedro and Auriane a bit with positioning the irrigation pipes. At night, we returned to Boa Vista."
+  }
 }
   ]
 }
