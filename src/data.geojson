@@ -960,6 +960,22 @@
     "notes_pt": "Altos e baixos de um dia de estrada: Sebastiana trouxe tapiocas e café pra mim 🫶, pneu furou logo de manhã, muitos cajueiros carregados na beira da estrada, enchi a bolsa de cajus. Tô curtindo fazer palavras cruzadas nas horas de descanso. Fim da tarde cheguei na Vila Santa Rita, segundo dia seguido sem chuveiro, dessa vez foi um banho de balde com uma bica na rua. Acampei num bar, tava confortável e tal, a desvantagem foi ser bem perto da BR, com fluxo de carros perto e tal.",
     "notes_en": "Ups and downs of a day on the road: Sebastiana brought me tapiocas and coffee 🫶, I got a flat tire early in the morning, and there were many cashew trees loaded along the roadside — I filled my bag with cashews. I’ve been enjoying doing crossword puzzles during rest breaks. By late afternoon I arrived in Vila Santa Rita, my second consecutive day without a proper shower — this time it was a bucket bath using a street water tap. I camped at a bar; it was comfortable, but the downside was being very close to the highway, with constant car traffic nearby."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.6545362, 2.8492423]
+  },
+  "properties": {
+    "place_name_pt": "Boa Vista, RR, Brasil",
+    "place_name_en": "Boa Vista, RR, Brazil",
+    "arrival_date": "24/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3397,
+    "notes_pt": "Enfim cheguei em Boa Vista! Pedro do CIR (que conheci através do Reinaldo, que conheci pelo trabalho na umgrauemeio), me recebeu muito bem na casa dele, com sua filha Cecília, muito fofa. Trocamos bastante ideia sobre vários assuntos, de política a geologia. Passei o Natal com a família do Raimundo que eu tinha conhecido 2 dias antes, foi bem divertido, fizeram várias brincadeiras, até ganhei uma tábua (de cozinha) num leilão com dinheiro falso. Dia 25 fiquei só de boa descansando, foi ótimo",
+    "notes_en": "I finally arrived in Boa Vista! Pedro from CIR (whom I met through Reinaldo, whom I met via my work at umgrauemeio) welcomed me warmly into his home, along with his very cute daughter Cecília. We had great conversations about many topics, from politics to geology. I spent Christmas with Raimundo’s family, whom I had met two days earlier — it was a lot of fun, with games and activities, and I even won a cutting board at an auction using fake money. On the 25th I just relaxed and rested, which was great."
+  }
 }
   ]
 }
