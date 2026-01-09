@@ -944,6 +944,22 @@
     "notes_pt": "Manhã tranquila até a Vila Nova Paraíso, onde almocei e caiu uma chuva bem forte, por sorte evitei ela. Ali também marcou o ponto em que me separei da 174, após seguir ela desde Manaus. Dali pra Boa Vista seguiria a 432 por ser o caminho mais curto, achei bem tranquila, pouco fluxo, quase nenhum caminhão, asfalto bom. Ela só tem várias pontes meio precárias de madeira, motivo pelo qual muitos veículos evitam justamente. Parei no fim do dia na Vila Baruana, acampei numa escola desativada que tinha banheiro e uma bica. Mas não tinha chuveiro. Sebastiana e José da vendinha ao lado me emprestaram uma mangueira pra tomar um banho. Comi lá com eles trocando o ideia, Sebastiana amazonense e José piauiense, já rodou o Brasil todo vendendo livros. Lá também conheci o Raimundo, que tava de passagem e me convidou pra passar o Natal com a família dele em Boa Vista! Lindo céu estrelado essa noite",
     "notes_en": "A calm morning until Vila Nova Paraíso, where I had lunch and a very heavy rain came down — luckily I managed to avoid it. That also marked the point where I left BR-174 after following it since Manaus. From there to Boa Vista I took BR-432, the shortest route; I found it very peaceful, with little traffic, almost no trucks, and good asphalt. The only downside is several somewhat precarious wooden bridges, which is why many vehicles avoid it. At the end of the day I stopped in Vila Baruana and camped at a deactivated school that had a bathroom and a water tap, though no shower. Sebastiana and José, from the small shop next door, lent me a hose so I could take a bath. I ate there with them, chatting — Sebastiana is from Amazonas and José from Piauí, who has traveled all over Brazil selling books. I also met Raimundo there, who was passing through and invited me to spend Christmas with his family in Boa Vista. Beautiful starry sky that night."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.6752560, 2.2335184]
+  },
+  "properties": {
+    "place_name_pt": "Vila Santa Rita, RR, Brasil",
+    "place_name_en": "Vila Santa Rita, RR, Brazil",
+    "arrival_date": "23/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3301,
+    "notes_pt": "Altos e baixos de um dia de estrada: Sebastiana trouxe tapiocas e café pra mim 🫶, pneu furou logo de manhã, muitos cajueiros carregados na beira da estrada, enchi a bolsa de cajus. Tô curtindo fazer palavras cruzadas nas horas de descanso. Fim da tarde cheguei na Vila Santa Rita, segundo dia seguido sem chuveiro, dessa vez foi um banho de balde com uma bica na rua. Acampei num bar, tava confortável e tal, a desvantagem foi ser bem perto da BR, com fluxo de carros perto e tal.",
+    "notes_en": "Ups and downs of a day on the road: Sebastiana brought me tapiocas and coffee 🫶, I got a flat tire early in the morning, and there were many cashew trees loaded along the roadside — I filled my bag with cashews. I’ve been enjoying doing crossword puzzles during rest breaks. By late afternoon I arrived in Vila Santa Rita, my second consecutive day without a proper shower — this time it was a bucket bath using a street water tap. I camped at a bar; it was comfortable, but the downside was being very close to the highway, with constant car traffic nearby."
+  }
 }
   ]
 }
