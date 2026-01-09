@@ -928,6 +928,22 @@
     "notes_pt": "Almocei em Nova Colina e fiquei empolgado pensando e escrevendo uma ideia de livro de ficção que venho refletindo nas últimas semanas. De tarde eu tava pedalando mal prestando atenção na estrada, com a cabeça totalmente nisso. Enfim cheguei na entrada de Rorainópolis, primeiro parei num posto BR que tinha uns filhotes de cachorros muito fofos, mas não me deixaram ficar lá e acabei indo no posto seguinte, da Atem, onde acampei num matinho atrás do posto. Jantei meu macarrão no ar-condicionado da loja de conveniência, estava passando a final da Copa do Brasil. Arrisquei não botar a lona por cima da rede e de madrugada choveu, mas foi só por alguns instantes, o suficiente pra me acordar no susto. Tinha uma família de argentinos de kombi ali do lado também.",
     "notes_en": "I had lunch in Nova Colina and got excited thinking about and writing an idea for a fiction book I’ve been reflecting on over the past few weeks. In the afternoon I was riding barely paying attention to the road, my mind completely focused on that. I eventually reached the entrance of Rorainópolis; first I stopped at a BR gas station that had some very cute puppies, but they didn’t let me stay, so I went to the next station, an Atem, where I camped in a patch of greenery behind it. I ate my pasta in the air-conditioned convenience store while the Copa do Brasil final was on. I took the risk of not putting the tarp over the hammock and during the night it rained, but only for a few moments—enough to wake me up with a scare. There was also a family of Argentinians in a Kombi parked nearby."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.3782717, 1.6481463]
+  },
+  "properties": {
+    "place_name_pt": "Vila Baruana, RR, Brasil",
+    "place_name_en": "Vila Baruana, RR, Brazil",
+    "arrival_date": "22/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3211,
+    "notes_pt": "Manhã tranquila até a Vila Nova Paraíso, onde almocei e caiu uma chuva bem forte, por sorte evitei ela. Ali também marcou o ponto em que me separei da 174, após seguir ela desde Manaus. Dali pra Boa Vista seguiria a 432 por ser o caminho mais curto, achei bem tranquila, pouco fluxo, quase nenhum caminhão, asfalto bom. Ela só tem várias pontes meio precárias de madeira, motivo pelo qual muitos veículos evitam justamente. Parei no fim do dia na Vila Baruana, acampei numa escola desativada que tinha banheiro e uma bica. Mas não tinha chuveiro. Sebastiana e José da vendinha ao lado me emprestaram uma mangueira pra tomar um banho. Comi lá com eles trocando o ideia, Sebastiana amazonense e José piauiense, já rodou o Brasil todo vendendo livros. Lá também conheci o Raimundo, que tava de passagem e me convidou pra passar o Natal com a família dele em Boa Vista! Lindo céu estrelado essa noite",
+    "notes_en": "A calm morning until Vila Nova Paraíso, where I had lunch and a very heavy rain came down — luckily I managed to avoid it. That also marked the point where I left BR-174 after following it since Manaus. From there to Boa Vista I took BR-432, the shortest route; I found it very peaceful, with little traffic, almost no trucks, and good asphalt. The only downside is several somewhat precarious wooden bridges, which is why many vehicles avoid it. At the end of the day I stopped in Vila Baruana and camped at a deactivated school that had a bathroom and a water tap, though no shower. Sebastiana and José, from the small shop next door, lent me a hose so I could take a bath. I ate there with them, chatting — Sebastiana is from Amazonas and José from Piauí, who has traveled all over Brazil selling books. I also met Raimundo there, who was passing through and invited me to spend Christmas with his family in Boa Vista. Beautiful starry sky that night."
+  }
 }
   ]
 }
