@@ -992,6 +992,22 @@
     "notes_pt": "No dia 25 à noite, fomos para o sítio da Auriane, amiga do Pedro, e da dona Lenir, mãe dela. Dormimos lá de rede. Pedro foi ajudar a implantar um sistema de irrigação para as plantações delas. Ficamos lá o dia seguinte todo. Passeei de caiaque no rio, foi uma delícia. Dona Lenir preparou um ótimo almoço e cochilamos depois. De tarde ajudei um pouco Pedro e Auriane com o posicionamento dos tubos de irrigação. Já de noite voltamos para Boa Vista.",
     "notes_en": "On the night of the 25th, we went to the rural property of Auriane, a friend of Pedro, and her mother Dona Lenir. We slept there in hammocks. Pedro went to help install an irrigation system for their crops. We stayed there the entire following day. I went kayaking on the river, which was delightful. Dona Lenir prepared a great lunch and we took a nap afterward. In the afternoon, I helped Pedro and Auriane a bit with positioning the irrigation pipes. At night, we returned to Boa Vista."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.6672073, 2.8308633]
+  },
+  "properties": {
+    "place_name_pt": "Boa Vista, RR, Brasil",
+    "place_name_en": "Boa Vista, RR, Brazil",
+    "arrival_date": "26/12/2025",
+    "transport_to_here": "car",
+    "km_traveled": 3397,
+    "notes_pt": "Mais dois dias tranquilos em Boa Vista, para resolver algumas coisas e descansar. Deixei a Natália na revisão (a última tinha sido em São Luís) e peguei alguns dólares para a Venezuela. Li bastante na rede. No dia 28 fomos a um churrasco na casa dos pais do Pedro, muito gente boa. Lá também planejamos um bate e volta na Guiana para ir a algumas cachoeiras.",
+    "notes_en": "Two more calm days in Boa Vista, taking care of a few things and resting. I left Natália for a full check-up (the last one had been in São Luís) and got some US dollars for Venezuela. I spent a good amount of time reading in the hammock. On the 28th we went to a barbecue at Pedro’s parents’ house — very kind people. While there, we also planned a quick round trip to Guyana to visit some waterfalls."
+  }
 }
   ]
 }
