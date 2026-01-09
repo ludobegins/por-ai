@@ -912,6 +912,22 @@
     "notes_pt": "Após o longo pedal da véspera, foi ótimo uma manhã mais tranquila. Fiquei quase 2h no telefone com a Carol, foi ótimo botar o papo em dia. Fui começar a pedalar quase meio dia só, no calor. Após uns 20 e poucos km, cruzei a linha do Equador! Tirei umas fotos no marco na beira da estrada. Agora a viagem segue no hemisfério norte. Almocei num restaurante logo adiante. Muitas araras hoje, principalmente casais, e falando bastante, foi legal observá-las. Parei pra pernoitar num restaurante mais adiante. Ahh e hoje outro marco: completei 3000 km pedalados!",
     "notes_en": "After the long ride the day before, it was great to have a calmer morning. I spent almost two hours on the phone with Carol, catching up properly. I only started riding close to noon, in the heat. After a little over 20 km, I crossed the Equator! I took some photos at the roadside marker. From now on, the journey continues in the Northern Hemisphere. I had lunch at a restaurant shortly after. Lots of macaws today, mostly in pairs and very vocal — it was great to watch them. I stopped to spend the night at another restaurant further along. Oh, and another milestone today: I completed 3000 km cycled!"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.4293356, 0.9253816]
+  },
+  "properties": {
+    "place_name_pt": "Rorainópolis, RR, Brasil",
+    "place_name_en": "Rorainópolis, RR, Brazil",
+    "arrival_date": "21/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3122,
+    "notes_pt": "Almocei em Nova Colina e fiquei empolgado pensando e escrevendo uma ideia de livro de ficção que venho refletindo nas últimas semanas. De tarde eu tava pedalando mal prestando atenção na estrada, com a cabeça totalmente nisso. Enfim cheguei na entrada de Rorainópolis, primeiro parei num posto BR que tinha uns filhotes de cachorros muito fofos, mas não me deixaram ficar lá e acabei indo no posto seguinte, da Atem, onde acampei num matinho atrás do posto. Jantei meu macarrão no ar-condicionado da loja de conveniência, estava passando a final da Copa do Brasil. Arrisquei não botar a lona por cima da rede e de madrugada choveu, mas foi só por alguns instantes, o suficiente pra me acordar no susto. Tinha uma família de argentinos de kombi ali do lado também.",
+    "notes_en": "I had lunch in Nova Colina and got excited thinking about and writing an idea for a fiction book I’ve been reflecting on over the past few weeks. In the afternoon I was riding barely paying attention to the road, my mind completely focused on that. I eventually reached the entrance of Rorainópolis; first I stopped at a BR gas station that had some very cute puppies, but they didn’t let me stay, so I went to the next station, an Atem, where I camped in a patch of greenery behind it. I ate my pasta in the air-conditioned convenience store while the Copa do Brasil final was on. I took the risk of not putting the tarp over the hammock and during the night it rained, but only for a few moments—enough to wake me up with a scare. There was also a family of Argentinians in a Kombi parked nearby."
+  }
 }
   ]
 }
