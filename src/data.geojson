@@ -1056,6 +1056,22 @@
     "notes_pt": "De volta pra BR-174! Vento lateral bem forte. Só comi lanchinhos ao longo do dia, então no fim da tarde, quando cheguei na comunidade indígena três corações, com 107 km pedalados, amassei um prato de comida no recanto da paçoca, ponto de parada popular no trevo Boa Vista - Amajari - Pacaraima. Não só comi lá como também tomei banho e acampei por lá.",
     "notes_en": "Back on the BR-174! Very strong crosswinds. I only ate snacks throughout the day, so in the late afternoon, when I arrived at the Três Corações indigenous community after cycling 107 km, I devoured a plate of food at Recanto da Paçoca, a popular stop at the Boa Vista - Amajari - Pacaraima junction. I didn't just eat there; I also took a shower and camped out."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.7297819, 3.7414424]
+  },
+  "properties": {
+    "place_name_pt": "Serra do Tepequém, RR, Brasil",
+    "place_name_en": "Serra do Tepequém, RR, Brazil",
+    "arrival_date": "31/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3612,
+    "notes_pt": "Último dia do ano! Um pedal desafiador pra fechar o ano, 100 km com grande subida da serra no final. Almocei um PF em Amajari, bem no meio do caminho. Anotei umas reflexões de virada de ano no meu caderno. Aproximando da serra a perna já tava pesando e começou o sobe e desce, tendo que empurrar a bike nas subidas mais íngremes. Até que cheguei no chefão final, a subida da serra propriamente dita, cerca de 5 km de subida íngreme. Eu devia ter feito um quarto mais ou menos (empurrando), quando uma família de caminhonete ofereceu carona e aceitei.",
+    "notes_en": "Last day of the year! A challenging ride to close out the year, 100 km with a major mountain climb at the end. I had a standard Brazilian lunch (PF) in Amajari, right halfway through. I wrote down some New Year's reflections in my notebook. Approaching the mountains, my legs were already feeling heavy and the ups and downs began, having to push the bike on the steepest climbs. Finally, I reached the 'final boss': the climb up the mountain range itself, about 5 km of steep ascent. I must have done about a quarter of it (pushing) when a family in a pickup truck offered me a lift, and I accepted."
+  }
 }
   ]
 }
