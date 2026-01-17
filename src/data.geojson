@@ -1072,6 +1072,22 @@
     "notes_pt": "Último dia do ano! Um pedal desafiador pra fechar o ano, 100 km com grande subida da serra no final. Almocei um PF em Amajari, bem no meio do caminho. Anotei umas reflexões de virada de ano no meu caderno. Aproximando da serra a perna já tava pesando e começou o sobe e desce, tendo que empurrar a bike nas subidas mais íngremes. Até que cheguei no chefão final, a subida da serra propriamente dita, cerca de 5 km de subida íngreme. Eu devia ter feito um quarto mais ou menos (empurrando), quando uma família de caminhonete ofereceu carona e aceitei.",
     "notes_en": "Last day of the year! A challenging ride to close out the year, 100 km with a major mountain climb at the end. I had a standard Brazilian lunch (PF) in Amajari, right halfway through. I wrote down some New Year's reflections in my notebook. Approaching the mountains, my legs were already feeling heavy and the ups and downs began, having to push the bike on the steepest climbs. Finally, I reached the 'final boss': the climb up the mountain range itself, about 5 km of steep ascent. I must have done about a quarter of it (pushing) when a family in a pickup truck offered me a lift, and I accepted."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.7330753, 3.7781929]
+  },
+  "properties": {
+    "place_name_pt": "Vila do Tepequém, RR, Brasil",
+    "place_name_en": "Vila do Tepequém, RR, Brazil",
+    "arrival_date": "31/12/2025",
+    "transport_to_here": "truck",
+    "km_traveled": 3612,
+    "notes_pt": "Fui na carroceria, ainda ganhei uma cerveja. Já estava escurecendo. A família me deixou no centro da pequena Vila do Tepequém. Fiquei no camping Aracati, que estava lotado mas a dona Veroci achou um espacinho pra mim. Vem 2026! Passei a virada no luau do camping Picuá, muito bom. Família da Veroci me acolheu super bem nesse começo de ano, depois eles foram pra BV e fui pra outro lugar. Muitas cachoeiras lindas, minha preferida foi a da laje verde. E muitas araras, passando em casais todos os dias. Conheci a Isa, viajante carioca, e fizemos umas trilhas e roles legais juntos. Tanta coisa na serra que acabei ficando 10 dias, bem mais que eu imaginava ⛰️",
+    "notes_en": "I rode in the truck bed and even got a beer. It was already getting dark. The family dropped me off in the center of the small Vila do Tepequém. I stayed at Camping Aracati, which was full, but Dona Veroci found a little spot for me. Welcome 2026! I spent New Year's Eve at the Picuá camping luau, it was great. Veroci's family welcomed me very well at the beginning of the year, then they went back to Boa Vista and I moved elsewhere. Many beautiful waterfalls, my favorite was Laje Verde. And many macaws, passing by in pairs every day. I met Isa, a traveler from Rio, and we did some cool trails and hangouts together. So much to do in the mountains that I ended up staying for 10 days, much longer than I imagined ⛰️"
+  }
 }
   ]
 }
