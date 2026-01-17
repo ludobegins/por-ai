@@ -1040,6 +1040,22 @@
     "notes_pt": "Última noite em Boa Vista, preparativos. Despedi de Pedro e Cecília, e de volta pra estrada!",
     "notes_en": "Last night in Boa Vista, getting ready. Said goodbye to Pedro and Cecília, and back on the road!"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-60.9733325, 3.6419402]
+  },
+  "properties": {
+    "place_name_pt": "Três Corações, RR, Brasil",
+    "place_name_en": "Três Corações, RR, Brazil",
+    "arrival_date": "30/12/2025",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3513,
+    "notes_pt": "De volta pra BR-174! Vento lateral bem forte. Só comi lanchinhos ao longo do dia, então no fim da tarde, quando cheguei na comunidade indígena três corações, com 107 km pedalados, amassei um prato de comida no recanto da paçoca, ponto de parada popular no trevo Boa Vista - Amajari - Pacaraima. Não só comi lá como também tomei banho e acampei por lá.",
+    "notes_en": "Back on the BR-174! Very strong crosswinds. I only ate snacks throughout the day, so in the late afternoon, when I arrived at the Três Corações indigenous community after cycling 107 km, I devoured a plate of food at Recanto da Paçoca, a popular stop at the Boa Vista - Amajari - Pacaraima junction. I didn't just eat there; I also took a shower and camped out."
+  }
 }
   ]
 }
