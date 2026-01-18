@@ -1120,6 +1120,22 @@
     "notes_pt": "Almocei cedo (tipo 10h50) no recanto da paçoca, de volta na BR! Dali eu teria 70 km sem nenhum tipo de apoio até o trevo pro Surumu, onde eu pretendia dormir, então me abasteci bem em água. Mas depois de uns 30 km, a câmara traseira estourou violentamente, algo inédito na viagem. Achei que tivesse rasgado o pneu. Nem tive sombra pra fazer a troca de câmara. Continuei e 10 km adiante outro rasgo e estouro violento. Suspeitei um problema no pneu mesmo se na hora não vi nada evidente. Fiquei com medo de isso seguir acontecendo, então ineditamente resolvi pedir carona.",
     "notes_en": "I had an early lunch (around 10:50 am) at Recanto da Paçoca, back on the highway! From there, I had 70 km without any support until the Surumu junction, where I intended to sleep, so I stocked up well on water. But after about 30 km, the rear inner tube blew out violently, something unprecedented on the trip. I thought the tire had torn. I didn't even have shade to change the tube. I continued and 10 km later another violent tear and blowout. I suspected a problem with the tire itself even though I didn't see anything obvious at the time. I was afraid this would keep happening, so for the first time, I decided to hitchhike."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.1426094, 4.4793148]
+  },
+  "properties": {
+    "place_name_pt": "Pacaraima, RR, Brasil",
+    "place_name_en": "Pacaraima, RR, Brazil",
+    "arrival_date": "12/01/2026",
+    "transport_to_here": "truck",
+    "km_traveled": 3803,
+    "notes_pt": "Um policial federal (com fuzil no pescoço) me deu carona até Pacaraima, em 1 horinha só, e dizer que eu só chegaria no dia seguinte rs. Nessa daí acabei evitando uma bela subida e um trecho de estrada bem ruim. Em Pacaraima o Rommel, ciclista venezuelano dono do restaurante Rustic, me deu um super apoio! Me recebeu na casa dele no restaurante, tive até um quarto só pra mim! Tive um dia e meio de descanso tranquilo, pude comprar um pneu novo (de fato vi que tinha um rasgo no pneu), fazer a sangria nos freios que estavam ruins, lavar roupa, etc. Também liguei pro meu amigo francês Quentin com quem eu não falava há anos, foi ótimo. Após 2 noites, retomei a viagem revigorado pra entrar na Venezuela!",
+    "notes_en": "A federal police officer (with a rifle slung over his neck) gave me a lift to Pacaraima in just an hour; I would have only arrived the next day lol. By doing that, I avoided a major climb and a very bad stretch of road. In Pacaraima, Rommel, a Venezuelan cyclist and owner of the Rustic restaurant, gave me great support! He welcomed me into his home at the restaurant; I even had a room to myself! I had a peaceful day and a half of rest, was able to buy a new tire (I indeed saw a tear in the old one), bled the brakes which were in bad shape, did laundry, etc. I also called my French friend Quentin, whom I hadn't spoken to in years; it was great. After 2 nights, I resumed the journey refreshed and ready to enter Venezuela!"
+  }
 }
   ]
 }
