@@ -1088,6 +1088,22 @@
     "notes_pt": "Fui na carroceria, ainda ganhei uma cerveja. Já estava escurecendo. A família me deixou no centro da pequena Vila do Tepequém. Fiquei no camping Aracati, que estava lotado mas a dona Veroci achou um espacinho pra mim. Vem 2026! Passei a virada no luau do camping Picuá, muito bom. Família da Veroci me acolheu super bem nesse começo de ano, depois eles foram pra BV e fui pra outro lugar. Muitas cachoeiras lindas, minha preferida foi a da laje verde. E muitas araras, passando em casais todos os dias. Conheci a Isa, viajante carioca, e fizemos umas trilhas e roles legais juntos. Tanta coisa na serra que acabei ficando 10 dias, bem mais que eu imaginava ⛰️",
     "notes_en": "I rode in the truck bed and even got a beer. It was already getting dark. The family dropped me off in the center of the small Vila do Tepequém. I stayed at Camping Aracati, which was full, but Dona Veroci found a little spot for me. Welcome 2026! I spent New Year's Eve at the Picuá camping luau, it was great. Veroci's family welcomed me very well at the beginning of the year, then they went back to Boa Vista and I moved elsewhere. Many beautiful waterfalls, my favorite was Laje Verde. And many macaws, passing by in pairs every day. I met Isa, a traveler from Rio, and we did some cool trails and hangouts together. So much to do in the mountains that I ended up staying for 10 days, much longer than I imagined ⛰️"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.2215743, 3.7082088]
+  },
+  "properties": {
+    "place_name_pt": "RR-203, Amajari, RR, Brasil",
+    "place_name_en": "RR-203, Amajari, RR, Brazil",
+    "arrival_date": "11/01/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3730,
+    "notes_pt": "Última noite no tepequém foi de festa, com música ao vivo no bar do espetinho. Acabei saindo tarde já umas 11h30, pedalei uns 50 km e almocei uns salgados e açaí em Amajari. Eu queria chegar até a BR no recanto da paçoca, mas um pneu furado (que me deixou puto kkk) no finalzinho da tarde mudou meus planos. Acabei pernoitando numa lanchonete, o Point dos amigos. Fiz minha massinha e troquei um pouco de ideia com o dono, ele forneceu água e umas bananas, além do abrigo e da estrutura, claro 🙏. Fez jus ao nome!",
+    "notes_en": "The last night in Tepequém was a party, with live music at the bar 'Bar do Espetinho'. I ended up leaving late, around 11:30 am, cycled about 50 km and had some snacks and açaí for lunch in Amajari. I wanted to reach the highway at Recanto da Paçoca, but a flat tire (which made me really pissed lol) in the late afternoon changed my plans. I ended up staying overnight at a snack bar called 'Point dos Amigos'. I made my pasta and chatted a bit with the owner; he provided water and some bananas, in addition to the shelter and the facilities, of course 🙏"
+  }
 }
   ]
 }
