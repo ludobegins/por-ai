@@ -1104,6 +1104,22 @@
     "notes_pt": "Última noite no tepequém foi de festa, com música ao vivo no bar do espetinho. Acabei saindo tarde já umas 11h30, pedalei uns 50 km e almocei uns salgados e açaí em Amajari. Eu queria chegar até a BR no recanto da paçoca, mas um pneu furado (que me deixou puto kkk) no finalzinho da tarde mudou meus planos. Acabei pernoitando numa lanchonete, o Point dos amigos. Fiz minha massinha e troquei um pouco de ideia com o dono, ele forneceu água e umas bananas, além do abrigo e da estrutura, claro 🙏. Fez jus ao nome!",
     "notes_en": "The last night in Tepequém was a party, with live music at the bar 'Bar do Espetinho'. I ended up leaving late, around 11:30 am, cycled about 50 km and had some snacks and açaí for lunch in Amajari. I wanted to reach the highway at Recanto da Paçoca, but a flat tire (which made me really pissed lol) in the late afternoon changed my plans. I ended up staying overnight at a snack bar called 'Point dos Amigos'. I made my pasta and chatted a bit with the owner; he provided water and some bananas, in addition to the shelter and the facilities, of course 🙏"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.0397695, 3.9901442]
+  },
+  "properties": {
+    "place_name_pt": "BR-174, RR, Brasil",
+    "place_name_en": "BR-174, RR, Brazil",
+    "arrival_date": "12/01/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3803,
+    "notes_pt": "Almocei cedo (tipo 10h50) no recanto da paçoca, de volta na BR! Dali eu teria 70 km sem nenhum tipo de apoio até o trevo pro Surumu, onde eu pretendia dormir, então me abasteci bem em água. Mas depois de uns 30 km, a câmara traseira estourou violentamente, algo inédito na viagem. Achei que tivesse rasgado o pneu. Nem tive sombra pra fazer a troca de câmara. Continuei e 10 km adiante outro rasgo e estouro violento. Suspeitei um problema no pneu mesmo se na hora não vi nada evidente. Fiquei com medo de isso seguir acontecendo, então ineditamente resolvi pedir carona.",
+    "notes_en": "I had an early lunch (around 10:50 am) at Recanto da Paçoca, back on the highway! From there, I had 70 km without any support until the Surumu junction, where I intended to sleep, so I stocked up well on water. But after about 30 km, the rear inner tube blew out violently, something unprecedented on the trip. I thought the tire had torn. I didn't even have shade to change the tube. I continued and 10 km later another violent tear and blowout. I suspected a problem with the tire itself even though I didn't see anything obvious at the time. I was afraid this would keep happening, so for the first time, I decided to hitchhike."
+  }
 }
   ]
 }
