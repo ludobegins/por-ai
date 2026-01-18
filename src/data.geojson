@@ -1136,6 +1136,22 @@
     "notes_pt": "Um policial federal (com fuzil no pescoço) me deu carona até Pacaraima, em 1 horinha só, e dizer que eu só chegaria no dia seguinte rs. Nessa daí acabei evitando uma bela subida e um trecho de estrada bem ruim. Em Pacaraima o Rommel, ciclista venezuelano dono do restaurante Rustic, me deu um super apoio! Me recebeu na casa dele no restaurante, tive até um quarto só pra mim! Tive um dia e meio de descanso tranquilo, pude comprar um pneu novo (de fato vi que tinha um rasgo no pneu), fazer a sangria nos freios que estavam ruins, lavar roupa, etc. Também liguei pro meu amigo francês Quentin com quem eu não falava há anos, foi ótimo. Após 2 noites, retomei a viagem revigorado pra entrar na Venezuela!",
     "notes_en": "A federal police officer (with a rifle slung over his neck) gave me a lift to Pacaraima in just an hour; I would have only arrived the next day lol. By doing that, I avoided a major climb and a very bad stretch of road. In Pacaraima, Rommel, a Venezuelan cyclist and owner of the Rustic restaurant, gave me great support! He welcomed me into his home at the restaurant; I even had a room to myself! I had a peaceful day and a half of rest, was able to buy a new tire (I indeed saw a tear in the old one), bled the brakes which were in bad shape, did laundry, etc. I also called my French friend Quentin, whom I hadn't spoken to in years; it was great. After 2 nights, I resumed the journey refreshed and ready to enter Venezuela!"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.1211357, 4.6020060]
+  },
+  "properties": {
+    "place_name_pt": "Santa Elena de Uairén, Venezuela",
+    "place_name_en": "Santa Elena de Uairén, Venezuela",
+    "arrival_date": "14/01/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3821,
+    "notes_pt": "Um novo capítulo da viagem começa: Venezuela! 🇻🇪 inicialmente eu fiquei em dúvidas se mudava de planos, por conta do recente ataque dos EUA em Caracas e captura de Maduro, então até na fronteira acabei pedindo só 30 dias e disse que sairia pela mesma fronteira. Mas bastou 1 dia em Santa Elena conversando com as pessoas pra ver que tá tudo normal. Fui super bem acolhido pelo Luis (Vago, amigo do Rommel) e sua família na comunidade indígena Manak-Krü. Sua mãe Felina fez ótimas refeições, inclusive foi com ela que comi minha primeira (de muitas) arepa. Fui vendo com o Luis a organização e logística pra subir o Monte Roraima, um dos marcos dessa viagem de bike com o qual eu já sonhava há tempos. Enquanto isso, tive uns dias pra passear nos arredores de SEU, de trilhas e belas cachoeiras. Bem prático também a moeda principal ser o real e muitos lugares aceitarem pix.",
+    "notes_en": "A new chapter of the journey begins: Venezuela! 🇻🇪 Initially, I was unsure if I should change my plans due to the recent US attack in Caracas and the capture of Maduro, so at the border, I only requested 30 days and said I would exit through the same border. But one day in Santa Elena talking to people was enough to see that everything is normal. I was very well welcomed by Luis (Vago, a friend of Rommel) and his family in the Manak-Krü indigenous community. His mother, Felina, made great meals; in fact, it was with her that I had my first (of many) arepas. I started working with Luis on the organization and logistics to climb Mount Roraima, one of the milestones of this bike trip that I've been dreaming of for a long time. Meanwhile, I had a few days to explore the surroundings of SEU, with trails and beautiful waterfalls. It's also very practical that the main currency is the Real and many places accept Pix."
+  }
 }
   ]
 }
