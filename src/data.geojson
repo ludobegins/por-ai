@@ -1200,6 +1200,22 @@
     "notes_pt": "De volta pra Kumarakapay, reencontro com a Nat. Pernoitei de novo na pousada do Hector, dessa vez sem o conforto de um quarto mas tive o primeiro chuveiro desde a trilha 🙏",
     "notes_en": "Back in Kumarakapay, reunited with Nat. I stayed overnight again at Hector's inn, this time without the comfort of a room, but I had my first shower since the trek 🙏"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.2191188, 5.4156980]
+  },
+  "properties": {
+    "place_name_pt": "Salto Kama, Venezuela",
+    "place_name_en": "Kama Falls, Venezuela",
+    "arrival_date": "29/01/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 3942,
+    "notes_pt": "Retomando o pedal sem forçar, até o Salto Kama, linda e alta cachoeira, bem perto da estrada. Quase chegando, conheci o Edikxon, de moto, com quem troquei uma ideia e ficou de potencialmente me apoiar em Tumeremo. Chegando no Salto Kama, primeiro pneu furado na Venezuela! Pelo menos eu já tinha chegado. Remendei e comi, e enfim fui ver a cachoeira, não tinha ninguém lá. Um baita poção pra nadar. Fiquei num camping simples por lá, podendo pagar em reais ainda (25). Muito mosquito, especialmente os onipresentes puri puri da Gran Sabana, mosquiteiro representou.",
+    "notes_en": "Resuming the ride without pushing too hard, up to Salto Kama, a beautiful and high waterfall, very close to the road. Almost there, I met Edikxon on a motorcycle; we chatted and he said he might support me in Tumeremo. Arriving at Salto Kama, my first flat tire in Venezuela! At least I had already arrived. I patched it up and ate, and finally went to see the waterfall—there was no one there. A huge pool to swim in. I stayed at a simple campsite there, still able to pay in Reais (25). Lots of mosquitoes, especially the omnipresent 'puri puri' of the Gran Sabana; the mosquito net was a lifesaver."
+  }
 }
   ]
 }
