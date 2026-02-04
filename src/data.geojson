@@ -1184,6 +1184,22 @@
     "notes_pt": "Monte Roraima, surreal! Sensação de estar em outro planeta. Fomos um grupo pequeno, Luis, Ildemaro (ajudante), Sabrina (turista) e eu. Fomos de moto até Paraitepuy, onde por acaso teve aniversário do filho do Roberto que conheci em Santa Elena, fiquei lá um pouco. Saímos no dia seguinte de manhã, 6 dias de trilha, sendo 2 no topo, onde visitamos os principais pontos: pedra maverick, mirantes, jacuzzis, el foso, punto triple, salto catedral... curtindo a atmosfera mística de clima imprevisível, o silêncio, a flora e fauna. Bastante frio à noite, dividir barraca com o Luis ajudou. Ildemáquina cozinhava pra gente 🙌 Na volta ainda pegamos um bom sol e banhos de rio e cachoeira.",
     "notes_en": "Mount Roraima, surreal! Feels like being on another planet. We were a small group: Luis, Ildemaro (helper), Sabrina (tourist), and myself. We went by motorcycle to Paraitepuy, where by chance it was the birthday of the son of Roberto, whom I had met in Santa Elena, so I stayed there for a bit. We set off the next morning; 6 days of trekking, with 2 days on the summit, where we visited the main spots: Maverick Stone, viewpoints, jacuzzis, El Foso, Triple Point, Cathedral Fall... enjoying the mystical atmosphere of unpredictable weather, the silence, the flora, and fauna. Quite cold at night, so sharing a tent with Luis helped. 'Ildemáquina' cooked for us 🙌 On the way back, we still caught some good sun and swam in rivers and waterfalls."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.0974011, 5.0584003]
+  },
+  "properties": {
+    "place_name_pt": "Kumarakapay, Venezuela",
+    "place_name_en": "Kumarakapay, Venezuela",
+    "arrival_date": "28/01/2026",
+    "transport_to_here": "truck",
+    "km_traveled": 3892,
+    "notes_pt": "De volta pra Kumarakapay, reencontro com a Nat. Pernoitei de novo na pousada do Hector, dessa vez sem o conforto de um quarto mas tive o primeiro chuveiro desde a trilha 🙏",
+    "notes_en": "Back in Kumarakapay, reunited with Nat. I stayed overnight again at Hector's inn, this time without the comfort of a room, but I had my first shower since the trek 🙏"
+  }
 }
   ]
 }
