@@ -1216,6 +1216,22 @@
     "notes_pt": "Retomando o pedal sem forçar, até o Salto Kama, linda e alta cachoeira, bem perto da estrada. Quase chegando, conheci o Edikxon, de moto, com quem troquei uma ideia e ficou de potencialmente me apoiar em Tumeremo. Chegando no Salto Kama, primeiro pneu furado na Venezuela! Pelo menos eu já tinha chegado. Remendei e comi, e enfim fui ver a cachoeira, não tinha ninguém lá. Um baita poção pra nadar. Fiquei num camping simples por lá, podendo pagar em reais ainda (25). Muito mosquito, especialmente os onipresentes puri puri da Gran Sabana, mosquiteiro representou.",
     "notes_en": "Resuming the ride without pushing too hard, up to Salto Kama, a beautiful and high waterfall, very close to the road. Almost there, I met Edikxon on a motorcycle; we chatted and he said he might support me in Tumeremo. Arriving at Salto Kama, my first flat tire in Venezuela! At least I had already arrived. I patched it up and ate, and finally went to see the waterfall—there was no one there. A huge pool to swim in. I stayed at a simple campsite there, still able to pay in Reais (25). Lots of mosquitoes, especially the omnipresent 'puri puri' of the Gran Sabana; the mosquito net was a lifesaver."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.4655316, 5.8491026]
+  },
+  "properties": {
+    "place_name_pt": "Rio Aponwao, Troncal 10, Venezuela",
+    "place_name_en": "Aponwao River, Troncal 10, Venezuela",
+    "arrival_date": "30/01/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4006,
+    "notes_pt": "Completei 4000 km pedalados! (E nem me toquei). Cheguei de manhã nos rápidos de Kamoiran, onde tomei banho de rio, almocei num restaurante (pagando com pix ainda! O último). Ia dar 2 aulas, uma de francês e uma de gaita, mas acabaram canceladas, foi até bom porque o wifi (pago) estava bem lento. Assim como no Salto Kama, não tinha eletricidade, só com gerador um pouco à noite. Segui de tarde até um cruzamento com o rio Aponwao (que dá nome a uma das cachoeiras mais famosas da sabana), onde uma família me hospedou, armei minha rede numa área coberta. Mais de 15 cachorros, a maioria bem magrinhos, me assediaram silenciosamente enquanto eu comia meu macarrão, fiquei com dó. Saco de dormir novo rendendo nessas noites frias.",
+    "notes_en": "I completed 4000 km cycled! (And I didn't even realize it). I arrived in the morning at the Kamoiran rapids, where I bathed in the river and had lunch at a restaurant (still paying with Pix! The last one). I was supposed to give two classes, one in French and one in harmonica, but they ended up being canceled, which was actually good because the (paid) wifi was very slow. Just like at Salto Kama, there was no electricity, only with a generator for a bit at night. In the afternoon, I continued to a crossing with the Aponwao River (which gives its name to one of the most famous waterfalls in the savanna), where a family hosted me and I set up my hammock in a covered area. More than 15 dogs, most of them very thin, silently harassed me while I ate my pasta; I felt so sorry for them. The new sleeping bag is paying off during these cold nights."
+  }
 }
   ]
 }
