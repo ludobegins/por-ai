@@ -1328,6 +1328,22 @@
     "notes_pt": "Caminho fácil de Upata até Ciudad Guayana, praticamente uma longa leve descida. Fui direto pro parque La Llovizna, dei a volta dele vendo a floresta, os rios e as grandes cachoeiras vindo da hidroelétrica. Também passei nos parques Loefling e Cachamay, realmente um complexo hídrico impressionante em plena cidade. Enfim fui pra Unare em Puerto Ordaz, onde Manuel e seus filhos Miranda e Manolo me receberam com uma empanada, várias cervejas e bastante papo. Foi interessante ouvir mais sobre a política, economia e história recente da Venezuela com os altos e baixos das últimas décadas. E ouvindo música llanera, inclusive clássicos de Reynaldo Armas, o preferido de Manuel. Acabei passando 3 dias, descansei bastante, levei Nat pro conserto dos freios que estava crítico, e passamos uma tarde deliciosa na Piedra del elefante tomando banho de lago, com churrasco e belo entardecer com vista pra gigante represa. Obrigado à família que me adotou em Puerto Ordaz, e Joel também outro motoqueiro amigo do Manuel.",
     "notes_en": "An easy ride from Upata to Ciudad Guayana, practically one long gentle descent. I went straight to La Llovizna Park, toured around seeing the forest, the rivers, and the large waterfalls coming from the hydroelectric plant. I also visited Loefling and Cachamay parks—truly an impressive water complex right in the middle of the city. Finally, I went to Unare in Puerto Ordaz, where Manuel and his children Miranda and Manolo welcomed me with an empanada, several beers, and plenty of conversation. It was interesting to hear more about the politics, economy, and recent history of Venezuela through the ups and downs of the last decades. And listening to llanera music, including classics by Reynaldo Armas, Manuel's favorite. I ended up staying for 3 days, rested a lot, took 'Nat' to fix the brakes which were in critical condition, and we spent a delightful afternoon at Piedra del Elefante swimming in the lake, with a barbecue and a beautiful sunset overlooking the giant dam. Thanks to the family that adopted me in Puerto Ordaz, and Joel, another motorcycle friend of Manuel."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-62.7938286, 9.1501196]
+  },
+  "properties": {
+    "place_name_pt": "Morichal Largo, Monagas, Venezuela",
+    "place_name_en": "Morichal Largo, Monagas, Venezuela",
+    "arrival_date": "11/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4569,
+    "notes_pt": "O pedal mais longo na Venezuela, por enquanto, 112 km! Comecei cedo por Puerto Ordaz e San Felix, onde conversei com um motociclista que já havia viajado 6 anos de bike pela América do Sul. Atravessei o Rio Orinoco num barquinho de passageiros, uma travessia que economizou uma volta de dezenas de km. Cheguei no estado Monagas! Daí foi um calorão e uma estrada super plana, sem a mínima subida ou descida, por plantações de pinus. Fiz uma pausa um pouco maior em Chaguaramas, comi umas arepas. Enfim cheguei no fim da tarde em Morichal Largo, uma pequena comunidade indígena, onde pude tomar um bom banho de rio, perfeito após o dia de pedal no calor. O pessoal me recebeu gentilmente, armei meu acampamento numa cabana de madeira e teto de palha, a menos de 10 metros do rio (único porém foram os mosquitos rs). Ainda tomei outro banho de rio de manhã, antes de partir.",
+    "notes_en": "The longest ride in Venezuela so far, 112 km! I started early through Puerto Ordaz and San Felix, where I chatted with a motorcyclist who had already traveled for 6 years by bike across South America. I crossed the Orinoco River on a small passenger boat, a crossing that saved a detour of dozens of kilometers. I arrived in the state of Monagas! From there, it was intense heat and a super flat road, without the slightest climb or descent, through pine plantations. I took a slightly longer break in Chaguaramas and had some arepas. I finally arrived in the late afternoon at Morichal Largo, a small indigenous community, where I was able to take a good river bath, perfect after a day of cycling in the heat. The people welcomed me kindly, and I set up my camp in a wooden hut with a thatched roof, less than 10 meters from the river (the only downside was the mosquitoes lol). I even took another river bath in the morning before leaving."
+  }
 }
   ]
 }
