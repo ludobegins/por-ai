@@ -1296,6 +1296,22 @@
     "notes_pt": "Descansado, pedal fluiu melhor. Parei pra almoçar meu lanchinho na praça principal de El Callao, onde rola o carnaval mais famoso do país e já tinha algumas decorações. Me impressionaram as inúmeras lojas de compra de ouro, dominadas por sírios. Também passei por Guasipati, e enfim parei no pequeno vilarejo de beira de estrada de El Cintillo, onde me acomodei na varanda de uma casa ao lado de uma alcabala (posto de controle). Os policiais foram super gentis e me ajudaram com água, café, pão, queijo, bananas.",
     "notes_en": "Feeling rested, the ride flowed better. I stopped to have my snack for lunch at the main square of El Callao, which hosts the most famous carnival in the country and already had some decorations. I was impressed by the countless gold-buying shops, dominated by Syrians. I also passed through Guasipati, and finally stopped at the small roadside village of El Cintillo, where I settled on the porch of a house next to an alcabala (checkpoint). The police officers were super kind and helped me with water, coffee, bread, cheese, and bananas."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-62.3665788, 7.9935859]
+  },
+  "properties": {
+    "place_name_pt": "Upata, Bolívar, Venezuela",
+    "place_name_en": "Upata, Bolívar, Venezuela",
+    "arrival_date": "05/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4371,
+    "notes_pt": "Foi um luxo ter o queijo que os policiais me deram pros lanchinhos. Cheguei de tarde em Upata, no camping La Romana que está sendo ajeitado/construído pelo José André, por enquanto estão apoiando os viajantes na gentileza. Fui super bem recebido pelo José André e Ysabel. O Pedro também, ciclista, me arranjou um raio pra substituir um quebrado e jogamos vôlei na praça com uma galera. O camping tinha sombra, vento, mangas, e com internet boa dei 2 aulas.",
+    "notes_en": "It was a luxury to have the cheese the police officers gave me for my snacks. I arrived in Upata in the afternoon, at Camping La Romana, which is being set up/built by José André; for now, they are supporting travelers out of kindness. I was very well received by José André and Ysabel. Pedro, also a cyclist, got me a spoke to replace a broken one, and we played volleyball in the square with some people. The campsite had shade, wind, mangoes, and with good internet, I gave two classes."
+  }
 }
   ]
 }
