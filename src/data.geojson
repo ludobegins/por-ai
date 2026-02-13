@@ -1280,6 +1280,22 @@
     "notes_pt": "Desviei um pouco da estrada pra passar dentro de El Dorado mesmo no mercado pra comprar comida pro dia. Novamente preços em ouro e caros. Também finalmente comprei um carregador adequado pras tomadas venezuelanas. Não gostei do ambiente da cidade e já saí logo, de volta na estrada rumo a Tumeremo. Cansado e com sol forte, fui num ritmo devagar mas cheguei no fim da tarde em Tumeremo, onde o Edikxon que eu tinha conhecido no outro dia me recebeu. Ele e a família tem uns comércios um colado no outro: loja de roupa e refrigerante, barbearia e restaurante/lanchonete. Trocamos uma ideia e fiz meu acampamento num cantinho de loja. Tinha até ar condicionado, luxo! Eu apaguei cedo de luz acesa e eles vieram me acordar com panquecas 🫶 que eu comi e voltei a dormir. Acabei tirando 1 dia completo de descanso em Tumeremo, muito bem vindo após 6 dias de trilha + 5 de bike. Aproveitei pra me inteirar melhor nas questões monetárias dólar, bolívar, usdt, binance, zinli, zelle, câmbios... dei uma voltinha com o irmão do Edikxon pra comprar comida, liguei pra Bruna e João, ia dar aula de gaita mas caiu a luz. Uma ótima estadia em Tumeremo, muito obrigado Edikxon e família!",
     "notes_en": "I detoured a bit from the road to go into El Dorado itself to the market to buy food for the day. Again, prices were in gold and expensive. I also finally bought a proper charger for Venezuelan outlets. I didn't like the atmosphere of the town and left quickly, back on the road toward Tumeremo. Tired and under a strong sun, I rode at a slow pace but arrived in the late afternoon in Tumeremo, where Edikxon, whom I had met the other day, welcomed me. He and his family have several businesses next to each other: a clothing and soda shop, a barbershop, and a restaurant/snack bar. We chatted and I set up my camp in a corner of the shop. It even had air conditioning—luxury! I fell asleep early with the lights on, and they came to wake me up with pancakes 🫶 which I ate before going back to sleep. I ended up taking a full day of rest in Tumeremo, very welcome after 6 days of trekking + 5 days of cycling. I took the opportunity to learn more about monetary issues: dollar, bolívar, USDT, Binance, Zinli, Zelle, exchange rates... I took a short ride with Edikxon's brother to buy food, called Bruna and João, and was going to give a harmonica lesson, but the power went out. A great stay in Tumeremo, thanks a lot Edikxon and family!"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-61.9623897, 7.6547948]
+  },
+  "properties": {
+    "place_name_pt": "El Cintillo, Bolívar, Venezuela",
+    "place_name_en": "El Cintillo, Bolívar, Venezuela",
+    "arrival_date": "04/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4297,
+    "notes_pt": "Descansado, pedal fluiu melhor. Parei pra almoçar meu lanchinho na praça principal de El Callao, onde rola o carnaval mais famoso do país e já tinha algumas decorações. Me impressionaram as inúmeras lojas de compra de ouro, dominadas por sírios. Também passei por Guasipati, e enfim parei no pequeno vilarejo de beira de estrada de El Cintillo, onde me acomodei na varanda de uma casa ao lado de uma alcabala (posto de controle). Os policiais foram super gentis e me ajudaram com água, café, pão, queijo, bananas.",
+    "notes_en": "Feeling rested, the ride flowed better. I stopped to have my snack for lunch at the main square of El Callao, which hosts the most famous carnival in the country and already had some decorations. I was impressed by the countless gold-buying shops, dominated by Syrians. I also passed through Guasipati, and finally stopped at the small roadside village of El Cintillo, where I settled on the porch of a house next to an alcabala (checkpoint). The police officers were super kind and helped me with water, coffee, bread, cheese, and bananas."
+  }
 }
   ]
 }
