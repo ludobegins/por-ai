@@ -1440,6 +1440,38 @@
     "notes_pt": "César me acompanhou um pouco, saímos cedo no nascer do sol. Em Cariaco, dois amigos dele ciclistas juntaram-se a nós, fomos em grupo conversando até um certo ponto, depois segui sozinho. Cheguei no mar do Caribe!! Não via o mar desde novembro no Pará. O vento ajudou na reta final até Chacopata, onde peguei um barco pra ilha de Margarita. Existem diferentes trajetos possíveis pra chegar na ilha, esse é o mais curto e barato (50 min de travessia, 12$). Me surpreendi com controle de passaportes e revista de bagagens, achei que seria algo mais informal.",
     "notes_en": "César accompanied me for a bit; we left early at sunrise. In Cariaco, two of his cyclist friends joined us, and we rode together chatting up to a certain point, then I continued alone. I reached the Caribbean Sea!! I hadn't seen the sea since November in Pará. The wind helped in the final stretch to Chacopata, where I caught a boat to Margarita Island. There are different possible routes to reach the island; this is the shortest and cheapest (50 min crossing, $12). I was surprised by the passport control and baggage search; I thought it would be something more informal."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.8490599, 10.9485861]
+  },
+  "properties": {
+    "place_name_pt": "Porlamar, Ilha de Margarita, Venezuela",
+    "place_name_en": "Porlamar, Margarita Island, Venezuela",
+    "arrival_date": "21/02/2026",
+    "transport_to_here": "boat",
+    "km_traveled": 4967,
+    "notes_pt": "Travessia agitada com um swell respeitável entre o continente e a ilha. Chegada em Margarita!",
+    "notes_en": "Rough crossing with a respectable swell between the mainland and the island. Arrival in Margarita!"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.8285561, 11.0386201]
+  },
+  "properties": {
+    "place_name_pt": Guacuco, Ilha de Margarita, Venezuela",
+    "place_name_en": "Guacuco, Margarita Island, Venezuela",
+    "arrival_date": "22/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4987,
+    "notes_pt": "Enfim os últimos 20 km pra chegar na sabana de guacuco, onde tive o luxo de ter um ap só pra mim, gentilmente emprestado pelo Olivier. Logo conheci Jesus e Yadira, os vizinhos amigos de baixo e tomei sopa com os outros vizinhos ao lado que consertam carros, Juan, Edgar... ainda tive tempo pra dar o primeiro tibum no Caribe! Amém 🙏 Domingão também foi de praia em Guacuco, linda, com o Jesus comédia resenha que conhece todo mundo na praia. Segunda fiz compras e de passeei de bike por Pampatar, com destaque pras salinas (até peguei um pouco de sal) e o farol na ponta.",
+    "notes_en": "Finally, the last 20 km to reach the Sabana de Guacuco, where I had the luxury of having an apartment all to myself, kindly lent by Olivier. I soon met Jesus and Yadira, the friendly neighbors downstairs, and had soup with the other neighbors next door who fix cars, Juan, Edgar... I even had time for my first dip in the Caribbean! Amen 🙏 Sunday was also a beach day in Guacuco, beautiful, with Jesus—a funny guy who knows everyone on the beach. Monday I went shopping and cycled through Pampatar, with highlights being the salt flats (I even picked up some salt) and the lighthouse at the tip."
+  }
 }
   ]
 }
