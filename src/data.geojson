@@ -1424,6 +1424,22 @@
     "notes_pt": "Dei uma aula meio dia e acabei saindo só às 15h. Saí mesmo assim porque foi praticamente só descida por dezenas de km, de Caripe ao Caribe! Uma descida emocionante de bike, até tirei uma pausa pra nadar num rio, depois peguei uma chuva forte que me fez parar. Na descida final já estava escurecendo pra valer. Enfim cheguei em Terranova, vilarejo já bem perto do mar, passei uma noite na casa do César, amigo do Fernando de Caripe. Conheci a família dele e batemos papo no escuro por conta de uma falta de energia. Dormi ali na varanda na rede.",
     "notes_en": "I gave a class at noon and ended up leaving only at 3 PM. I left anyway because it was practically all downhill for dozens of kilometers, from Caripe to the Caribbean! An exciting descent by bike; I even took a break to swim in a river, then caught a heavy rain that made me stop. During the final descent, it was getting really dark. I finally arrived in Terranova, a village very close to the sea, and spent a night at César's house, a friend of Fernando from Caripe. I met his family and we chatted in the dark due to a power outage. I slept there on the porch in the hammock."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.8205775, 10.6804650]
+  },
+  "properties": {
+    "place_name_pt": "Chacopata, Sucre, Venezuela",
+    "place_name_en": "Chacopata, Sucre, Venezuela",
+    "arrival_date": "21/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4967,
+    "notes_pt": "César me acompanhou um pouco, saímos cedo no nascer do sol. Em Cariaco, dois amigos dele ciclistas juntaram-se a nós, fomos em grupo conversando até um certo ponto, depois segui sozinho. Cheguei no mar do Caribe!! Não via o mar desde novembro no Pará. O vento ajudou na reta final até Chacopata, onde peguei um barco pra ilha de Margarita. Existem diferentes trajetos possíveis pra chegar na ilha, esse é o mais curto e barato (50 min de travessia, 12$). Me surpreendi com controle de passaportes e revista de bagagens, achei que seria algo mais informal.",
+    "notes_en": "César accompanied me for a bit; we left early at sunrise. In Cariaco, two of his cyclist friends joined us, and we rode together chatting up to a certain point, then I continued alone. I reached the Caribbean Sea!! I hadn't seen the sea since November in Pará. The wind helped in the final stretch to Chacopata, where I caught a boat to Margarita Island. There are different possible routes to reach the island; this is the shortest and cheapest (50 min crossing, $12). I was surprised by the passport control and baggage search; I thought it would be something more informal."
+  }
 }
   ]
 }
