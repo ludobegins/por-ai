@@ -1408,6 +1408,22 @@
     "notes_pt": "Pertinho de Caripe, fui pra casa da família que toca o restaurante da cueva del guácharo, tínhamos batido papo no outro dia e me convidaram pra ir lá. Família meio venezuelana meio holandesa, vieram pra Venezuela recentemente após muitos anos na Europa. Tivemos papos interessantes e tocamos um pouco juntos, gaita, cuatro, violocelo e clarinete, um verdadeira orquestra. Fiz o passeio de uma manhã pra cachoeira chorreron, muito linda e com um bom poço pra nadar. Ah também comi minha primeira cachapa feita com milho que eles plantam, uma delícia. Obrigado Maria Virginia e família 🙌",
     "notes_en": "Very close to Caripe, I went to the home of the family that runs the Cueva del Guácharo restaurant; we had chatted the other day and they invited me over. A half-Venezuelan, half-Dutch family, they moved to Venezuela recently after many years in Europe. We had interesting conversations and played music together—harmonica, cuatro, cello, and clarinet, a true orchestra. I took a morning trip to the Chorrerón waterfall, very beautiful with a nice pool for swimming. Oh, and I also ate my first cachapa made with corn they grow themselves, delicious. Thanks Maria Virginia and family 🙌"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.6180369, 10.4825825]
+  },
+  "properties": {
+    "place_name_pt": "Terranova, Sucre, Venezuela",
+    "place_name_en": "Terranova, Sucre, Venezuela",
+    "arrival_date": "20/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4887,
+    "notes_pt": "Dei uma aula meio dia e acabei saindo só às 15h. Saí mesmo assim porque foi praticamente só descida por dezenas de km, de Caripe ao Caribe! Uma descida emocionante de bike, até tirei uma pausa pra nadar num rio, depois peguei uma chuva forte que me fez parar. Na descida final já estava escurecendo pra valer. Enfim cheguei em Terranova, vilarejo já bem perto do mar, passei uma noite na casa do César, amigo do Fernando de Caripe. Conheci a família dele e batemos papo no escuro por conta de uma falta de energia. Dormi ali na varanda na rede.",
+    "notes_en": "I gave a class at noon and ended up leaving only at 3 PM. I left anyway because it was practically all downhill for dozens of kilometers, from Caripe to the Caribbean! An exciting descent by bike; I even took a break to swim in a river, then caught a heavy rain that made me stop. During the final descent, it was getting really dark. I finally arrived in Terranova, a village very close to the sea, and spent a night at César's house, a friend of Fernando from Caripe. I met his family and we chatted in the dark due to a power outage. I slept there on the porch in the hammock."
+  }
 }
   ]
 }
