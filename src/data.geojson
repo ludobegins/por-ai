@@ -1360,7 +1360,22 @@
     "notes_pt": "Cheguei em Maturín e fui recebido pelo Caruso e sua família, bem demais, com chuveiro, ar condicionado e um pratão de risoto! Caruso é motoqueiro e apoia viajantes, recém aposentado após 40 anos como piloto de helicóptero pra PDVSA e governo, muita história pra contar. De noite fomos pro aniversário da Lynndeise, motoqueira do grupo, DMF, conheci vários amigos. Foi divertido, mas no final eu já tava com tanto sono que eu não entendia mais o espanhol kkkk Acabei ficando 3 noites, passeamos pela cidade, inclusive pro evento de bênção das motos por um padre, Nat foi bendita também. Ajudei um pouco o Caruso numa obra. Infelizmente o período foi marcado pelo falecimento de uma das cachorrinhas da família, que vinha doente há um tempo, o que deixou todos bem tristes, especialmente Alejandro, o filho mais novo.",
     "notes_en": "I arrived in Maturín and was welcomed by Caruso and his family, very well received with a shower, air conditioning, and a large plate of risotto! Caruso is a motorcyclist who supports travelers, recently retired after 40 years as a helicopter pilot for PDVSA and the government—lots of stories to tell. At night we went to Lynndeise's birthday, a motorcyclist from the DMF group, and I met several friends. It was fun, but by the end, I was so sleepy I couldn't understand Spanish anymore lol. I ended up staying 3 nights; we toured the city, including a motorcycle blessing event by a priest—'Nat' was blessed too. I helped Caruso a bit with some construction work. Unfortunately, the period was marked by the passing of one of the family's dogs, who had been sick for a while, which left everyone very sad, especially Alejandro, the youngest son."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.6103802, 10.0763512]
+  },
+  "properties": {
+    "place_name_pt": "Guanaguana, Monagas, Venezuela",
+    "place_name_en": "Guanaguana, Monagas, Venezuela",
+    "arrival_date": "15/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4755,
+    "notes_pt": "Jhonny, um ciclista que conheci em Maturín, e um amigo dele me acompanharam por algumas dezenas de km. Almocei em Aragua de Maturín, onde um outro ciclista Khan super gente boa me deu um monte de pão da padaria dele. Enfim cheguei em Guanaguana, onde fui rapidamente 'adotado' por um grupo de locais, especialmente pelo Rodolfo. Ele e o Javier até me levaram de carro pra passear pro vilarejo de San Antonio ali perto e visitamos algumas atrações, incluindo uma igreja do século 17 acho. Em pleno fim de semana de carnaval a praça estava animada e me apresentaram a um monte de gente, o camarada do podrão me deu uns cachorros quentes. Rodolfo também me fez experimentar a arepa raiz, do milho moído na hora, não da harina pan industrializada. Dormi na casa do Rafucho, com um quarto pra mim e tudo. Resenha boa em Guanaguana.",
+    "notes_en": "Jhonny, a cyclist I met in Maturín, and a friend of his accompanied me for a few dozen km. I had lunch in Aragua de Maturín, where another very nice cyclist named Khan gave me a bunch of bread from his bakery. I finally arrived in Guanaguana, where I was quickly 'adopted' by a group of locals, especially Rodolfo. He and Javier even took me by car to visit the nearby village of San Antonio and some attractions, including what I think was a 17th-century church. In the middle of the Carnival weekend, the square was lively and they introduced me to a lot of people; the street food guy gave me some hot dogs. Rodolfo also had me try the 'authentic' arepa, made from freshly ground corn, not industrialized corn flour. I slept at Rafucho's house, with a room all to myself. Great times in Guanaguana."
+  }
 }
-
   ]
 }
