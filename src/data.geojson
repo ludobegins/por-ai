@@ -1376,6 +1376,38 @@
     "notes_pt": "Jhonny, um ciclista que conheci em Maturín, e um amigo dele me acompanharam por algumas dezenas de km. Almocei em Aragua de Maturín, onde um outro ciclista Khan super gente boa me deu um monte de pão da padaria dele. Enfim cheguei em Guanaguana, onde fui rapidamente 'adotado' por um grupo de locais, especialmente pelo Rodolfo. Ele e o Javier até me levaram de carro pra passear pro vilarejo de San Antonio ali perto e visitamos algumas atrações, incluindo uma igreja do século 17 acho. Em pleno fim de semana de carnaval a praça estava animada e me apresentaram a um monte de gente, o camarada do podrão me deu uns cachorros quentes. Rodolfo também me fez experimentar a arepa raiz, do milho moído na hora, não da harina pan industrializada. Dormi na casa do Rafucho, com um quarto pra mim e tudo. Resenha boa em Guanaguana.",
     "notes_en": "Jhonny, a cyclist I met in Maturín, and a friend of his accompanied me for a few dozen km. I had lunch in Aragua de Maturín, where another very nice cyclist named Khan gave me a bunch of bread from his bakery. I finally arrived in Guanaguana, where I was quickly 'adopted' by a group of locals, especially Rodolfo. He and Javier even took me by car to visit the nearby village of San Antonio and some attractions, including what I think was a 17th-century church. In the middle of the Carnival weekend, the square was lively and they introduced me to a lot of people; the street food guy gave me some hot dogs. Rodolfo also had me try the 'authentic' arepa, made from freshly ground corn, not industrialized corn flour. I slept at Rafucho's house, with a room all to myself. Great times in Guanaguana."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.5188002, 10.1775632]
+  },
+  "properties": {
+    "place_name_pt": "Caripe, Monagas, Venezuela",
+    "place_name_en": "Caripe, Monagas, Venezuela",
+    "arrival_date": "16/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4791,
+    "notes_pt": "Subida mais íngreme da viagem até aqui! Mais de 1000 m de ganho de elevação pra chegar na bela cidadezinha de Caripe nas montanhas. Já fui direto pra famosa cueva del guácharo, uma caverna de 10 km de profundidade recheada de estalactitas, estalagmitas e milhares de guácharos, ave noturna típica da região. Também fiz a trilha pra pequena cachoeira ali ao lado. Fiquei até o anoitecer pra ver a saída em massa dos pássaros da caverna. Fui pra casa do Fernando, ciclista de MTB nativo de Caripe, onde pude acampar numa área externa com uma linda vista sobre o vale e a cidade. No dia seguinte dei uma volta pelos arredores, resolvi umas pendências e visitei o mirante de caripe. Também tirei quase um dia inteiro pra ficar só de boa ali na rede vendo a vista. Conversei com o Fernando, ele também ajudou a regular a marcha da minha bike.",
+    "notes_en": "The steepest climb of the trip so far! Over 1000 m of elevation gain to reach the beautiful mountain town of Caripe. I went straight to the famous Cueva del Guácharo, a 10 km deep cave filled with stalactites, stalagmites, and thousands of oilbirds (guácharos), a nocturnal bird typical of the region. I also hiked to the small waterfall nearby. I stayed until dusk to see the mass exit of the birds from the cave. I went to the home of Fernando, a mountain biker native to Caripe, where I was able to camp in an outdoor area with a beautiful view over the valley and the city. The next day I explored the surroundings, handled some errands, and visited the Caripe viewpoint. I also took almost an entire day just to relax in the hammock enjoying the view. I chatted with Fernando, and he also helped adjust my bike's gears."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.5349692, 10.2020106]
+  },
+  "properties": {
+    "place_name_pt": "San Agustín, Monagas, Venezuela",
+    "place_name_en": "San Agustín, Monagas, Venezuela",
+    "arrival_date": "18/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 4819,
+    "notes_pt": "Pertinho de Caripe, fui pra casa da família que toca o restaurante da cueva del guácharo, tínhamos batido papo no outro dia e me convidaram pra ir lá. Família meio venezuelana meio holandesa, vieram pra Venezuela recentemente após muitos anos na Europa. Tivemos papos interessantes e tocamos um pouco juntos, gaita, cuatro, violocelo e clarinete, um verdadeira orquestra. Fiz o passeio de uma manhã pra cachoeira chorreron, muito linda e com um bom poço pra nadar. Ah também comi minha primeira cachapa feita com milho que eles plantam, uma delícia. Obrigado Maria Virginia e família 🙌",
+    "notes_en": "Very close to Caripe, I went to the home of the family that runs the Cueva del Guácharo restaurant; we had chatted the other day and they invited me over. A half-Venezuelan, half-Dutch family, they moved to Venezuela recently after many years in Europe. We had interesting conversations and played music together—harmonica, cuatro, cello, and clarinet, a true orchestra. I took a morning trip to the Chorrerón waterfall, very beautiful with a nice pool for swimming. Oh, and I also ate my first cachapa made with corn they grow themselves, delicious. Thanks Maria Virginia and family 🙌"
+  }
 }
   ]
 }
