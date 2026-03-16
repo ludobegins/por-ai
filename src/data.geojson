@@ -1488,6 +1488,22 @@
     "notes_pt": "5000 km pedalados na viagem!!! 🥳🥳🥳 fui pra casa dos anfitriões do couchsurfing Victor e Génesis e filhos, passamos bons momentos, tinha duas viajantes europeias de carona também. Conheci a playa Parguito, muito boa, e a Care Care, minha preferida, água calma e cristalina e só tinha eu. Vi uma lebre de mar pela primeira vez. Também fui na ponta norte da ilha no cabo negro. Fiz as trilhas de bike mesmo, infelizmente com um espinho de um dos muitos cactos tive um furo no pneu.",
     "notes_en": "5000 km cycled on the trip!!! 🥳🥳🥳 I went to the home of Couchsurfing hosts Victor, Génesis, and their children; we had a great time, and there were two European hitchhikers there as well. I visited Playa Parguito, which was very good, and Care Care, my favorite—calm, crystal-clear water and I was the only one there. I saw a sea hare for the first time. I also went to the northern tip of the island at Cabo Negro. I did the trails by bike, but unfortunately, a thorn from one of the many cacti gave me a flat tire."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.829859, 11.0383756]
+  },
+  "properties": {
+    "place_name_pt": "Guacuco, Ilha de Margarita, Venezuela",
+    "place_name_en": "Guacuco, Margarita Island, Venezuela",
+    "arrival_date": "28/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5085,
+    "notes_pt": "Fiz mergulho na ilha de Cubagua! Incrível, dois naufrágios, bastante peixe. Passei o final de semana descansando de boa em casa e indo na praia de Guacuco, domingo de novo com o Jesus, conheci mais uns amigos dele do bairro.",
+    "notes_en": "I went diving on Cubagua Island! Incredible, two shipwrecks, plenty of fish. I spent the weekend relaxing at home and going to Guacuco beach, Sunday again with Jesus, meeting more of his friends from the neighborhood."
+  }
 }
   ]
 }
