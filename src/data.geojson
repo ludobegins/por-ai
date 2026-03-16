@@ -1568,6 +1568,38 @@
     "notes_pt": "Tchau Margarita, foi bom demais! De novo super vento nas costas até Punta de Piedras, segundo o strava fiz meu 2o tempo mais rápido no 40k rsrs. Mas rodei que eu comprei a passagem da lancha pra Cumaná online e chegando na hora descobri que cobravam 9$ pela bike, uma facada (na vinda de Chacopata não cobraram nada). Ainda bem brevemente revi o Nico, que embarcou pra Puerto La Cruz.",
     "notes_en": "Bye Margarita, it was great! Again super tailwind to Punta de Piedras; according to Strava, I did my 2nd fastest time on the 40k lol. But I got rolled because I bought the boat ticket to Cumaná online and upon arriving discovered they charged $9 for the bike, a rip-off (coming from Chacopata they charged nothing). Still, I briefly saw Nico again, who was boarding for Puerto La Cruz."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.1956861, 10.4437213]
+  },
+  "properties": {
+    "place_name_pt": "Cumaná, Sucre, Venezuela",
+    "place_name_en": "Cumaná, Sucre, Venezuela",
+    "arrival_date": "10/03/2026",
+    "transport_to_here": "boat",
+    "km_traveled": 5376,
+    "notes_pt": "Travessia tranquila de 2h de barco pra Cumaná, e pertinho já cheguei na posada tintorera azul do Héctor, que apoia viajantes também. Pude tomar um banho, fazer minha janta e armar minha rede no quintal, de frente pra praia. Até tive companhia de um dos gatinhos pra dormir 😻",
+    "notes_en": "A peaceful 2-hour boat crossing to Cumaná, and nearby I arrived at Héctor's Posada Tintorera Azul, who also supports travelers. I was able to take a shower, cook my dinner, and set up my hammock in the backyard, right in front of the beach. I even had one of the kittens for company while I slept 😻"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.4216173, 10.2855695]
+  },
+  "properties": {
+    "place_name_pt": "Santa Fé, Sucre, Venezuela",
+    "place_name_en": "Santa Fé, Sucre, Venezuela",
+    "arrival_date": "11/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5415,
+    "notes_pt": "Cheguei na posada 7 delfines, da qual já tinha ouvido muito falar por alguns viajantes e anfitriões. O Angelo também apoia viajantes por lá, e o lugar é realmente maravilhoso, literalmente na praia. Um lugar excelente pra relaxar e tomar banho de mar. De quebra ainda conheci a Rose e Zory, administradoras do grupo de apoio, com quem já havia trocado mensagens. Acabei passando uns dias lá, num deles fiz um passeio de barco incrível, vimos muitos golfinhos e fizemos snorkel numa praia com corais e muitos peixes. Bati bastante papo com a família de Caracas que vinha junto. E a pousada fica bem do lado do mercadão, onde se vende de tudo, inclusive peixe fresco a 1-2$ o kg. Também aproveitei pra fazer um pouco de manutenção na Nat.",
+    "notes_en": "I arrived at Posada 7 Delfines, which I had heard a lot about from some travelers and hosts. Angelo also supports travelers there, and the place is truly wonderful, literally on the beach. An excellent spot to relax and swim in the sea. To top it off, I met Rose and Zory, administrators of the support group I had messaged before. I ended up spending a few days there; on one of them, I took an amazing boat trip—we saw many dolphins and snorkeled at a beach with corals and lots of fish. I chatted a lot with the family from Caracas who were with us. And the posada is right next to the big market, where they sell everything, including fresh fish for $1-2 per kg. I also took the opportunity to do some maintenance on 'Nat'."
+  }
 }
   ]
 }
