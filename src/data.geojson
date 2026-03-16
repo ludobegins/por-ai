@@ -1472,6 +1472,22 @@
     "notes_pt": "Enfim os últimos 20 km pra chegar na sabana de guacuco, onde tive o luxo de ter um ap só pra mim, gentilmente emprestado pelo Olivier. Logo conheci Jesus e Yadira, os vizinhos amigos de baixo e tomei sopa com os outros vizinhos ao lado que consertam carros, Juan, Edgar... ainda tive tempo pra dar o primeiro tibum no Caribe! Amém 🙏 Domingão também foi de praia em Guacuco, linda, com o Jesus comédia resenha que conhece todo mundo na praia. Segunda fiz compras e de passeei de bike por Pampatar, com destaque pras salinas (até peguei um pouco de sal) e o farol na ponta.",
     "notes_en": "Finally, the last 20 km to reach the Sabana de Guacuco, where I had the luxury of having an apartment all to myself, kindly lent by Olivier. I soon met Jesus and Yadira, the friendly neighbors downstairs, and had soup with the other neighbors next door who fix cars, Juan, Edgar... I even had time for my first dip in the Caribbean! Amen 🙏 Sunday was also a beach day in Guacuco, beautiful, with Jesus—a funny guy who knows everyone on the beach. Monday I went shopping and cycled through Pampatar, with highlights being the salt flats (I even picked up some salt) and the lighthouse at the tip."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.8616267, 11.1105867]
+  },
+  "properties": {
+    "place_name_pt": "Plaza Paraguachi, Ilha de Margarita, Venezuela",
+    "place_name_en": "Plaza Paraguachi, Margarita Island, Venezuela",
+    "arrival_date": "24/02/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5046,
+    "notes_pt": "5000 km pedalados na viagem!!! 🥳🥳🥳 fui pra casa dos anfitriões do couchsurfing Victor e Génesis e filhos, passamos bons momentos, tinha duas viajantes europeias de carona também. Conheci a playa Parguito, muito boa, e a Care Care, minha preferida, água calma e cristalina e só tinha eu. Vi uma lebre de mar pela primeira vez. Também fui na ponta norte da ilha no cabo negro. Fiz as trilhas de bike mesmo, infelizmente com um espinho de um dos muitos cactos tive um furo no pneu.",
+    "notes_en": "5000 km cycled on the trip!!! 🥳🥳🥳 I went to the home of Couchsurfing hosts Victor, Génesis, and their children; we had a great time, and there were two European hitchhikers there as well. I visited Playa Parguito, which was very good, and Care Care, my favorite—calm, crystal-clear water and I was the only one there. I saw a sea hare for the first time. I also went to the northern tip of the island at Cabo Negro. I did the trails by bike, but unfortunately, a thorn from one of the many cacti gave me a flat tire."
+  }
 }
   ]
 }
