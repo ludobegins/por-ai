@@ -1536,6 +1536,38 @@
     "notes_pt": "Ainda com vento nas costas, cheguei rápido na ponta oeste da ilha, Punta Arenas. Encontrei o Nico, cicloviajante argentino, tínhamos falado por mensagem. Experiente, já rodando há 6 anos, por todos os países da América do Sul, e com a cachorra junto! Ele já estava acampado num restaurante na praia vazio, me juntei a ele e passamos o dia lá de boa, tirei um cochilo delícia na rede. Ele tentou pescar, sem sucesso. O pôr do sol sobre o mar foi espetacular. De noite ainda fizemos um som, violão e gaita, vendo a lua cheia! Não tivemos água doce pra tirar o sal, mas valeu muito a pena.",
     "notes_en": "Still with the wind at my back, I quickly reached the western tip of the island, Punta Arenas. I met Nico, an Argentine bike traveler we had messaged earlier. Experienced, he's been on the road for 6 years, through all South American countries, and with his dog along! He was already camped at an empty beach restaurant; I joined him and we spent the day relaxing—I took a delicious nap in the hammock. He tried to fish, without success. The sunset over the sea was spectacular. At night we even played some music, guitar and harmonica, watching the full moon! We didn't have fresh water to wash off the salt, but it was totally worth it."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-63.8303381, 11.0392197]
+  },
+  "properties": {
+    "place_name_pt": "Guacuco, Ilha de Margarita, Venezuela",
+    "place_name_en": "Guacuco, Margarita Island, Venezuela",
+    "arrival_date": "05/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5320,
+    "notes_pt": "Esse deve ter sido top 5 dias mais difíceis de pedal da viagem, quase 100 km sendo boa parte com sol forte e vento contra. Logo em boca del pozo pedi água nos bombeiros e acabei ganhando arepa, peixe e banana, foram super simpáticos. Passei por La Guardia e Juan Griego pra conhecer esse lado da ilha, parei um tempo numa praiazinha pra curtir e descansar, fui chegar 'em casa' só de noite. Último fim de semana tranquilo em Guacuco, fiz camarão na moranga pra Jesus e Yadira.",
+    "notes_en": "This must have been among the top 5 hardest riding days of the trip, almost 100 km with a good part under strong sun and headwind. Right in Boca del Pozo, I asked the firefighters for water and ended up getting arepa, fish, and banana; they were super friendly. I passed through La Guardia and Juan Griego to see that side of the island, stopped for a while at a small beach to enjoy and rest, and only arrived 'home' at night. Last quiet weekend in Guacuco, I made 'camarão na moranga' for Jesus and Yadira."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.0953216, 10.8988109]
+  },
+  "properties": {
+    "place_name_pt": "Punta de Piedras, Ilha de Margarita, Venezuela",
+    "place_name_en": "Punta de Piedras, Margarita Island, Venezuela",
+    "arrival_date": "10/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5370,
+    "notes_pt": "Tchau Margarita, foi bom demais! De novo super vento nas costas até Punta de Piedras, segundo o strava fiz meu 2o tempo mais rápido no 40k rsrs. Mas rodei que eu comprei a passagem da lancha pra Cumaná online e chegando na hora descobri que cobravam 9$ pela bike, uma facada (na vinda de Chacopata não cobraram nada). Ainda bem brevemente revi o Nico, que embarcou pra Puerto La Cruz.",
+    "notes_en": "Bye Margarita, it was great! Again super tailwind to Punta de Piedras; according to Strava, I did my 2nd fastest time on the 40k lol. But I got rolled because I bought the boat ticket to Cumaná online and upon arriving discovered they charged $9 for the bike, a rip-off (coming from Chacopata they charged nothing). Still, I briefly saw Nico again, who was boarding for Puerto La Cruz."
+  }
 }
   ]
 }
