@@ -1498,11 +1498,43 @@
   "properties": {
     "place_name_pt": "Guacuco, Ilha de Margarita, Venezuela",
     "place_name_en": "Guacuco, Margarita Island, Venezuela",
-    "arrival_date": "28/02/2026",
+    "arrival_date": "25/02/2026",
     "transport_to_here": "bicycle",
     "km_traveled": 5085,
-    "notes_pt": "Fiz mergulho na ilha de Cubagua! Incrível, dois naufrágios, bastante peixe. Passei o final de semana descansando de boa em casa e indo na praia de Guacuco, domingo de novo com o Jesus, conheci mais uns amigos dele do bairro.",
-    "notes_en": "I went diving on Cubagua Island! Incredible, two shipwrecks, plenty of fish. I spent the weekend relaxing at home and going to Guacuco beach, Sunday again with Jesus, meeting more of his friends from the neighborhood."
+    "notes_pt": "Fiz mergulho na ilha de Cubagua! Incrível, dois naufrágios, bastante peixe. Passei o final de semana descansando de boa em casa e indo na praia de Guacuco, domingo de novo com o Jesus, conheci mais uns amigos dele do bairro. Domingo fui visitar o centro histórico de la asunción e acabei me empolgando e subindo o cerro el copey, ponto mais alto da ilha, 900 m de elevação deu pra cansar legal as pernas. Vista bonita do topo pro lado de Porlamar e do outro lado Juan Griego",
+    "notes_en": "I went diving on Cubagua Island! Incredible, two shipwrecks, plenty of fish. I spent the weekend relaxing at home and going to Guacuco beach, Sunday again with Jesus, meeting more of his friends from the neighborhood. Sunday I went to visit the historic center of La Asunción and ended up getting excited and climbing Cerro El Copey, the highest point of the island—900 m of elevation gain definitely tired my legs out. Beautiful view from the top towards Porlamar and on the other side towards Juan Griego."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.2244659, 10.9469824]
+  },
+  "properties": {
+    "place_name_pt": "Guayacancito, Península de Macanao, Venezuela",
+    "place_name_en": "Guayacancito, Macanao Peninsula, Venezuela",
+    "arrival_date": "02/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5185,
+    "notes_pt": "Começa a exploração de Macanao, o oeste da ilha! Fui rápido com o vento nas costas, visitei o museo marino de boca del rio e cheguei no rancho cabatucan de cavalos, onde me hospedaram gratuitamente. Pude descansar, tinha até piscina! No dia seguinte à tarde explorei umas trilhas de bike, divertidas e com belas vistas.",
+    "notes_en": "The exploration of Macanao, the west of the island, begins! I rode fast with the wind at my back, visited the Marine Museum of Boca del Rio, and arrived at the Cabatucan horse ranch, where they hosted me for free. I was able to rest; there was even a pool! The next afternoon, I explored some bike trails—fun and with beautiful views."
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.4050882, 10.9795215]
+  },
+  "properties": {
+    "place_name_pt": "Punta Arenas, Península de Macanao, Venezuela",
+    "place_name_en": "Punta Arenas, Macanao Peninsula, Venezuela",
+    "arrival_date": "04/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5222,
+    "notes_pt": "Ainda com vento nas costas, cheguei rápido na ponta oeste da ilha, Punta Arenas. Encontrei o Nico, cicloviajante argentino, tínhamos falado por mensagem. Experiente, já rodando há 6 anos, por todos os países da América do Sul, e com a cachorra junto! Ele já estava acampado num restaurante na praia vazio, me juntei a ele e passamos o dia lá de boa, tirei um cochilo delícia na rede. Ele tentou pescar, sem sucesso. O pôr do sol sobre o mar foi espetacular. De noite ainda fizemos um som, violão e gaita, vendo a lua cheia! Não tivemos água doce pra tirar o sal, mas valeu muito a pena.",
+    "notes_en": "Still with the wind at my back, I quickly reached the western tip of the island, Punta Arenas. I met Nico, an Argentine bike traveler we had messaged earlier. Experienced, he's been on the road for 6 years, through all South American countries, and with his dog along! He was already camped at an empty beach restaurant; I joined him and we spent the day relaxing—I took a delicious nap in the hammock. He tried to fish, without success. The sunset over the sea was spectacular. At night we even played some music, guitar and harmonica, watching the full moon! We didn't have fresh water to wash off the salt, but it was totally worth it."
   }
 }
   ]
