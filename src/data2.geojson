@@ -64,6 +64,22 @@
     "notes_pt": "Saindo de Boca de Uchire, já entrei no Estado Miranda! Tive dezenas de km de estrada bastante movimentada, um pouco estressante, além do mais sob sol forte. A PAJI foi num ponto de ônibus num vilarejo. Troquei ideia com trabalhadores da obra de asfaltar a pista, me deram água gelada. Após a bifurcação em El Guapo pra estrada secundária, ficou bem mais tranquilo, pouco movimento e fim de tarde. Pedi apoio com os bombeiros em San José de Barlavento. Não tinha onde armar a rede direito, acabei dormindo dentro de um caminhão dos bombeiros, talvez o lugar mais inusitado onde dormi",
     "notes_en": "Leaving Boca de Uchire, I've already entered Miranda State! I had dozens of km of very busy road, a bit stressful, especially under strong sun. The PAJI (lunch break) was at a bus stop in a village. I chatted with workers paving the road; they gave me cold water. After the fork in El Guapo to the secondary road, it became much quieter, with little traffic and late afternoon light. I asked for support from the firefighters in San José de Barlavento. There was nowhere to properly hang the hammock, so I ended up sleeping inside a fire truck—perhaps the most unusual place I've ever slept"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-66.530924, 10.457651]
+  },
+  "properties": {
+    "place_name_pt": "Guatire, Miranda, Venezuela",
+    "place_name_en": "Guatire, Miranda, Venezuela",
+    "arrival_date": "22/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5777,
+    "notes_pt": "Manhã tranquila, a pausa foi em Caucagua. Provei uma comida que esqueci o nome, mas tipo uma pamonha com chicharrón. Depois foi voltar pra autopista movimentada até Guatire, onde fiquei nos bombeiros de novo. Mas ali era um prédio grande, com vários andares e melhor estrutura. Tive chuveiro, pude usar a cozinha e me deram um colchão pra dormir, dentro da academia deles.",
+    "notes_en": "Quiet morning, the break was in Caucagua. I tried a food whose name I forgot, but like a 'pamonha' with chicharrón. Then it was back to the busy highway until Guatire, where I stayed with the firefighters again. But there it was a large building with several floors and better structure. I had a shower, was able to use the kitchen, and they gave me a mattress to sleep on, inside their gym."
+  }
 }
   ]
 }
