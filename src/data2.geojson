@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-64.628848, 10.204985]
+  },
+  "properties": {
+    "place_name_pt": "Puerto La Cruz, Anzoátegui, Venezuela",
+    "place_name_en": "Puerto La Cruz, Anzoátegui, Venezuela",
+    "arrival_date": "15/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5453,
+    "notes_pt": "Ótimos dias em Puerto La Cruz com Rose e Zory! Cozinhamos juntos, passeamos pela cidade, inclusive de bike, e finalmente conheci pessoalmente o Diego, cicloviajante brasileiro com quem eu já estava em contato há um tempo. Fomos na praia em Lechería. Rose e eu também fomos juntos levar as bikes na manutenção na casa do camarada, passamos horas lá, almoçamos, batemos papo enquanto chovia fora. Assistimos a vitória histórica da Venezuela contra os Estados Unidos no mundial de baseball! Também foi um alívio poder falar português após 2 meses quase só de espanhol.",
+    "notes_en": "Great days in Puerto La Cruz with Rose and Zory! We cooked together, toured the city—including by bike—and I finally met Diego in person, a Brazilian bike traveler I’d been in touch with for a while. We went to the beach in Lechería. Rose and I also went together to take our bikes for maintenance at a friend's house; we spent hours there, had lunch, and chatted while it rained outside. We watched Venezuela's historic victory against the United States in the World Baseball Classic! It was also a relief to speak Portuguese after almost 2 months of mostly Spanish."
+  }
+}
+  ]
+}
