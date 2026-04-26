@@ -96,6 +96,22 @@
     "notes_pt": "A longa subida de Guarenas pra Caracas realmente fez jus à sua reputação. Cheguei na capital! Fui direto no parque del este e plaza altamira, onde conheci um senhor que conhecia o lendário ciclista venezuelano José Rujano desde moleque. Dei uma volta de bike com a María Alejandra, pela Plaza Venezuela, Universidad Central e Paseo los Próceres. Bel e Maurício, brasileiros, do MST, me receberam 4 noites na casa deles em Ciudad Tiuna, num condomínio de moradias populares do governo, bem interessante de conhecer. Eles estavam bastante ocupados com o trabalho então acabamos nos vendo pouco. Passeei bastante por Caracas, nos museus de arte, ciências e casa de Simón Bolívar. Fiz revisão na Nat e comprei um pneu novo, pois o traseiro estava danificado (mas guardei ele de estepe), assim acabei usando bastante transporte público, inclusive metrô pela primeira vez na viagem. Passeei uma tarde com o Angel do Couchsurfing por sabana grande e chacao, ele me convidou pra comer arepas rellenas.",
     "notes_en": "The long climb from Guarenas to Caracas really lived up to its reputation. I made it to the capital! I went straight to Parque del Este and Plaza Altamira, where I met a man who had known the legendary Venezuelan cyclist José Rujano since he was a kid. I went for a bike ride with María Alejandra through Plaza Venezuela, Central University, and Paseo los Próceres. Bel and Maurício, Brazilians from the MST, hosted me for 4 nights at their home in Ciudad Tiuna, in a government social housing complex, which was very interesting to see. They were very busy with work, so we didn't see each other much. I explored Caracas quite a bit—art and science museums and Simon Bolívar's house. I tuned up 'Nat' and bought a new tire because the rear one was damaged (but I kept it as a spare), so I ended up using public transport quite a bit, including the metro for the first time on the trip. I spent an afternoon with Angel from Couchsurfing around Sabana Grande and Chacao, and he treated me to filled arepas."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-67.469855, 10.218762]
+  },
+  "properties": {
+    "place_name_pt": "Turmero, Aragua, Venezuela",
+    "place_name_en": "Turmero, Aragua, Venezuela",
+    "arrival_date": "27/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5967,
+    "notes_pt": "A saída de Caracas foi tão puxada quanto a chegada, com forte subida, esta até mais íngreme mas um pouco mais curta. Depois fui recompensado com descidas divertidas com bela vista pras montanhas. A PAJI foi num posto vazio sujo e meio fedido mas bem tranquilo e com ótima sombra. As últimas dezenas de km foram na autopista movimentada Caracas-Maracay, e tive um pneu furado, frustrante pois era o primeiro dia rodando com o pneu CST novo. Remendei e cheguei em Turmero, pernoitei com os simpáticos bombeiros (eram só 2) com direito a colchão. Minha massa ficou horrivelmente amarga, talvez pela água, me obriguei a comer porque tava com fome, mas um pouco ficou pros cachorros.",
+    "notes_en": "The exit from Caracas was just as tough as the arrival, with a steep climb—this one even steeper but a bit shorter. Later I was rewarded with fun descents and beautiful mountain views. The PAJI (lunch break) was at an empty, dirty, and somewhat smelly station, but it was very quiet and had great shade. The last few dozen km were on the busy Caracas-Maracay highway, and I had a flat tire—frustrating since it was the first day riding with the new CST tire. I patched it and reached Turmero, staying overnight with the friendly firefighters (there were only 2) on a mattress. My pasta turned out horribly bitter, maybe because of the water; I forced myself to eat because I was hungry, but some went to the dogs."
+  }
 }
   ]
 }
