@@ -80,6 +80,22 @@
     "notes_pt": "Manhã tranquila, a pausa foi em Caucagua. Provei uma comida que esqueci o nome, mas tipo uma pamonha com chicharrón. Depois foi voltar pra autopista movimentada até Guatire, onde fiquei nos bombeiros de novo. Mas ali era um prédio grande, com vários andares e melhor estrutura. Tive chuveiro, pude usar a cozinha e me deram um colchão pra dormir, dentro da academia deles.",
     "notes_en": "Quiet morning, the break was in Caucagua. I tried a food whose name I forgot, but like a 'pamonha' with chicharrón. Then it was back to the busy highway until Guatire, where I stayed with the firefighters again. But there it was a large building with several floors and better structure. I had a shower, was able to use the kitchen, and they gave me a mattress to sleep on, inside their gym."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-66.92085, 10.4312]
+  },
+  "properties": {
+    "place_name_pt": "Caracas, Distrito Capital, Venezuela",
+    "place_name_en": "Caracas, Capital District, Venezuela",
+    "arrival_date": "23/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5847,
+    "notes_pt": "A longa subida de Guarenas pra Caracas realmente fez jus à sua reputação. Cheguei na capital! Fui direto no parque del este e plaza altamira, onde conheci um senhor que conhecia o lendário ciclista venezuelano José Rujano desde moleque. Dei uma volta de bike com a María Alejandra, pela Plaza Venezuela, Universidad Central e Paseo los Próceres. Bel e Maurício, brasileiros, do MST, me receberam 4 noites na casa deles em Ciudad Tiuna, num condomínio de moradias populares do governo, bem interessante de conhecer. Eles estavam bastante ocupados com o trabalho então acabamos nos vendo pouco. Passeei bastante por Caracas, nos museus de arte, ciências e casa de Simón Bolívar. Fiz revisão na Nat e comprei um pneu novo, pois o traseiro estava danificado (mas guardei ele de estepe), assim acabei usando bastante transporte público, inclusive metrô pela primeira vez na viagem. Passeei uma tarde com o Angel do Couchsurfing por sabana grande e chacao, ele me convidou pra comer arepas rellenas.",
+    "notes_en": "The long climb from Guarenas to Caracas really lived up to its reputation. I made it to the capital! I went straight to Parque del Este and Plaza Altamira, where I met a man who had known the legendary Venezuelan cyclist José Rujano since he was a kid. I went for a bike ride with María Alejandra through Plaza Venezuela, Central University, and Paseo los Próceres. Bel and Maurício, Brazilians from the MST, hosted me for 4 nights at their home in Ciudad Tiuna, in a government social housing complex, which was very interesting to see. They were very busy with work, so we didn't see each other much. I explored Caracas quite a bit—art and science museums and Simon Bolívar's house. I tuned up 'Nat' and bought a new tire because the rear one was damaged (but I kept it as a spare), so I ended up using public transport quite a bit, including the metro for the first time on the trip. I spent an afternoon with Angel from Couchsurfing around Sabana Grande and Chacao, and he treated me to filled arepas."
+  }
 }
   ]
 }
