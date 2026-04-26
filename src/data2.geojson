@@ -32,6 +32,22 @@
     "notes_pt": "Dia quente, estrada movimentada. Passei por zonas de extração petrolífera. PAJI (Pausa Almoço e Janela Infernal) num posto perto de Puerto Piritu, minha marmita descongelada de arroz com feijão. Tinha pensado em parar em Clarines, mas tava com pique e fui até reencontrar o mar em La Cerca, onde Miguel e sua família me receberam calorosamente e deram jantar (arepa com camarão fresco da lagoa!)",
     "notes_en": "Hot day, busy road. Passed through oil extraction zones. PAJI (Lunch Break and Infernal Window) at a station near Puerto Piritu, with my thawed rice and beans lunchbox. I had thought about stopping in Clarines, but I had the energy and went until reuniting with the sea in La Cerca, where Miguel and his family welcomed me warmly and gave me dinner (arepa with fresh shrimp from the lagoon!)"
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-65.391573, 10.130191]
+  },
+  "properties": {
+    "place_name_pt": "Boca de Uchire, Anzoátegui, Venezuela",
+    "place_name_en": "Boca de Uchire, Anzoátegui, Venezuela",
+    "arrival_date": "20/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5609,
+    "notes_pt": "Só 1 horinha de pedalada de manhã e já cheguei na pousada boca beach, ponto de apoio famoso entre viajantes. Me deram até uma suíte com ar condicionado! Dei aula de francês, pude usar a cozinha e relaxei na praia de tarde. De noite fizeram um churrasco e rolou uma resenha.",
+    "notes_en": "Only 1 hour of cycling in the morning and I already arrived at the Boca Beach posada, a famous support point among travelers. They even gave me a suite with air conditioning! I gave a French lesson, was able to use the kitchen, and relaxed on the beach in the afternoon. At night they had a barbecue and we hung out."
+  }
 }
   ]
 }
