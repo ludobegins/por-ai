@@ -112,6 +112,22 @@
     "notes_pt": "A saída de Caracas foi tão puxada quanto a chegada, com forte subida, esta até mais íngreme mas um pouco mais curta. Depois fui recompensado com descidas divertidas com bela vista pras montanhas. A PAJI foi num posto vazio sujo e meio fedido mas bem tranquilo e com ótima sombra. As últimas dezenas de km foram na autopista movimentada Caracas-Maracay, e tive um pneu furado, frustrante pois era o primeiro dia rodando com o pneu CST novo. Remendei e cheguei em Turmero, pernoitei com os simpáticos bombeiros (eram só 2) com direito a colchão. Minha massa ficou horrivelmente amarga, talvez pela água, me obriguei a comer porque tava com fome, mas um pouco ficou pros cachorros.",
     "notes_en": "The exit from Caracas was just as tough as the arrival, with a steep climb—this one even steeper but a bit shorter. Later I was rewarded with fun descents and beautiful mountain views. The PAJI (lunch break) was at an empty, dirty, and somewhat smelly station, but it was very quiet and had great shade. The last few dozen km were on the busy Caracas-Maracay highway, and I had a flat tire—frustrating since it was the first day riding with the new CST tire. I patched it and reached Turmero, staying overnight with the friendly firefighters (there were only 2) on a mattress. My pasta turned out horribly bitter, maybe because of the water; I forced myself to eat because I was hungry, but some went to the dogs."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-68.1939837, 10.4985337]
+  },
+  "properties": {
+    "place_name_pt": "Morón, Carabobo, Venezuela",
+    "place_name_en": "Morón, Carabobo, Venezuela",
+    "arrival_date": "28/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 6078,
+    "notes_pt": "6000 km completados e entrada no estado Carabobo! Minha estadia em Morón foi inesperada e memorável. Após uma baita descida de serra e 110 km pedalados, cheguei no fim de tarde e fui super bem recebido pelos bombeiros, com jantar, chuveiros, colchão e ar condicionado. No dia seguinte de manhã, fui com eles pra um evento de corrida 5k organizado pela prefeitura. Até participei, mas caminhando pra poupar minhas pernas cansadas. Até conheci a prefeita e o chefe dos bombeiros da região, e fui entrevistado. O Luis, irmão da prefeita, me levou pra comer empanada de pabellón, acho que foi a mais gostosa que comi na Venezuela! Ele me mostrou o boneco de Judas que seria queimado na semana seguinte, uma tradição clássica da cidade. Troquei ideia com um camarada de uma rádio e ele me entrevistou também. Depois de um almoço e cochilo no dormitório dos bombeiros, me levaram pra manga de coleo, onde rolou um evento dessa tradicional vaquejada llanera. Ganhei uma sopa e dei a terceira entrevista do dia, me sentindo famoso já kkk. Assisti ao coleo na 'área vip' com alguns oficiais. Foi realmente impressionante de ver a habilidade dos cavaleiros, mas fiquei com dó dos touros.",
+    "notes_en": "6000 km completed and entry into Carabobo state! My stay in Morón was unexpected and memorable. After a massive descent and 110 km of riding, I arrived in the late afternoon and was warmly welcomed by the firefighters with dinner, showers, a mattress, and AC. The next morning, I went with them to a 5k run organized by the city. I even participated, but walking to save my tired legs. I met the mayor and the regional fire chief, and was interviewed. Luis, the mayor's brother, took me for a pabellón empanada—the best I've had in Venezuela! He showed me the Judas doll for the burning tradition the following week. I chatted with a guy from a radio station and he interviewed me too. After lunch and a nap, they took me to the 'manga de coleo' for a traditional llanera rodeo. I got some soup and did my third interview of the day, feeling like a celebrity lol. I watched the 'coleo' from the VIP area with some officers. The riders' skill was impressive, though I felt bad for the bulls."
+  }
 }
   ]
 }
