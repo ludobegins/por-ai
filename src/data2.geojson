@@ -48,6 +48,22 @@
     "notes_pt": "Só 1 horinha de pedalada de manhã e já cheguei na pousada boca beach, ponto de apoio famoso entre viajantes. Me deram até uma suíte com ar condicionado! Dei aula de francês, pude usar a cozinha e relaxei na praia de tarde. De noite fizeram um churrasco e rolou uma resenha.",
     "notes_en": "Only 1 hour of cycling in the morning and I already arrived at the Boca Beach posada, a famous support point among travelers. They even gave me a suite with air conditioning! I gave a French lesson, was able to use the kitchen, and relaxed on the beach in the afternoon. At night they had a barbecue and we hung out."
   }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-65.99329, 10.305659]
+  },
+  "properties": {
+    "place_name_pt": "San José de Barlavento, Miranda, Venezuela",
+    "place_name_en": "San José de Barlavento, Miranda, Venezuela",
+    "arrival_date": "21/03/2026",
+    "transport_to_here": "bicycle",
+    "km_traveled": 5699,
+    "notes_pt": "Saindo de Boca de Uchire, já entrei no Estado Miranda! Tive dezenas de km de estrada bastante movimentada, um pouco estressante, além do mais sob sol forte. A PAJI foi num ponto de ônibus num vilarejo. Troquei ideia com trabalhadores da obra de asfaltar a pista, me deram água gelada. Após a bifurcação em El Guapo pra estrada secundária, ficou bem mais tranquilo, pouco movimento e fim de tarde. Pedi apoio com os bombeiros em San José de Barlavento. Não tinha onde armar a rede direito, acabei dormindo dentro de um caminhão dos bombeiros, talvez o lugar mais inusitado onde dormi",
+    "notes_en": "Leaving Boca de Uchire, I've already entered Miranda State! I had dozens of km of very busy road, a bit stressful, especially under strong sun. The PAJI (lunch break) was at a bus stop in a village. I chatted with workers paving the road; they gave me cold water. After the fork in El Guapo to the secondary road, it became much quieter, with little traffic and late afternoon light. I asked for support from the firefighters in San José de Barlavento. There was nowhere to properly hang the hammock, so I ended up sleeping inside a fire truck—perhaps the most unusual place I've ever slept"
+  }
 }
   ]
 }
