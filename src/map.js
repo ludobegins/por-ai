@@ -31,135 +31,148 @@ function addJourneyData(map) {
     }
     map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 2 });
 
-    fetch('data.geojson')
-        .then(response => response.json())
-        .then(data => {
-            if (!map.getSource('journey-points')) {
-                map.addSource('journey-points', {
-                    type: 'geojson',
-                    data: data
-                });
-            }
+    Promise.all([
+        fetch('data.geojson').then(response => response.json()),
+        fetch('data2.geojson').then(response => response.json())
+    ])
+    .then(([data1, data2]) => {
+        const allFeatures = [...data1.features, ...data2.features];
 
-            if (!map.getLayer('points-layer')){
-                map.addLayer({
-                    id: 'points-layer',
-                    type: 'circle',
-                    source: 'journey-points',
-                    paint: {
-                        'circle-radius': 8,
-                        'circle-stroke-width': 1,
-                        'circle-color': '#007cbf',
-                        'circle-stroke-color': 'white'
-                    }
-                });
-            }
+        const combinedData = {
+            type: 'FeatureCollection',
+            features: allFeatures
+        };
 
-            const routeLines = [];
-            const points = data.features;
-
-            for (let i = 1; i < points.length; i++) {
-                const startPoint = points[i - 1].geometry.coordinates;
-                const endPoint = points[i].geometry.coordinates;
-                const transport = points[i].properties.transport_to_here;
-
-                routeLines.push({
-                    type: 'Feature',
-                    geometry: {
-                        type: 'LineString',
-                        coordinates: [startPoint, endPoint]
-                    },
-                    properties: {
-                        transport: transport
-                    }
-                });
-            }
-
-            if (!map.getSource('route-lines')){
-                map.addSource('route-lines', {
-                    type: 'geojson',
-                    data: {
-                        type: 'FeatureCollection',
-                        features: routeLines
-                    }
-                });
-            }
-
-            if (!map.getLayer('lines-layer')){
-                map.addLayer({
-    id: 'lines-layer',
-    type: 'line',
-    source: 'route-lines',
-    layout: {
-        'line-join': 'round',
-        'line-cap': 'round'
-    },
-    paint: {
-        'line-width': 3,
-        'line-color': [
-            'match',
-            ['get', 'transport'],
-            'bicycle', '#ff7e5f',
-            'boat', '#00a8cc',
-            'truck', '#d97706',
-            '#ff7e5f'
-        ],
-        'line-dasharray': [
-            'case',
-            ['==', ['get', 'transport'], 'boat'],
-            ['literal', [2, 2]],
-            ['==', ['get', 'transport'], 'truck'],
-            ['literal', [4, 2]],
-            ['literal', []]
-        ]
-    }
-});
-            }
-
-            const popup = new mapboxgl.Popup({
-                closeButton: false,
-                closeOnClick: false
+        if (!map.getSource('journey-points')) {
+            map.addSource('journey-points', {
+                type: 'geojson',
+                data: combinedData
             });
+        }
 
-            map.on('mouseenter', 'points-layer', (e) => {
-                map.getCanvas().style.cursor = 'pointer';
-
-                const coordinates = e.features[0].geometry.coordinates.slice();
-                const properties = e.features[0].properties;
-
-                while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-                    coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        if (!map.getLayer('points-layer')){
+            map.addLayer({
+                id: 'points-layer',
+                type: 'circle',
+                source: 'journey-points',
+                paint: {
+                    'circle-radius': 8,
+                    'circle-stroke-width': 1,
+                    'circle-color': '#007cbf',
+                    'circle-stroke-color': 'white'
                 }
+            });
+        }
 
-                const langSuffix = currentLanguage === 'pt-br' ? '_pt' : '_en';
-                const place_name = properties['place_name' + langSuffix] || properties['place_name_pt'];
-                const notes = properties['notes' + langSuffix] || properties['notes_pt'];
-                const arrivalLabel = translations[currentLanguage]['arrival-label'];
+        const routeLines = [];
+        const points = allFeatures; 
 
-                let kmInfoHTML = '';
-                if (properties.hasOwnProperty('km_traveled') && typeof properties.km_traveled === 'number') {
-                    const kmLabel = translations[currentLanguage]['km-label'];
-                    if (properties.km_traveled > 0) {
-                    kmInfoHTML = `<span class="popup-km">${kmLabel}: ${properties.km_traveled} km</span>`;
-                    }
+        for (let i = 1; i < points.length; i++) {
+            const startPoint = points[i - 1].geometry.coordinates;
+            const endPoint = points[i].geometry.coordinates;
+            const transport = points[i].properties.transport_to_here || 'bicycle';
+
+            routeLines.push({
+                type: 'Feature',
+                geometry: {
+                    type: 'LineString',
+                    coordinates: [startPoint, endPoint]
+                },
+                properties: {
+                    transport: transport
                 }
-
-                const popupContent = `
-                    <h3>${place_name}</h3>
-                    <strong class="popup-date">${arrivalLabel}: ${properties.arrival_date}</strong>
-                    ${kmInfoHTML}
-                    <p>${notes}</p>
-                `;
-
-                popup.setLngLat(coordinates).setHTML(popupContent).addTo(map);
             });
+        }
 
-            map.on('mouseleave', 'points-layer', () => {
-                map.getCanvas().style.cursor = '';
-                popup.remove();
+        if (!map.getSource('route-lines')){
+            map.addSource('route-lines', {
+                type: 'geojson',
+                data: {
+                    type: 'FeatureCollection',
+                    features: routeLines
+                }
             });
+        }
+
+        if (!map.getLayer('lines-layer')){
+            map.addLayer({
+                id: 'lines-layer',
+                type: 'line',
+                source: 'route-lines',
+                layout: {
+                    'line-join': 'round',
+                    'line-cap': 'round'
+                },
+                paint: {
+                    'line-width': 3,
+                    'line-color': [
+                        'match',
+                        ['get', 'transport'],
+                        'bicycle', '#ff7e5f',
+                        'boat', '#00a8cc',
+                        'truck', '#d97706',
+                        '#ff7e5f'
+                    ],
+                    'line-dasharray': [
+                        'case',
+                        ['==', ['get', 'transport'], 'boat'],
+                        ['literal', [2, 2]],
+                        ['==', ['get', 'transport'], 'truck'],
+                        ['literal', [4, 2]],
+                        ['literal', []]
+                    ]
+                }
+            });
+        }
+
+        const popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
         });
+
+        map.on('mouseenter', 'points-layer', (e) => {
+            map.getCanvas().style.cursor = 'pointer';
+
+            const coordinates = e.features[0].geometry.coordinates.slice();
+            const properties = e.features[0].properties;
+
+            while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+                coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+            }
+
+            const langSuffix = currentLanguage === 'pt-br' ? '_pt' : '_en';
+            const place_name = properties['place_name' + langSuffix] || properties['place_name_pt'];
+            const notes = properties['notes' + langSuffix] || properties['notes_pt'];
+            const arrivalLabel = translations[currentLanguage]['arrival-label'];
+
+            let kmInfoHTML = '';
+            if (properties.hasOwnProperty('km_traveled') && typeof properties.km_traveled === 'number') {
+                const kmLabel = translations[currentLanguage]['km-label'];
+                if (properties.km_traveled > 0) {
+                    kmInfoHTML = `<span class="popup-km">${kmLabel}: ${properties.km_traveled} km</span>`;
+                }
+            }
+
+            const popupContent = `
+                <h3>${place_name}</h3>
+                <strong class="popup-date">${arrivalLabel}: ${properties.arrival_date}</strong>
+                ${kmInfoHTML}
+                <p>${notes}</p>
+            `;
+
+            popup.setLngLat(coordinates).setHTML(popupContent).addTo(map);
+        });
+
+        map.on('mouseleave', 'points-layer', () => {
+            map.getCanvas().style.cursor = '';
+            popup.remove();
+        });
+    })
+    .catch(error => {
+        console.error("Erro ao carregar os arquivos GeoJSON:", error);
+    });
 }
+
 
 map.on('load', () => {
     addJourneyData(map);
